@@ -5,20 +5,17 @@
 
 main:
   - name: About
-    url: tour
+    url: people
     weight: 10
   - name: Research
-    url: post
+    url: research
     weight: 20
   - name: Publications
     url: publication
     weight: 30
-  - name: People
-    url: people
-    weight: 40
   - name: News
-    url: event
-    weight: 50
+    url: post
+    weight: 40
   - name: Contact
     url: contact
-    weight: 60
+    weight: 50
