@@ -9,25 +9,6 @@ design:
   spacing: "6rem"
 
 sections:
- - block: hero
-    content:
-      title: Urban Analytics and Interventions Research Lab
-      text: A research lab advancing urban intelligibility
-
-    design:
-      spacing:
-        padding: [0, 0, 0, 0]
-        margin: [0, 0, 0, 0]
-      # For full-screen, add `min-h-screen` below
-      css_class: ""
-      background:
-        color: ""
-        image:
-          # Add your image background to `assets/media/`.
-          filename: ""
-          filters:
-            brightness: 0.5
-
   - block: hero
     content:
       title: |
