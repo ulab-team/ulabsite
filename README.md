@@ -1,2 +1,2 @@
-# [Hugo Research Group Theme]
+# Urban Analytics and Interventions Research Lab
 team website
