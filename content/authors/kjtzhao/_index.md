@@ -22,24 +22,19 @@ organizations:
     url: ''
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include distributed robotics, mobile computing and programmable matter.
+bio: I am a postdoc fellow (incoming) in uLab and the Department of Urban Planning and Design, HKU. I have an interdisciplinary background, combining a PhD in Tactical Urbanism from The University of Hong Kong (HKU), a Master of Urban Spatial Analytics from the University of Pennsylvania, and a Bachelor of Science in Landscape Architecture from the University of Wisconsin-Madison.
 
 interests:
-  - Artificial Intelligence
-  - Computational Linguistics
-  - Information Retrieval
+  - Street Experiment
+  - Urban Experimentation
+  - Urban Design
 
 education:
   courses:
-    - course: PhD in Artificial Intelligence
-      institution: Stanford University
-      year: 2012
-    - course: MEng in Artificial Intelligence
-      institution: Massachusetts Institute of Technology
-      year: 2009
-    - course: BSc in Artificial Intelligence
-      institution: Massachusetts Institute of Technology
-      year: 2008
+    - course: PhD in Urban Planning and Design
+      institution: The University of Hong Kong
+      year: 2024
+
 
 # Social/Academic Networking
 # For available icons, see: https://docs.hugoblox.com/getting-started/page-builder/#icons
@@ -51,13 +46,11 @@ social:
     link: 'mailto:test@example.org'
   - icon: twitter
     icon_pack: fab
-    link: https://twitter.com/GeorgeCushen
+    link: https://x.com/zhao_jianting
   - icon: google-scholar
     icon_pack: ai
-    link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
-  - icon: github
-    icon_pack: fab
-    link: https://github.com/gcushen
+    link: https://scholar.google.com/citations?hl=en&user=7yCkLbcAAAAJ
+
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
 # - icon: cv
@@ -73,6 +66,4 @@ user_groups:
   - Researchers
 ---
 
-吳恩達 is a professor of artificial intelligence at the Stanford AI Lab. His research interests include distributed robotics, mobile computing and programmable matter. He leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
-
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate.
+Jianting's research combines advanced technologies and innovative methodologies to enhance liveability and foster smart and sustainable urban futures. Her PhD project on urban experimentation challenges traditional design paradigms through a global analysis of tactical urbanism (Awarded Outstanding Rating, Top 5%). Her expertise in programming (Python, R, JavaScript) and spatial analytics deepened during her master's training in Pennsylvania. It was further enhanced through research roles at top universities and a leading geospatial technology firm (Azavea Inc.). She established a strong Landscape Architecture foundation through the ASLA-accredited programme from the University of Wisconsin-Madison and professional practices at leading firms (e.g., EDSA Inc.). She has published 9 peer-reviewed articles in journals, including Environment and Planning B, Landscape and Urban Planning, and five more in the pipeline. Her research won awards, including the Royal Town Planning Institute Commendation in Research Excellence 2022, HKU Research Output Prize 2022, and IACP Best Student Paper 2021. She has co-investigated funding totalling HK$204,500 (£20,160).

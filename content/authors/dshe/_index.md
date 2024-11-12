@@ -14,7 +14,7 @@ authors:
 superuser: false
 
 # Role/position
-role: PhD candidate
+role: PhD Candidate
 
 # Organizations/Affiliations
 organizations:
@@ -35,9 +35,7 @@ education:
     - course: M.Phil in Architecture
       institution: University of Cambridge
       year: 2021
-    - course: BSc in Urban Planning
-      institution: Sun Yat-Sen University
-      year: 2020
+
 
 # Social/Academic Networking
 # For available icons, see: https://docs.hugoblox.com/getting-started/page-builder/#icons
