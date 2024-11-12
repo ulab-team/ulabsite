@@ -24,21 +24,9 @@ sections:
       text: |
         <br>
       
-        The **Urban Analytics and Interventions Research Lab** brings the state of the art urban causal research since its founding in 2021. 
+        The **Urban Analytics and Interventions Research Lab** brings the state of the art urban causal research since its founding in 2021.
 
-
-  - block: cta-image-paragraph
-    id: about
-    content:
-      items:
-      - title: About us
-        text: A policy research led by Dr Guibo Sun. dsggf srtrt sdfd ytygfd aerth gfdrgre.
-        # Upload image to `assets/media/` and reference the filename here
-        image: bg3.jpg
-        button:
-          text: More info
-          url: about/
-
+        
   - block: collection
     content:
       title: Latest News
