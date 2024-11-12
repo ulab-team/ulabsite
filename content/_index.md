@@ -13,6 +13,15 @@ sections:
     content:
       title: Urban Analytics and Interventions Research Lab
       text: A research lab advancing urban intelligibility
+      
+    design:
+      spacing:
+        padding: [0, 0, 0, 0]
+        margin: [0, 0, 0, 0]
+      # For full-screen, add `min-h-screen` below
+      css_class: "dark"
+      background:
+        color: "navy"
 
 
   - block: hero
