@@ -26,25 +26,38 @@ sections:
       
         The **Urban Analytics and Interventions Research Lab** brings the state of the art urban causal research since its founding in 2021.
 
-        
+
   - block: collection
+    id: res
     content:
-      title: Latest News
-      subtitle:
-      text:
-      count: 5
+      title: research directions
+      subtitle: ''
+      text: 'these are our major research directions'
+      # Choose how many pages you would like to display (0 = all pages)
+      count: 0
+      # Filter on criteria
       filters:
-        author: ''
-        category: ''
+        # The folders to display content from
+        folders:
+          - research
+        author: ""
+        category: ""
+        tag: ""
+        publication_type: ""
+        featured_only: false
         exclude_featured: false
-        publication_type: ''
-        tag: ''
+        exclude_future: false
+        exclude_past: false
+      # Choose how many pages you would like to offset by
+      # Useful if you wish to show the first item in the Featured widget
       offset: 0
-      order: desc
-      page_type: post
+      # Field to sort by, such as Date or Title
+      sort_by: 'Date'
+      sort_ascending: false
     design:
+      # Choose a listing view
       view: card
-      columns: '1'
+      columns: '3'
   
   - block: markdown
     content:
@@ -68,7 +81,7 @@ sections:
 
   - block: collection
     content:
-      title: Latest Preprints
+      title: Recent Publications
       text: ""
       count: 5
       filters:
