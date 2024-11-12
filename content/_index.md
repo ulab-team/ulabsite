@@ -41,7 +41,7 @@ sections:
     content:
       title: Research Areas
       subtitle: ''
-      text: 'these are our major research directions'
+      text: The uLab's research is interdisciplinary on urban analytics, empirical social science, human geography, architecture, and urban studies and planning.'
       # Choose how many pages you would like to display (0 = all pages)
       count: 0
       # Filter on criteria

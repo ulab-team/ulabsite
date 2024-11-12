@@ -1,12 +1,6 @@
 ---
-title: Transport urban rail system
-summary: rail system urban brings health benefits
-date: 2024-11-11
-authors:
-  - admin
-tags:
-  - Hugo Blox
-  - Markdown
+title: Transport
+summary: We are investigating street experiments that bridge mobility and public space to look at how short-term actions lead to long-term changes.
 
 # Featured image
 # Place an image named `featured.jpg/png` in this page's folder and customize its options here.
