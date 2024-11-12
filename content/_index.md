@@ -16,8 +16,8 @@ sections:
       
     design:
       spacing:
-        padding: [0, 0, 0, 0]
-        margin: [0, 0, 0, 0]
+        padding: [5, 5, 5, 5]
+        margin: [10, 10, 10, 10]
       # For full-screen, add `min-h-screen` below
       css_class: "dark"
       background:
@@ -33,13 +33,13 @@ sections:
       text: |
         <br>
       
-        The **Urban Analytics and Interventions Research Lab** brings the state of the art urban causal research since its founding in 2021.
+        **Urban Analytics and Interventions Research Lab** aims to apply urban analytics to longitudinal data generated from built environment interventions (e.g., open space, new metro, urban renewal). Using rigorous research designs such as natural experiments, we are interested in collecting practice-based evidence of the social and health impacts imposed by urban planning and design. With the scientific evidence and situated knowledge in local contexts, we aim to facilitate evidence-based policies and practices in place-making.
 
 
   - block: collection
     id: res
     content:
-      title: research directions
+      title: Research Areas
       subtitle: ''
       text: 'these are our major research directions'
       # Choose how many pages you would like to display (0 = all pages)
