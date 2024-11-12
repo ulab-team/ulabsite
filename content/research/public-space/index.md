@@ -1,6 +1,6 @@
 ---
-title: Urban Public Space
-summary: Public space is important, street experiment aims for transformation
+title: Street & Public Space
+summary: We are investigating street experiments that bridge mobility and public space functions to look at how short-term actions lead to long-term changes.
 date: 2024-11-11
 authors:
   - admin

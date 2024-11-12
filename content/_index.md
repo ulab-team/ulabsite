@@ -19,9 +19,9 @@ sections:
         padding: [15, 15, 15, 15]
         margin: [10, 10, 10, 10]
       # For full-screen, add `min-h-screen` below
-      css_class: "dark"
+
       background:
-        color: "beige"
+        color: "Grey"
 
 
   - block: hero
