@@ -4,12 +4,34 @@ title:
 date: 2024-11-12
 type: landing
 
+design:
+  # Default section spacing
+  spacing: "6rem"
+
 sections:
+ - block: hero
+    content:
+      title: Urban Analytics and Interventions Research Lab
+      text: A research lab advancing urban intelligibility
+
+    design:
+      spacing:
+        padding: [0, 0, 0, 0]
+        margin: [0, 0, 0, 0]
+      # For full-screen, add `min-h-screen` below
+      css_class: ""
+      background:
+        color: ""
+        image:
+          # Add your image background to `assets/media/`.
+          filename: ""
+          filters:
+            brightness: 0.5
+
   - block: hero
     content:
       title: |
-        Urban Analytics and Interventions 
-        Research Lab
+        About us
       image:
         filename: aesthetic_viz.png
       text: |
@@ -17,6 +39,18 @@ sections:
         
         The **Urban Analytics and Interventions Research Lab** brings the state of the art urban causal research since its founding in 2021.
   
+    - block: cta-image-paragraph
+      id: about
+      content:
+       items:
+        - title: About us
+          text: A policy research led by Dr Guibo Sun. dsggf srtrt sdfd ytygfd aerth gfdrgre.
+          # Upload image to `assets/media/` and reference the filename here
+          image: bg3.jpg
+          button:
+            text: More info
+            url: about/
+
   - block: collection
     content:
       title: Latest News
