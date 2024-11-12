@@ -27,7 +27,7 @@ sections:
           filename: ""
           filters:
             brightness: 0.5
-
+"""
   - block: hero
     content:
       title: |
@@ -36,9 +36,10 @@ sections:
         filename: aesthetic_viz.png
       text: |
         <br>
-        
+      
         The **Urban Analytics and Interventions Research Lab** brings the state of the art urban causal research since its founding in 2021.
-  
+"""   
+
     - block: cta-image-paragraph
       id: about
       content:
