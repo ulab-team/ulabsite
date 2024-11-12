@@ -18,28 +18,25 @@ role: PI, Assistant Professor
 
 # Organizations/Affiliations
 organizations:
-  - name: University
+  - name: The University of Hong Kong
     url: ''
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include distributed robotics, mobile computing and programmable matter.
+bio: My research establishes essential urban data, new methodologies, and causal evidence to extend the scientific understanding of the institutions and outcomes of large-scale interventions, contributing to healthy, equitable, and sustainable cities. 
 
-interests:
-  - Artificial Intelligence
-  - Computational Linguistics
-  - Information Retrieval
+recognitions:
+  - 2023 Lincoln Institute China Program International Fellowship (US)
+  - 2022 HKU Faculty Teaching Award
+  - 2021 HKU Research Output Prize
+  - 2021 Royal Town Planning Institute (RTPI) Research Excellence Commended  Award (the UK)
+  - 2019 RTPI Early Career Academic Award, Winner
+  - 2019 RTPI Research Excellence Commended Award (commendation for highest scoring entry across all categories)
 
-education:
-  courses:
-    - course: PhD in Artificial Intelligence
-      institution: Stanford University
-      year: 2012
-    - course: MEng in Artificial Intelligence
-      institution: Massachusetts Institute of Technology
-      year: 2009
-    - course: BSc in Artificial Intelligence
-      institution: Massachusetts Institute of Technology
-      year: 2008
+teaching:
+  - URBS1004 Urban Analytics Studio
+  - URBP7008 Strategic and Community Planning Studio
+  - CCCH9002 Chinese Cities in the 21st Century
+
 
 # Social/Academic Networking
 # For available icons, see: https://docs.hugoblox.com/getting-started/page-builder/#icons
@@ -49,15 +46,10 @@ social:
   - icon: envelope
     icon_pack: fas
     link: 'mailto:test@example.org'
-  - icon: twitter
-    icon_pack: fab
-    link: https://twitter.com/GeorgeCushen
   - icon: google-scholar
     icon_pack: ai
-    link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
-  - icon: github
-    icon_pack: fab
-    link: https://github.com/gcushen
+    link: https://scholar.google.com/citations?hl=en&user=7b5H3oAAAAAJ
+
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
 # - icon: cv
@@ -73,6 +65,6 @@ user_groups:
   - Principal Investigators
 ---
 
-吳恩達 is a professor of artificial intelligence at the Stanford AI Lab. His research interests include distributed robotics, mobile computing and programmable matter. He leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
+I am an Assistant Professor and the founding director of Urban Analytics and Interventions Research Lab at the University of Hong Kong. My research interests in urban development and sustainability lie at the interfaces of urban planning, land policy, transportation, and public health. The social, economic and health impacts of large-scale interventions, such as new metro infrastructure, urban renewal, large-block gated communities, and global street experiments, are profound. I specialise in using natural experiments to infer the causality of such impacts. I am also interested in the institution and governance of the infrastructure provisions, using experimental economics approaches to formulating the decision-making processes in local governments.
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate.
+My research establishes essential urban data, new methodologies, and causal evidence to extend the scientific understanding of the institutions and outcomes of large-scale interventions, contributing to healthy, equitable, and sustainable cities. My work has won several prestigious awards, including the US Lincoln Institute China Program International Fellowship in 2023, three academic awards for research excellence from the UK’s Royal Town Planning Institute (RTPI) in 2019 and 2021, and HKU Research Output Prize in 2021. Moreover, I received HKU Faculty Teaching Award 2022 for my teaching dedication and innovative pedagogy. I am an associate editor of the Journal of Transport & Health.

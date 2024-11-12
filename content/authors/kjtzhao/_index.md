@@ -3,7 +3,7 @@
 title: Dr Kristen Zhao
 
 # Full name (for SEO)
-first_name: Kristen J.T.
+first_name: Kristen Jianting
 last_name: Zhao
 
 # Username (this should match the folder name)
@@ -18,7 +18,7 @@ role: Postdoc Fellow
 
 # Organizations/Affiliations
 organizations:
-  - name: University
+  - name: The University of Hong Kong
     url: ''
 
 # Short bio (displayed in user profile at end of posts)

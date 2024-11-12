@@ -21,6 +21,7 @@ sections:
       # For full-screen, add `min-h-screen` below
 
       background:
+        css_class: "dark"
         color: "Grey"
 
 
@@ -61,12 +62,12 @@ sections:
       # Useful if you wish to show the first item in the Featured widget
       offset: 0
       # Field to sort by, such as Date or Title
-      sort_by: 'Date'
-      sort_ascending: false
+      sort_by: 'Title'
+      sort_ascending: True
     design: 
       spacing:
         padding: [15, 15, 15, 15]
-        margin: [10, 10, 10, 10]
+        margin: [20, 20, 20, 20]
 
       # Choose a listing view
       view: card
