@@ -16,12 +16,12 @@ sections:
       
     design:
       spacing:
-        padding: [5, 5, 5, 5]
+        padding: [15, 15, 15, 15]
         margin: [10, 10, 10, 10]
       # For full-screen, add `min-h-screen` below
       css_class: "dark"
       background:
-        color: "navy"
+        color: "beige"
 
 
   - block: hero
@@ -29,7 +29,7 @@ sections:
       title: |
         About us
       image:
-        filename: aesthetic_viz.png
+        filename: street_collage.JPG
       text: |
         <br>
       
@@ -41,7 +41,7 @@ sections:
     content:
       title: Research Areas
       subtitle: ''
-      text: The uLab's research is interdisciplinary on urban analytics, empirical social science, human geography, architecture, and urban studies and planning.'
+      text: **We are interdisciplinary.** uLab's research employs urban analytics, empirical social science, human geography, architecture, and urban studies and planning.
       # Choose how many pages you would like to display (0 = all pages)
       count: 0
       # Filter on criteria
@@ -63,22 +63,28 @@ sections:
       # Field to sort by, such as Date or Title
       sort_by: 'Date'
       sort_ascending: false
-    design:
+    design: 
+      spacing:
+        padding: [15, 15, 15, 15]
+        margin: [10, 10, 10, 10]
+
       # Choose a listing view
       view: card
-      columns: '3'
+      columns: '1'
   
 
   
   - block: collection
     content:
       title: Recent Publications
-      text: ""
+
       count: 5
       filters:
         folders:
           - publication
         publication_type: 'article'
+      text: |
+        {{% cta cta_link="./publication/" cta_text="See full record →" %}}  
     design:
       view: citation
       columns: '1'
