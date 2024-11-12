@@ -1,21 +1,21 @@
 ---
 # Leave the homepage title empty to use the site title
-title:
-date: 2022-10-24
+title: 
+date: 2024-11-12
 type: landing
 
 sections:
   - block: hero
     content:
       title: |
-        Wowchemy
-        Research Group
+        Urban Analytics and Interventions 
+        Research Lab
       image:
-        filename: welcome.jpg
+        filename: aesthetic_viz.png
       text: |
         <br>
         
-        The **Wowchemy Research Group** has been a center of excellence for Artificial Intelligence research, teaching, and practice since its founding in 2016.
+        The **Urban Analytics and Interventions Research Lab** brings the state of the art urban causal research since its founding in 2021.
   
   - block: collection
     content:
