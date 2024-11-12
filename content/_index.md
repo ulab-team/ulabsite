@@ -41,7 +41,7 @@ sections:
     content:
       title: Research Areas
       subtitle: ''
-      text: **We are interdisciplinary.** uLab's research employs urban analytics, empirical social science, human geography, architecture, and urban studies and planning.
+      text: We are interdisciplinary. uLab's research employs urban analytics, empirical social science, human geography, architecture, and urban studies and planning.
       # Choose how many pages you would like to display (0 = all pages)
       count: 0
       # Filter on criteria
