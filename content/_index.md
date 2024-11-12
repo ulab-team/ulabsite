@@ -9,7 +9,7 @@ design:
   spacing: "6rem"
 
 sections:
- - block: hero
+  - block: hero
     content:
       title: Urban Analytics and Interventions Research Lab
       text: A research lab advancing urban intelligibility
