@@ -4,9 +4,6 @@ summary: We are interested in urban renewal, and use changes in housing and neig
 date: 2024-11-11
 authors:
   - admin
-tags:
-  - Hugo Blox
-  - Markdown
 
 # Featured image
 # Place an image named `featured.jpg/png` in this page's folder and customize its options here.
@@ -14,10 +11,12 @@ image:
   caption: 'Image credit: [**me**]'
 ---
 
-###Housing, social, and health effects
+### Housing, social, and health effects
+
 We are particularly interested in urban redevelopment in high-density cities and use the changes in housing and neighbourhoods as complex interventions to investigate the longitudinal effects on the mental health and wellbeing of the residents.
 
 {{< toc mobile_only=true is_open=true >}}
+
 
 ## Research Objectives
 
@@ -34,8 +33,7 @@ We are particularly interested in urban redevelopment in high-density cities and
 - When later life faces urban redevelopment
 - Healthy urban rehabilitation through social innovation
 
-## Recent Work
-
+## Completed Work
 - Central role of the qualitative method
 - Mental health and wellbeing of relocated elderly farmers
 - Ungating the city for a sustainable future
