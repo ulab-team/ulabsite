@@ -69,10 +69,7 @@ sections:
         margin: [20, 20, 20, 20]
 
       # Choose a listing view
-      view: card
-      columns: '3'
-  
-
+      view: showcase
   
   - block: collection
     content:
