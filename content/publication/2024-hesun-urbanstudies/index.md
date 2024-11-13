@@ -27,7 +27,7 @@ summary: We used metro planning knowledge, reasoning on pursuits in land finance
 tags:
 - natural experiment
 
-featured: True
+featured: true
 
 # links:
 # - name: ""

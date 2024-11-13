@@ -18,7 +18,7 @@ publishDate: "2024-11-13T00:00:00Z"
 publication_types: ["article-journal"]
 
 # Publication name and optional abbreviated publication name.
-publication: "_Landscape and Urban Planning_"
+publication: "_Landscape and Urban Planning, 242_"
 publication_short: ""
 
 # Summary. An optional shortened abstract.
@@ -27,7 +27,7 @@ summary: This study adds geospatial information to pandemic-induced street exper
 tags:
 - street experiment
 
-featured: True
+featured: true
 
 # links:
 # - name: ""

@@ -1,16 +1,13 @@
 ---
-title: "Does subjective wellbeing modify travel behaviour changes among older people in response to a new metro line?"
+title: "New metro and subjective wellbeing among older people: A natural experiment in Hong Kong"
 authors:
-- ydu
 - gbsun
-- Eva Heinen
-
+- ydu
 author_notes:
-- ""
 - "Corresponding Author"
 - ""
-date: '2024-05-01'
-doi: "10.1016/j.landurbplan.2023.104931"
+date: "2023-03-01T00:00:00Z"
+doi: "10.1016/j.tra.2023.103592"
 
 # Schedule page publish date (NOT publication's date).
 publishDate: "2024-11-13T00:00:00Z"
@@ -21,17 +18,16 @@ publishDate: "2024-11-13T00:00:00Z"
 publication_types: ["article-journal"]
 
 # Publication name and optional abbreviated publication name.
-publication: "_Journal of Transport Geography, 117_"
+publication: "_Transportation Research Part A: Policy and Practice, 169_"
 publication_short: ""
 
 # Summary. An optional shortened abstract.
-summary: This research aims to estimate how subjective wellbeing at baseline would affect the changes in travel behaviour among older people due to a new public transport infrastructure. 
+summary: This paper provided causal inference on the effects of public transport infrastructure on evaluative, hedonic and eudaimonic wellbeing among older adults using a natural experiment of a new metro line in Hong Kong. 
 
 tags:
-- wellbeing
 - natural experiment
 
-featured: false
+featured: true
 
 # links:
 # - name: ""

@@ -1,16 +1,15 @@
 ---
-title: "Does subjective wellbeing modify travel behaviour changes among older people in response to a new metro line?"
+title: "Natural experiments in healthy cities research: how can urban planning and design knowledge reinforce the causal inference?"
 authors:
-- ydu
 - gbsun
-- Eva Heinen
-
+- Eun Yeong Choe
+- Chris Webster
 author_notes:
-- ""
 - "Corresponding Author"
 - ""
-date: '2024-05-01'
-doi: "10.1016/j.landurbplan.2023.104931"
+- ""
+date: "2023-01-01T00:00:00Z"
+doi: "10.3828/tpr.2022.14"
 
 # Schedule page publish date (NOT publication's date).
 publishDate: "2024-11-13T00:00:00Z"
@@ -21,17 +20,16 @@ publishDate: "2024-11-13T00:00:00Z"
 publication_types: ["article-journal"]
 
 # Publication name and optional abbreviated publication name.
-publication: "_Journal of Transport Geography, 117_"
+publication: "_Town Planning Review, 94_(1)"
 publication_short: ""
 
 # Summary. An optional shortened abstract.
-summary: This research aims to estimate how subjective wellbeing at baseline would affect the changes in travel behaviour among older people due to a new public transport infrastructure. 
+summary: We build a conceptual model, with the legal assignment of treatment and control groups and random distribution of confounders (LARD principle) to demonstrate how urban planning and design knowledge can help discover strong natural experiments to reinforce the causal inference in healthy cities research.
 
 tags:
-- wellbeing
 - natural experiment
 
-featured: false
+featured: true
 
 # links:
 # - name: ""
@@ -51,8 +49,7 @@ image:
 #   Simply enter your project's folder or file name without extension.
 #   E.g. `internal-project` references `content/project/internal-project/index.md`.
 #   Otherwise, set `projects: []`.
-projects: 
-- causal-mediation-analysis
+projects: []
 
 ---
 

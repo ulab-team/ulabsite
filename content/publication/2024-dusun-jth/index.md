@@ -18,7 +18,7 @@ publishDate: "2024-11-12T00:00:00Z"
 publication_types: ["article-journal"]
 
 # Publication name and optional abbreviated publication name.
-publication: "_Journal of Transport & Health_"
+publication: "_Journal of Transport & Health, 38_"
 publication_short: ""
 
 # Summary. An optional shortened abstract.
@@ -27,7 +27,7 @@ summary: This research aims to unravel the pathways linking transport with eudai
 tags:
 - Causal Inference
 - Wellbeing
-featured: True
+featured: true
 
 # links:
 # - name: ""
