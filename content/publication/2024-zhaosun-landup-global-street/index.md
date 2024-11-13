@@ -1,16 +1,16 @@
 ---
-title: "Causal mediation analysis of social and environmental factors in pathways from a metro intervention to eudaimonic wellbeing among older people"
+title: "Global Street Experiment: A Geospatial Database of Pandemic-induced Street Transitions"
 authors:
-- ydu
+- kjtzhao
 - gbsun
 author_notes:
 - "The University of Hong Kong"
 - "Corresponding Author, The University of Hong Kong"
-date: "2024-06-26T00:00:00Z"
-doi: "https://doi.org/10.1016/j.jth.2024.101844"
+date: "2023-11-03T00:00:00Z"
+doi: "https://doi.org/10.1016/j.landurbplan.2023.104931"
 
 # Schedule page publish date (NOT publication's date).
-publishDate: "2024-11-12T00:00:00Z"
+publishDate: "2024-11-13T00:00:00Z"
 
 # Publication type.
 # Accepts a single type but formatted as a YAML list (for Hugo requirements).
@@ -18,33 +18,27 @@ publishDate: "2024-11-12T00:00:00Z"
 publication_types: ["article-journal"]
 
 # Publication name and optional abbreviated publication name.
-publication: "*Journal of Transport & Health*, (38)"
-publication_short: "J. Transp Health"
+publication: "_Landscape and Urban Planning_, (242)"
+publication_short: "Land UP"
 
 # Summary. An optional shortened abstract.
-summary: This research aims to unravel the pathways linking transport with eudaimonic wellbeing among older people, considering the mediating role of social and environmental factors.
+summary: This study adds geospatial information to pandemic-induced street experiments.
 
 tags:
-- Causal Inference
-- Wellbeing
+- street experiment
+
 featured: True
 
 # links:
 # - name: ""
 #   url: ""
-url_pdf: http://arxiv.org/pdf/1512.04133v1
-url_code: 'https://github.com/HugoBlox/hugo-blox-builder'
-url_dataset: ''
-url_poster: ''
 url_project: ''
-url_slides: ''
-url_source: 'https://doi.org/10.1016/j.jth.2024.101844'
-url_video: ''
+url_source: 'https://doi.org/10.1016/j.landurbplan.2023.104931'
 
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder. 
 image:
-  caption: 'Figure 1. Conceptual Model'
+  caption: 'Visualisation of street experiment locations during the pandemic outbreak'
   focal_point: ""
   preview_only: false
 
@@ -63,16 +57,6 @@ projects: []
 slides: example
 ---
 
-### Abstract
+## Abstract
 
-## Background
-This research aims to unravel the pathways linking transport with eudaimonic wellbeing among older people, considering the mediating role of social and environmental factors.
-
-## Methods
-We focused on outcomes across six dimensions of eudaimonic wellbeing:/ self-acceptance, autonomy, positive relations with others, environmental mastery, purpose in life, and personal growth. Using a new metro line as a natural experiment, we collected cohort data of 449 older adults before and after the opening of a new metro line. The treatment group consisted of participants living within the 400-m buffer zones surrounding the new metro stations, while the control group consisted of those living in comparable station catchments. The mediators include social engagement and environmental perception. We first used difference-in-difference (DID) models to estimate the metro's direct influence on these eudaimonic elements. Causal mediation analyses were then conducted to delved into how the social and environmental factors mediated these effects.
-
-## Result
-The new metro enhanced the treatment group's environmental mastery, life purpose, and self-acceptance (p < 0.05). These improvements were partly attributed to promoted social engagement and improved environmental perceptions triggered by the metro development (p < 0.05). Notably, the environmental perceptions demonstrated a stronger mediating effect than the social factors.
-
-## Discussion and conclusion
-Transport interventions could effectively counteract the age-related eudaimonic decline. The enhancement of environmental perceptions played a key role in the effectiveness of the metro intervention. Our findings contribute to the understanding of casual mechanisms of transport and wellbeing which is vital for developing transport policies and projects that address the needs of an ageing population."
+Street experiment is a tactical urbanism practice that involves implementing temporary changes in street use through regulatory or physical interventions, aimed at people-centric street transition. During the Covid-19 pandemic, cities worldwide implemented street experiments to accommodate the need for socially-distanced physical and commercial activities. However, we know little about the locations and urban environments of these pandemic-induced street experiments on a global scale. This knowledge gap hinders us from understanding where these experiments took place, the conditions of the neighbourhoods involved, and the factors contributing to their longevity beyond the pandemic. We thus developed a geospatial database to document the pandemic-induced street experiments (PISE Database), enabling quantitative analysis of these interventions. We mapped the locations and calculated the neighbourhood environment attributes of 539 street experiments in 333 cities. Our contributions are twofold. Firstly, we enhanced the comparability of built environment indicators between cities, thereby advancing the construction of global geospatial datasets. Specifically, we established a standardised template encompassing unified neighbourhood-level built environment indicators and methodologies, for which we devised relative values to facilitate comparisons between different cities and defined study areas using the 15-minute walking city and Urban Centre concepts. Secondly, we conducted primary analyses based on spatial and temporal visualisations of the street experiment locations and durations, shedding light on locational patterns and development trajectories during times of crisis. This global, quantitative approach complements the growing body of local and often qualitative studies. Our work improves existing global quantitative databases and provides a robust foundation for future research on tactical urbanism.
