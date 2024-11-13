@@ -71,10 +71,11 @@ sections:
       # Choose a listing view
       view: showcase
       flip_alt_rows: false
+      columns: '3'
   
   - block: collection
     content:
-      title: Recent Publications
+      title: Featured Publications
 
       count: 5
       filters:
@@ -85,7 +86,7 @@ sections:
         {{% cta cta_link="./publication/" cta_text="See full record →" %}}  
     design:
       view: citation
-      columns: '1'
+      columns: '3'
 
   - block: markdown
     content:

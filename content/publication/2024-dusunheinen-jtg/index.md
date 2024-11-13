@@ -1,13 +1,16 @@
 ---
-title: "Global Street Experiment: A Geospatial Database of Pandemic-induced Street Transitions"
+title: "Does subjective wellbeing modify travel behaviour changes among older people in response to a new metro line?"
 authors:
-- kjtzhao
+- dyu
 - gbsun
+- Eva Heinen
+
 author_notes:
-- "The University of Hong Kong"
-- "Corresponding Author, The University of Hong Kong"
-date: "2024-02-01T00:00:00Z"
-doi: "https://doi.org/10.1016/j.landurbplan.2023.104931"
+- ""
+- "Corresponding Author"
+- ""
+date: '2024-05-01'
+doi: "10.1016/j.landurbplan.2023.104931"
 
 # Schedule page publish date (NOT publication's date).
 publishDate: "2024-11-13T00:00:00Z"
@@ -18,16 +21,17 @@ publishDate: "2024-11-13T00:00:00Z"
 publication_types: ["article-journal"]
 
 # Publication name and optional abbreviated publication name.
-publication: "_Landscape and Urban Planning"
+publication: "_Journal of Transport Geography_"
 publication_short: ""
 
 # Summary. An optional shortened abstract.
-summary: This study adds geospatial information to pandemic-induced street experiments.
+summary: This research aims to estimate how subjective wellbeing at baseline would affect the changes in travel behaviour among older people due to a new public transport infrastructure. 
 
 tags:
-- street experiment
+- wellbeing
+- natural experiment
 
-featured: True
+featured: false
 
 # links:
 # - name: ""

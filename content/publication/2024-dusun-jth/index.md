@@ -4,8 +4,8 @@ authors:
 - ydu
 - gbsun
 author_notes:
-- "The University of Hong Kong"
-- "Corresponding Author, The University of Hong Kong"
+- ""
+- "Corresponding Author"
 date: "2024-09-01T00:00:00Z"
 doi: "https://doi.org/10.1016/j.jth.2024.101844"
 
@@ -32,7 +32,12 @@ featured: True
 # links:
 # - name: ""
 #   url: ""
+url_dataset: ''
+url_poster: ''
 url_project: ''
+url_slides: ''
+url_source: ''
+url_video: ''
 
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder. 
@@ -46,7 +51,8 @@ image:
 #   Simply enter your project's folder or file name without extension.
 #   E.g. `internal-project` references `content/project/internal-project/index.md`.
 #   Otherwise, set `projects: []`.
-projects: []
+projects: 
+- causal-mediation-analysis
 
 ---
 
