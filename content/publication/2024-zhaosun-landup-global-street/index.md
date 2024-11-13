@@ -6,7 +6,7 @@ authors:
 author_notes:
 - "The University of Hong Kong"
 - "Corresponding Author, The University of Hong Kong"
-date: "2023-11-03T00:00:00Z"
+date: "2024-02-01T00:00:00Z"
 doi: "https://doi.org/10.1016/j.landurbplan.2023.104931"
 
 # Schedule page publish date (NOT publication's date).
@@ -18,8 +18,8 @@ publishDate: "2024-11-13T00:00:00Z"
 publication_types: ["article-journal"]
 
 # Publication name and optional abbreviated publication name.
-publication: "_Landscape and Urban Planning_, (242)"
-publication_short: "Land UP"
+publication: "_Landscape and Urban Planning"
+publication_short: ""
 
 # Summary. An optional shortened abstract.
 summary: This study adds geospatial information to pandemic-induced street experiments.
@@ -33,7 +33,7 @@ featured: True
 # - name: ""
 #   url: ""
 url_project: ''
-url_source: 'https://doi.org/10.1016/j.landurbplan.2023.104931'
+
 
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder. 
@@ -49,12 +49,6 @@ image:
 #   Otherwise, set `projects: []`.
 projects: []
 
-# Slides (optional).
-#   Associate this publication with Markdown slides.
-#   Simply enter your slide deck's filename without extension.
-#   E.g. `slides: "example"` references `content/slides/example/index.md`.
-#   Otherwise, set `slides: ""`.
-slides: example
 ---
 
 ## Abstract

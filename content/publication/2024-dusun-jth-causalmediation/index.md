@@ -6,7 +6,7 @@ authors:
 author_notes:
 - "The University of Hong Kong"
 - "Corresponding Author, The University of Hong Kong"
-date: "2024-06-26T00:00:00Z"
+date: "2024-09-01T00:00:00Z"
 doi: "https://doi.org/10.1016/j.jth.2024.101844"
 
 # Schedule page publish date (NOT publication's date).
@@ -18,8 +18,8 @@ publishDate: "2024-11-12T00:00:00Z"
 publication_types: ["article-journal"]
 
 # Publication name and optional abbreviated publication name.
-publication: "*Journal of Transport & Health*, (38)"
-publication_short: "J. Transp Health"
+publication: "_Journal of Transport & Health_"
+publication_short: ""
 
 # Summary. An optional shortened abstract.
 summary: This research aims to unravel the pathways linking transport with eudaimonic wellbeing among older people, considering the mediating role of social and environmental factors.
@@ -33,14 +33,13 @@ featured: True
 # - name: ""
 #   url: ""
 url_project: ''
-url_source: 'https://doi.org/10.1016/j.jth.2024.101844'
 
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder. 
 image:
   caption: 'Figure 1. Conceptual Model'
   focal_point: ""
-  preview_only: true
+  preview_only: false
 
 # Associated Projects (optional).
 #   Associate this publication with one or more of your projects.
