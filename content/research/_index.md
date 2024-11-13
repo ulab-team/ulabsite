@@ -2,7 +2,8 @@
 title: Research areas
 
 # Listing view
-view: compact
+view: card
+column: '3'
 
 # Optional banner image (relative to `assets/media/` folder).
 banner:
