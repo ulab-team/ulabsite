@@ -1,6 +1,6 @@
 ---
 # Display name
-title: Dr Yao Du
+title: Yao Du
 
 # Full name (for SEO)
 first_name: Yao

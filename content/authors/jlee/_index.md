@@ -1,6 +1,6 @@
 ---
 # Display name
-title: Dr Jieun Lee
+title: Jieun Lee
 
 # Full name (for SEO)
 first_name: Jieun

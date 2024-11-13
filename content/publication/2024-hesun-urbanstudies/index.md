@@ -1,16 +1,13 @@
 ---
-title: "Does subjective wellbeing modify travel behaviour changes among older people in response to a new metro line?"
+title: "New metro and housing price and rent premiums: A natural experiment in China"
 authors:
-- ydu
+- dshe
 - gbsun
-- Eva Heinen
-
 author_notes:
 - ""
 - "Corresponding Author"
-- ""
-date: '2024-05-01'
-doi: "10.1016/j.landurbplan.2023.104931"
+date: "2024-05-01T00:00:00Z"
+doi: "10.1177/00420980231208560"
 
 # Schedule page publish date (NOT publication's date).
 publishDate: "2024-11-13T00:00:00Z"
@@ -21,17 +18,16 @@ publishDate: "2024-11-13T00:00:00Z"
 publication_types: ["article-journal"]
 
 # Publication name and optional abbreviated publication name.
-publication: "_Journal of Transport Geography_"
+publication: "_Urban Studies, 61_(7)"
 publication_short: ""
 
 # Summary. An optional shortened abstract.
-summary: This research aims to estimate how subjective wellbeing at baseline would affect the changes in travel behaviour among older people due to a new public transport infrastructure. 
+summary: We used metro planning knowledge, reasoning on pursuits in land finance and engineering efficiency to verify the as-if randomness of the treatment–control group assignment in the natural experiment to reinforce the power of causal inference.
 
 tags:
-- wellbeing
 - natural experiment
 
-featured: false
+featured: True
 
 # links:
 # - name: ""
