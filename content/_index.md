@@ -63,14 +63,14 @@ sections:
       # Field to sort by, such as Date or Title
       sort_by: 'Title'
       sort_ascending: True
-    design: 
+    design:
       spacing:
         padding: [15, 15, 15, 15]
         margin: [20, 20, 20, 20]
 
       # Choose a listing view
-      view: card
-      columns: '1'
+      view: article-grid
+      columns: 3
   
 
   
