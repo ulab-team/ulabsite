@@ -69,8 +69,8 @@ sections:
         margin: [20, 20, 20, 20]
 
       # Choose a listing view
-      view: article-grid
-      columns: 3
+      view: card
+      columns: '3'
   
 
   
