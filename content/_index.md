@@ -13,6 +13,15 @@ sections:
     content:
       title: Urban Analytics and Interventions Research Lab
       text: A research lab advancing urban intelligibility
+      
+    design:
+      spacing:
+        padding: [15, 15, 15, 15]
+        margin: [10, 10, 10, 10]
+      # For full-screen, add `min-h-screen` below
+      css_class: "dark"
+      background:
+        color: "Grey"
 
 
   - block: hero
@@ -20,19 +29,19 @@ sections:
       title: |
         About us
       image:
-        filename: aesthetic_viz.png
+        filename: street_collage.JPG
       text: |
         <br>
       
-        The **Urban Analytics and Interventions Research Lab** brings the state of the art urban causal research since its founding in 2021.
+        **Urban Analytics and Interventions Research Lab** aims to apply urban analytics to longitudinal data generated from built environment interventions (e.g., open space, new metro, urban renewal). Using rigorous research designs such as natural experiments, we are interested in collecting practice-based evidence of the social and health impacts imposed by urban planning and design. With the scientific evidence and situated knowledge in local contexts, we aim to facilitate evidence-based policies and practices in place-making.
 
 
   - block: collection
     id: res
     content:
-      title: research directions
+      title: Research Areas
       subtitle: ''
-      text: 'these are our major research directions'
+      text: We are interdisciplinary. uLab's research employs urban analytics, empirical social science, human geography, architecture, and urban studies and planning.
       # Choose how many pages you would like to display (0 = all pages)
       count: 0
       # Filter on criteria
@@ -52,45 +61,31 @@ sections:
       # Useful if you wish to show the first item in the Featured widget
       offset: 0
       # Field to sort by, such as Date or Title
-      sort_by: 'Date'
-      sort_ascending: false
+      sort_by: 'Title'
+      sort_ascending: True
     design:
-      # Choose a listing view
-      view: card
-      columns: '3'
-  
-  - block: markdown
-    content:
-      title:
-      subtitle: ''
-      text:
-    design:
-      columns: '1'
-      background:
-        image: 
-          filename: coders.jpg
-          filters:
-            brightness: 1
-          parallax: false
-          position: center
-          size: cover
-          text_color_light: true
       spacing:
-        padding: ['20px', '0', '20px', '0']
-      css_class: fullscreen
+        padding: [15, 15, 15, 15]
+        margin: [20, 20, 20, 20]
 
+      # Choose a listing view
+      view: showcase
+      flip_alt_rows: false
+
+  
   - block: collection
     content:
-      title: Recent Publications
-      text: ""
+      title: Featured Publications
       count: 5
       filters:
         folders:
           - publication
-        publication_type: 'article'
+        publication_type: 'article-journal'
+      text: |
+        {{% cta cta_link="./publication/" cta_text="See full record →" %}}  
     design:
       view: citation
-      columns: '1'
+
 
   - block: markdown
     content:
