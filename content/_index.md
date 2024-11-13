@@ -70,6 +70,7 @@ sections:
 
       # Choose a listing view
       view: showcase
+      flip_alt_rows: false
   
   - block: collection
     content:
