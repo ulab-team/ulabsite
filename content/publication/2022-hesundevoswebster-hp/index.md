@@ -1,18 +1,20 @@
 ---
-title: "Global Street Experiment: A Geospatial Database of Pandemic-induced Street Transitions"
+title: "The effects of metro interventions on physical activity and walking among older adults: A natural experiment in Hong Kong"
 authors:
-- kjtzhao
+- dshe
 - gbsun
+- Jobas De Vos
 - Chris Webster
 author_notes:
 - ""
 - "Corresponding Author"
 - ""
-date: "2024-02-01T00:00:00Z"
-doi: "10.1016/j.landurbplan.2023.104931"
+- ""
+date: "2022-11-01T00:00:00Z"
+doi: "10.1016/j.healthplace.2022.102939"
 
 # Schedule page publish date (NOT publication's date).
-publishDate: "2024-11-13T00:00:00Z"
+publishDate: "2024-11-14T00:00:00Z"
 
 # Publication type.
 # Accepts a single type but formatted as a YAML list (for Hugo requirements).
@@ -20,16 +22,16 @@ publishDate: "2024-11-13T00:00:00Z"
 publication_types: ["article-journal"]
 
 # Publication name and optional abbreviated publication name.
-publication: "_Landscape and Urban Planning, 242_"
-publication_short: "Landsc. Urban Plan."
+publication: "_Health & Place, 78_"
+publication_short: ""
 
 # Summary. An optional shortened abstract.
-summary: This study adds geospatial information to pandemic-induced street experiments.
+summary: This paper provides causal inference on how transport intervention affects moderate-to-vigorous physical activity (MVPA) and walking among older adults using a natural experiment of a new metro line in Hong Kong.
 
 tags:
-- street experiment
+- natural experiment
 
-featured: true
+featured: false
 
 # links:
 # - name: ""

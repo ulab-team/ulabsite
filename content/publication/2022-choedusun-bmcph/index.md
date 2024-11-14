@@ -1,18 +1,18 @@
 ---
-title: "Trading-Off Transit and Non-Transit Physical Activity among Older People: Evidence from Longitudinal Accelerometer Data of a Natural Experiment Study"
+title: "Decline in older adults’ daily mobility during the COVID-19 pandemic: the role of individual and built environment factors"
 authors:
 - Eun Yeong Choe
-- dshe
+- ydu
 - gbsun
 author_notes:
 - ""
 - ""
 - "Corresponding Author"
-date: "2023-03-01T00:00:00Z"
-doi: "10.1007/s11524-022-00709-4"
+date: "2022-12-01T00:00:00Z"
+doi: "10.1186/s12889-022-14780-8"
 
 # Schedule page publish date (NOT publication's date).
-publishDate: "2024-11-13T00:00:00Z"
+publishDate: "2024-11-14T00:00:00Z"
 
 # Publication type.
 # Accepts a single type but formatted as a YAML list (for Hugo requirements).
@@ -20,14 +20,15 @@ publishDate: "2024-11-13T00:00:00Z"
 publication_types: ["article-journal"]
 
 # Publication name and optional abbreviated publication name.
-publication: "_Journal of Urban Health, 100_, 408-417"
+publication: "_BMC Public Health, 22_"
 publication_short: ""
 
 # Summary. An optional shortened abstract.
-summary: This study used a natural experiment of a new metro line in Hong Kong to examine trade-offs between transit-related and non-transit-related physical activity (PA) among 104 older people (aged ≥ 65 years) based on longitudinal accelerometer data that distinguished transit-related and non-transit-related PA. 
+summary: This study found that individual and environmental factors differentially affected older adults’ active travel and public transport use during the pandemic. 
 
 tags:
-- natural experiment
+- public health
+- Covid-19 pandemic
 
 featured: false
 

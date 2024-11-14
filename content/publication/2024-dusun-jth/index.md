@@ -19,7 +19,7 @@ publication_types: ["article-journal"]
 
 # Publication name and optional abbreviated publication name.
 publication: "_Journal of Transport & Health, 38_"
-publication_short: ""
+publication_short: "JTH"
 
 # Summary. An optional shortened abstract.
 summary: This research aims to unravel the pathways linking transport with eudaimonic wellbeing among older people, considering the mediating role of social and environmental factors.

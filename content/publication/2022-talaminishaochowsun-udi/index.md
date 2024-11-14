@@ -1,18 +1,20 @@
 ---
-title: "Global Street Experiment: A Geospatial Database of Pandemic-induced Street Transitions"
+title: "The controversial impact of pedestrian guardrails on road crossing behaviours. Evidence from Hong Kong"
 authors:
-- kjtzhao
+- Gianni Talamini
+- Di Shao
+- Andy H.F. Chow
 - gbsun
-- Chris Webster
 author_notes:
-- ""
 - "Corresponding Author"
 - ""
-date: "2024-02-01T00:00:00Z"
-doi: "10.1016/j.landurbplan.2023.104931"
+- ""
+- ""
+date: "2022-04-01T00:00:00Z"
+doi: "10.1057/s41289-022-00184-y"
 
 # Schedule page publish date (NOT publication's date).
-publishDate: "2024-11-13T00:00:00Z"
+publishDate: "2024-11-14T00:00:00Z"
 
 # Publication type.
 # Accepts a single type but formatted as a YAML list (for Hugo requirements).
@@ -20,16 +22,17 @@ publishDate: "2024-11-13T00:00:00Z"
 publication_types: ["article-journal"]
 
 # Publication name and optional abbreviated publication name.
-publication: "_Landscape and Urban Planning, 242_"
-publication_short: "Landsc. Urban Plan."
+publication: "_Urban Design International 27_, 156-172"
+publication_short: "Urban Des Int"
 
 # Summary. An optional shortened abstract.
-summary: This study adds geospatial information to pandemic-induced street experiments.
+summary: The quasi-experimental condition, created by 2019–2020 Hong Kong protesters dismantling PGs the government later restored, allowed for a longitudinal study of how PGs impact pedestrian crossing behaviours at the intersection of Mong Kok Road and Sai Yeung Choi Street South.
 
 tags:
-- street experiment
+- street
+- Hong Kong
 
-featured: true
+featured: false
 
 # links:
 # - name: ""

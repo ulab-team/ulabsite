@@ -1,18 +1,20 @@
 ---
-title: "Global Street Experiment: A Geospatial Database of Pandemic-induced Street Transitions"
+title: "Mediation effects of social isolation on pathways connecting public transport use with subjective wellbeing among older people"
 authors:
-- kjtzhao
+- ydu
 - gbsun
-- Chris Webster
+- Eun Yeong Choe
+- Mei-Po Kwan
 author_notes:
 - ""
 - "Corresponding Author"
 - ""
-date: "2024-02-01T00:00:00Z"
-doi: "10.1016/j.landurbplan.2023.104931"
+- ""
+date: "2022-06-01T00:00:00Z"
+doi: "10.1016/j.jth.2022.101378"
 
 # Schedule page publish date (NOT publication's date).
-publishDate: "2024-11-13T00:00:00Z"
+publishDate: "2024-11-14T00:00:00Z"
 
 # Publication type.
 # Accepts a single type but formatted as a YAML list (for Hugo requirements).
@@ -20,16 +22,17 @@ publishDate: "2024-11-13T00:00:00Z"
 publication_types: ["article-journal"]
 
 # Publication name and optional abbreviated publication name.
-publication: "_Landscape and Urban Planning, 242_"
-publication_short: "Landsc. Urban Plan."
+publication: "_Journal of Transport & Health, 25_"
+publication_short: "JTH"
 
 # Summary. An optional shortened abstract.
-summary: This study adds geospatial information to pandemic-induced street experiments.
+summary: We found the mixed use of metro and bus is beneficial to the subjective wellbeing of older people. Objective and subjective social isolation partly explained the total associations. 
 
 tags:
-- street experiment
+- Wellbeing
+- Hong Kong
 
-featured: true
+featured: false
 
 # links:
 # - name: ""

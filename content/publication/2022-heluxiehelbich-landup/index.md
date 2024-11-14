@@ -1,18 +1,21 @@
 ---
-title: "Global Street Experiment: A Geospatial Database of Pandemic-induced Street Transitions"
+title: "How greenway exposure reduces body weight: A natural experiment in China"
 authors:
-- kjtzhao
-- gbsun
-- Chris Webster
+- dshe
+- Yi Lu
+- Bo Xie
+- Marco Helbich
+
 author_notes:
 - ""
 - "Corresponding Author"
+- "Corresponding Author"
 - ""
-date: "2024-02-01T00:00:00Z"
-doi: "10.1016/j.landurbplan.2023.104931"
+date: "2022-10-01T00:00:00Z"
+doi: "10.1016/j.landurbplan.2022.104502"
 
 # Schedule page publish date (NOT publication's date).
-publishDate: "2024-11-13T00:00:00Z"
+publishDate: "2024-11-14T00:00:00Z"
 
 # Publication type.
 # Accepts a single type but formatted as a YAML list (for Hugo requirements).
@@ -20,16 +23,16 @@ publishDate: "2024-11-13T00:00:00Z"
 publication_types: ["article-journal"]
 
 # Publication name and optional abbreviated publication name.
-publication: "_Landscape and Urban Planning, 242_"
+publication: "_Landscape and Urban Planning, 226_"
 publication_short: "Landsc. Urban Plan."
 
 # Summary. An optional shortened abstract.
-summary: This study adds geospatial information to pandemic-induced street experiments.
+summary: Using natural experiment approach, this study assessed 1) to what extent peoples’ body mass index (BMI) changed following a greenway intervention, and 2) potential gender disparities in both direct effects and underlying mediating pathways linking greenway exposure and BMI changes
 
 tags:
-- street experiment
+- natural experiment
 
-featured: true
+featured: false
 
 # links:
 # - name: ""

@@ -22,7 +22,7 @@ publication_types: ["article-journal"]
 
 # Publication name and optional abbreviated publication name.
 publication: "_Journal of Transport Geography, 117_"
-publication_short: ""
+publication_short: "J. Transp. Geogr."
 
 # Summary. An optional shortened abstract.
 summary: This research aims to estimate how subjective wellbeing at baseline would affect the changes in travel behaviour among older people due to a new public transport infrastructure. 

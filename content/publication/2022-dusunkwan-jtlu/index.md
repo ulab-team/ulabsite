@@ -1,18 +1,19 @@
 ---
-title: "Global Street Experiment: A Geospatial Database of Pandemic-induced Street Transitions"
+title: "Transit-oriented development for older people: Does using multiple public transport options improve their physical and mental health?"
 authors:
-- kjtzhao
+- ydu
 - gbsun
-- Chris Webster
+- Mei-Po Kwan
+
 author_notes:
 - ""
 - "Corresponding Author"
 - ""
-date: "2024-02-01T00:00:00Z"
-doi: "10.1016/j.landurbplan.2023.104931"
+date: "2022-12-01T00:00:00Z"
+doi: "10.5198/jtlu.2022.2152"
 
 # Schedule page publish date (NOT publication's date).
-publishDate: "2024-11-13T00:00:00Z"
+publishDate: "2024-11-14T00:00:00Z"
 
 # Publication type.
 # Accepts a single type but formatted as a YAML list (for Hugo requirements).
@@ -20,16 +21,16 @@ publishDate: "2024-11-13T00:00:00Z"
 publication_types: ["article-journal"]
 
 # Publication name and optional abbreviated publication name.
-publication: "_Landscape and Urban Planning, 242_"
-publication_short: "Landsc. Urban Plan."
+publication: "_Journal of Transport and Land Use, 15_(1)"
+publication_short: ""
 
 # Summary. An optional shortened abstract.
-summary: This study adds geospatial information to pandemic-induced street experiments.
+summary: We investigate older people’s public transport use patterns and how multiple public transport options are related to the physical and mental health of older people.
 
 tags:
-- street experiment
+- natural experiment
 
-featured: true
+featured: false
 
 # links:
 # - name: ""
