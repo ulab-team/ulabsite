@@ -32,7 +32,7 @@ tags:
 - Hong Kong
 - street
 
-featured: false
+featured: true
 
 # links:
 # - name: ""

@@ -31,7 +31,7 @@ tags:
 - wellbeing
 - natural experiment
 
-featured: false
+featured: true
 
 # links:
 # - name: ""

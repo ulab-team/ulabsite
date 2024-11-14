@@ -31,7 +31,7 @@ summary: This paper provides causal inference on how transport intervention affe
 tags:
 - natural experiment
 
-featured: false
+featured: true
 
 # links:
 # - name: ""

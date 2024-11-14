@@ -30,7 +30,7 @@ tags:
 - public health
 - Covid-19 pandemic
 
-featured: false
+featured: true
 
 # links:
 # - name: ""

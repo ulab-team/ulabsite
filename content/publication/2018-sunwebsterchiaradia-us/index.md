@@ -32,7 +32,7 @@ tags:
 - China
 - gated community
 
-featured: false
+featured: true
 
 # links:
 # - name: ""

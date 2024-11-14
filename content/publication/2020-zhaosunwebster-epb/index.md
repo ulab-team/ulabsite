@@ -32,7 +32,7 @@ tags:
 - walkability
 - Hong Kong
 
-featured: false
+featured: true
 
 # links:
 # - name: ""

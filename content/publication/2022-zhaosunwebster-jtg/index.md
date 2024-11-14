@@ -30,7 +30,7 @@ tags:
 - Belt and Road Initiative
 - Pakistan
 
-featured: false
+featured: true
 
 # links:
 # - name: ""

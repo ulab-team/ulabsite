@@ -33,7 +33,7 @@ tags:
 - urban rails
 - China
 
-featured: false
+featured: true
 
 # links:
 # - name: ""
