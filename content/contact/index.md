@@ -65,5 +65,5 @@ sections:
           text_color_light: true
       spacing:
         padding: ['0', '0', '0', '0']
-      css_class: fullscreen
+      css_class: ''
 ---
