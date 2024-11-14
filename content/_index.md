@@ -81,11 +81,22 @@ sections:
         folders:
           - publication
         publication_type: 'article-journal'
+        featured_only: true
       text: |
         {{% cta cta_link="./publication/" cta_text="See full record →" %}}  
     design:
       view: citation
 
+  - block: collection
+    content:
+      title: Recent News
+      count: 3
+      filters:
+        folders:
+          - news
+      text: uLab curates a vibrant research community through institutional connections.
+    design:
+      view: compact
 
   - block: markdown
     content:
