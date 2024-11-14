@@ -10,7 +10,7 @@ author_notes:
 - "Corresponding Author"
 - ""
 
-date: "2020-012-01T00:00:00Z"
+date: "2020-12-01T00:00:00Z"
 doi: "10.1177/2399808320977871"
 
 # Schedule page publish date (NOT publication's date).
