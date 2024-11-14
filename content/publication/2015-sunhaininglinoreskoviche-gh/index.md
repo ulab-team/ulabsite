@@ -1,19 +1,24 @@
 ---
-title: "Does subjective wellbeing modify travel behaviour changes among older people in response to a new metro line?"
+title: "Comparing the perception with the reality of walking in a hilly environment: an accessibility method applied to a University campus in Hong Kong"
 authors:
-- ydu
 - gbsun
-- Eva Heinen
+- Robert Haining
+- Hui Lin
+- Nicolas M. Oreskovic
+- Jie He
 
 author_notes:
 - ""
+- ""
 - "Corresponding Author"
 - ""
-date: '2024-05-01'
-doi: "10.1016/j.landurbplan.2023.104931"
+- ""
+
+date: "2015-05-01T00:00:00Z"
+doi: "10.4081/gh.2015.340"
 
 # Schedule page publish date (NOT publication's date).
-publishDate: "2024-11-13T00:00:00Z"
+publishDate: "2024-11-14T00:00:00Z"
 
 # Publication type.
 # Accepts a single type but formatted as a YAML list (for Hugo requirements).
@@ -21,15 +26,15 @@ publishDate: "2024-11-13T00:00:00Z"
 publication_types: ["article-journal"]
 
 # Publication name and optional abbreviated publication name.
-publication: "_Journal of Transport Geography, 117_"
+publication: "_Geospatial Health, 10_(1)"
 publication_short: ""
 
 # Summary. An optional shortened abstract.
-summary: This research aims to estimate how subjective wellbeing at baseline would affect the changes in travel behaviour among older people due to a new public transport infrastructure. 
+summary: We present practical strategies for addressing these issues using geographic information systems. 
 
 tags:
-- wellbeing
-- natural experiment
+- Hong Kong
+- built environment
 
 featured: false
 
@@ -51,8 +56,7 @@ image:
 #   Simply enter your project's folder or file name without extension.
 #   E.g. `internal-project` references `content/project/internal-project/index.md`.
 #   Otherwise, set `projects: []`.
-projects: 
-- causal-mediation-analysis
+projects: []
 
 ---
 

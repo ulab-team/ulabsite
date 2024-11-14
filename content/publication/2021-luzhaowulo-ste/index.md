@@ -1,19 +1,22 @@
 ---
-title: "Does subjective wellbeing modify travel behaviour changes among older people in response to a new metro line?"
+title: "Large-scale greenway intervention promotes walking behaviors: A natural experiment in China"
 authors:
-- ydu
-- gbsun
-- Eva Heinen
+- dshe
+- Yi Lu
+- Bo Xie
+- Marco Helbich
 
 author_notes:
 - ""
 - "Corresponding Author"
+- "Corresponding Author"
 - ""
-date: '2024-05-01'
-doi: "10.1016/j.landurbplan.2023.104931"
+
+date: "2021-12-01T00:00:00Z"
+doi: "10.1016/j.trd.2021.103095"
 
 # Schedule page publish date (NOT publication's date).
-publishDate: "2024-11-13T00:00:00Z"
+publishDate: "2024-11-14T00:00:00Z"
 
 # Publication type.
 # Accepts a single type but formatted as a YAML list (for Hugo requirements).
@@ -21,15 +24,15 @@ publishDate: "2024-11-13T00:00:00Z"
 publication_types: ["article-journal"]
 
 # Publication name and optional abbreviated publication name.
-publication: "_Journal of Transport Geography, 117_"
+publication: "_Transportation Research Part D: Transport and Environment, 101_"
 publication_short: ""
 
 # Summary. An optional shortened abstract.
-summary: This research aims to estimate how subjective wellbeing at baseline would affect the changes in travel behaviour among older people due to a new public transport infrastructure. 
+summary: In this natural experimental study, we assessed the effects of a large-scale greenway intervention (i.e., the opening of East Lake greenway) on walking behaviors in Wuhan, China.
 
 tags:
-- wellbeing
-- natural experiment
+- difference-in-difference
+- urban greenery
 
 featured: false
 
@@ -51,8 +54,7 @@ image:
 #   Simply enter your project's folder or file name without extension.
 #   E.g. `internal-project` references `content/project/internal-project/index.md`.
 #   Otherwise, set `projects: []`.
-projects: 
-- causal-mediation-analysis
+projects: []
 
 ---
 

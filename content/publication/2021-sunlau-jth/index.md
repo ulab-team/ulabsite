@@ -1,19 +1,18 @@
 ---
-title: "Does subjective wellbeing modify travel behaviour changes among older people in response to a new metro line?"
+title: "Go-along with older people to public transport in high-density cities: Understanding the concerns and walking barriers through their lens"
 authors:
-- ydu
 - gbsun
-- Eva Heinen
+- Cheuk Yin Lau
 
 author_notes:
-- ""
 - "Corresponding Author"
 - ""
-date: '2024-05-01'
-doi: "10.1016/j.landurbplan.2023.104931"
+
+date: "2021-06-01T00:00:00Z"
+doi: "10.1016/j.jth.2021.101072"
 
 # Schedule page publish date (NOT publication's date).
-publishDate: "2024-11-13T00:00:00Z"
+publishDate: "2024-11-14T00:00:00Z"
 
 # Publication type.
 # Accepts a single type but formatted as a YAML list (for Hugo requirements).
@@ -21,15 +20,15 @@ publishDate: "2024-11-13T00:00:00Z"
 publication_types: ["article-journal"]
 
 # Publication name and optional abbreviated publication name.
-publication: "_Journal of Transport Geography, 117_"
+publication: "_Journal of Transport & Health, 21_"
 publication_short: ""
 
 # Summary. An optional shortened abstract.
-summary: This research aims to estimate how subjective wellbeing at baseline would affect the changes in travel behaviour among older people due to a new public transport infrastructure. 
+summary: We used content analysis with script close reading to analyse the natural conversations revolving in environmental, personal, safety and transportation factors. We found narrow sidewalks but with high pedestrian flow posed a challenge for older people.
 
 tags:
-- wellbeing
-- natural experiment
+- urban rails
+- Hong Kong
 
 featured: false
 
@@ -51,8 +50,7 @@ image:
 #   Simply enter your project's folder or file name without extension.
 #   E.g. `internal-project` references `content/project/internal-project/index.md`.
 #   Otherwise, set `projects: []`.
-projects: 
-- causal-mediation-analysis
+projects: []
 
 ---
 

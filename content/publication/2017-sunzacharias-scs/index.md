@@ -1,19 +1,18 @@
 ---
-title: "Does subjective wellbeing modify travel behaviour changes among older people in response to a new metro line?"
+title: "Can bicycle relieve overcrowded metro? Managing short-distance travel in Beijing"
 authors:
-- ydu
 - gbsun
-- Eva Heinen
+- John Zacharias
 
 author_notes:
 - ""
 - "Corresponding Author"
-- ""
-date: '2024-05-01'
-doi: "10.1016/j.landurbplan.2023.104931"
+
+date: "2017-11-01T00:00:00Z"
+doi: "10.1016/j.scs.2017.08.010"
 
 # Schedule page publish date (NOT publication's date).
-publishDate: "2024-11-13T00:00:00Z"
+publishDate: "2024-11-14T00:00:00Z"
 
 # Publication type.
 # Accepts a single type but formatted as a YAML list (for Hugo requirements).
@@ -21,15 +20,15 @@ publishDate: "2024-11-13T00:00:00Z"
 publication_types: ["article-journal"]
 
 # Publication name and optional abbreviated publication name.
-publication: "_Journal of Transport Geography, 117_"
+publication: "_Sustainable Cities and Society, 35_"
 publication_short: ""
 
 # Summary. An optional shortened abstract.
-summary: This research aims to estimate how subjective wellbeing at baseline would affect the changes in travel behaviour among older people due to a new public transport infrastructure. 
+summary: In this paper, we explore whether it is possible to use bicycle to replace a portion of short-distance public transport trips. 
 
 tags:
-- wellbeing
-- natural experiment
+- China
+- urban rails
 
 featured: false
 
@@ -51,8 +50,7 @@ image:
 #   Simply enter your project's folder or file name without extension.
 #   E.g. `internal-project` references `content/project/internal-project/index.md`.
 #   Otherwise, set `projects: []`.
-projects: 
-- causal-mediation-analysis
+projects: []
 
 ---
 

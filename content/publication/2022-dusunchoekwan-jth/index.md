@@ -23,7 +23,7 @@ publication_types: ["article-journal"]
 
 # Publication name and optional abbreviated publication name.
 publication: "_Journal of Transport & Health, 25_"
-publication_short: "JTH"
+publication_short: ""
 
 # Summary. An optional shortened abstract.
 summary: We found the mixed use of metro and bus is beneficial to the subjective wellbeing of older people. Objective and subjective social isolation partly explained the total associations. 

@@ -23,7 +23,7 @@ publication_types: ["article-journal"]
 
 # Publication name and optional abbreviated publication name.
 publication: "_Urban Design International 27_, 156-172"
-publication_short: "Urban Des Int"
+publication_short: ""
 
 # Summary. An optional shortened abstract.
 summary: The quasi-experimental condition, created by 2019–2020 Hong Kong protesters dismantling PGs the government later restored, allowed for a longitudinal study of how PGs impact pedestrian crossing behaviours at the intersection of Mong Kok Road and Sai Yeung Choi Street South.

@@ -24,7 +24,7 @@ publication_types: ["article-journal"]
 
 # Publication name and optional abbreviated publication name.
 publication: "_Landscape and Urban Planning, 226_"
-publication_short: "Landsc. Urban Plan."
+publication_short: ""
 
 # Summary. An optional shortened abstract.
 summary: Using natural experiment approach, this study assessed 1) to what extent peoples’ body mass index (BMI) changed following a greenway intervention, and 2) potential gender disparities in both direct effects and underlying mediating pathways linking greenway exposure and BMI changes

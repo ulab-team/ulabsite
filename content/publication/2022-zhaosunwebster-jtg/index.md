@@ -1,19 +1,18 @@
 ---
-title: "Does subjective wellbeing modify travel behaviour changes among older people in response to a new metro line?"
+title: "Does China-Pakistan Economic Corridor improve connectivity in Pakistan? A protocol assessing the planned transport network infrastructure"
 authors:
-- ydu
+- kjtzhao
 - gbsun
-- Eva Heinen
-
+- Chris Webster
 author_notes:
 - ""
 - "Corresponding Author"
 - ""
-date: '2024-05-01'
-doi: "10.1016/j.landurbplan.2023.104931"
+date: "2022-04-01T00:00:00Z"
+doi: "10.1016/j.jtrangeo.2022.103327"
 
 # Schedule page publish date (NOT publication's date).
-publishDate: "2024-11-13T00:00:00Z"
+publishDate: "2024-11-14T00:00:00Z"
 
 # Publication type.
 # Accepts a single type but formatted as a YAML list (for Hugo requirements).
@@ -21,15 +20,15 @@ publishDate: "2024-11-13T00:00:00Z"
 publication_types: ["article-journal"]
 
 # Publication name and optional abbreviated publication name.
-publication: "_Journal of Transport Geography, 117_"
+publication: "_Journal of Transport Geography, 100_"
 publication_short: ""
 
 # Summary. An optional shortened abstract.
-summary: This research aims to estimate how subjective wellbeing at baseline would affect the changes in travel behaviour among older people due to a new public transport infrastructure. 
+summary: In this paper, we developed an analytical protocol that evaluates the changes in transport network connectivity before and after the BRI transport infrastructure construction, using open-source data and tools, and tested it on the China-Pakistan Economic Corridor (CPEC), the flagship project of BRI. 
 
 tags:
-- wellbeing
-- natural experiment
+- Belt and Road Initiative
+- Pakistan
 
 featured: false
 
@@ -51,8 +50,7 @@ image:
 #   Simply enter your project's folder or file name without extension.
 #   E.g. `internal-project` references `content/project/internal-project/index.md`.
 #   Otherwise, set `projects: []`.
-projects: 
-- causal-mediation-analysis
+projects: []
 
 ---
 

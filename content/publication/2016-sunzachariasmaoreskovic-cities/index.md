@@ -1,19 +1,22 @@
 ---
-title: "Does subjective wellbeing modify travel behaviour changes among older people in response to a new metro line?"
+title: "How do metro stations integrate with walking environments? Results from walking access within three types of built environment in Beijing"
 authors:
-- ydu
 - gbsun
-- Eva Heinen
+- John Zacharias
+- Ben Ma
+- Nicolas M. Oreskovic
 
 author_notes:
 - ""
 - "Corresponding Author"
 - ""
-date: '2024-05-01'
-doi: "10.1016/j.landurbplan.2023.104931"
+- ""
+
+date: "2016-07-01T00:00:00Z"
+doi: "10.1016/j.cities.2016.03.001"
 
 # Schedule page publish date (NOT publication's date).
-publishDate: "2024-11-13T00:00:00Z"
+publishDate: "2024-11-14T00:00:00Z"
 
 # Publication type.
 # Accepts a single type but formatted as a YAML list (for Hugo requirements).
@@ -21,15 +24,15 @@ publishDate: "2024-11-13T00:00:00Z"
 publication_types: ["article-journal"]
 
 # Publication name and optional abbreviated publication name.
-publication: "_Journal of Transport Geography, 117_"
+publication: "_Cities, 56_"
 publication_short: ""
 
 # Summary. An optional shortened abstract.
-summary: This research aims to estimate how subjective wellbeing at baseline would affect the changes in travel behaviour among older people due to a new public transport infrastructure. 
+summary: In this study, we collected empirical data on the influence of local environmental characteristics on walking access in Beijing.
 
 tags:
-- wellbeing
-- natural experiment
+- China
+- built environment
 
 featured: false
 
@@ -51,8 +54,7 @@ image:
 #   Simply enter your project's folder or file name without extension.
 #   E.g. `internal-project` references `content/project/internal-project/index.md`.
 #   Otherwise, set `projects: []`.
-projects: 
-- causal-mediation-analysis
+projects: []
 
 ---
 

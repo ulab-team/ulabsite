@@ -1,19 +1,20 @@
 ---
-title: "Does subjective wellbeing modify travel behaviour changes among older people in response to a new metro line?"
+title: "Unravelling the impact of street network structure and gated community layout in development-oriented transit design"
 authors:
-- ydu
 - gbsun
-- Eva Heinen
+- Dugald Wallace
+- Chris Webster
 
 author_notes:
-- ""
 - "Corresponding Author"
 - ""
-date: '2024-05-01'
-doi: "10.1016/j.landurbplan.2023.104931"
+- ""
+
+date: "2020-01-01T00:00:00Z"
+doi: "10.1016/j.landusepol.2019.104328"
 
 # Schedule page publish date (NOT publication's date).
-publishDate: "2024-11-13T00:00:00Z"
+publishDate: "2024-11-14T00:00:00Z"
 
 # Publication type.
 # Accepts a single type but formatted as a YAML list (for Hugo requirements).
@@ -21,15 +22,15 @@ publishDate: "2024-11-13T00:00:00Z"
 publication_types: ["article-journal"]
 
 # Publication name and optional abbreviated publication name.
-publication: "_Journal of Transport Geography, 117_"
+publication: "_Land Use Policy, 90_"
 publication_short: ""
 
 # Summary. An optional shortened abstract.
-summary: This research aims to estimate how subjective wellbeing at baseline would affect the changes in travel behaviour among older people due to a new public transport infrastructure. 
+summary: We investigate the associations between walking patterns and street network structure in the context of transit station development intended to create its own demand rather than serve existing demand, and an urban morphology dominated by gated communities in station areas. 
 
 tags:
-- wellbeing
-- natural experiment
+- gated community
+- street
 
 featured: false
 
@@ -51,8 +52,7 @@ image:
 #   Simply enter your project's folder or file name without extension.
 #   E.g. `internal-project` references `content/project/internal-project/index.md`.
 #   Otherwise, set `projects: []`.
-projects: 
-- causal-mediation-analysis
+projects: []
 
 ---
 
