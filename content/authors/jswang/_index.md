@@ -14,7 +14,7 @@ authors:
 superuser: false
 
 # Role/position
-role: Postdoc Fellow at the Department of Urban Planning and Design, HKU
+role: Postdoc Fellow
 
 # Organizations/Affiliations
 organizations:
