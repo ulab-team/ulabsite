@@ -11,7 +11,8 @@ authors:
 image:
   caption: 'Image credit: [**me**]'
 ---
-{{< toc mobile_only=true is_open=true >}}
+
+
 ## Street, public space and their experiments
 
 We are investigating the street experiments that bridge the mobility and public space functions, to look at how short-term actions lead to long-term changes. Our engagements include experiments and design studios in the communities. 

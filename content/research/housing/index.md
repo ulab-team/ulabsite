@@ -11,13 +11,10 @@ image:
   caption: 'Image credit: [**me**]'
 
 ---
-{{< toc mobile_only=true is_open=true >}}
+
 ## Housing, social, and health effects
 
 We are particularly interested in urban redevelopment in high-density cities and use the changes in housing and neighbourhoods as complex interventions to investigate the longitudinal effects on the mental health and wellbeing of the residents.
-
-
-
 
 ### Research Objectives
 

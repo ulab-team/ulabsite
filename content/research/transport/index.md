@@ -2,6 +2,7 @@
 title: Transport
 summary: We are investigating street experiments that bridge mobility and public space to look at how short-term actions lead to long-term changes.
 date: 2024-11-12
+show_date: false
 authors:
   - admin
 
@@ -9,8 +10,10 @@ authors:
 # Place an image named `featured.jpg/png` in this page's folder and customize its options here.
 image:
   caption: 'Image credit: [**me**]'
+share: false
 ---
-{{< toc mobile_only=true is_open=true >}}
+{{/* a comment {{< toc mobile_only=true is_open=true >}}*/}}
+
 ## New transport, urban design, and health
 We take new metros as the interventions, using natural experiment studies to infer causal effects on active travel, wider health behaviours, and economic outcomes.
 
