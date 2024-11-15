@@ -12,7 +12,7 @@ image:
   caption: 'Image credit: [**me**]'
 share: false
 ---
-{{/* a comment {{< toc mobile_only=true is_open=true >}}*/}}
+[//]: # ({{< toc mobile_only=true is_open=true >}})
 
 ## New transport, urban design, and health
 We take new metros as the interventions, using natural experiment studies to infer causal effects on active travel, wider health behaviours, and economic outcomes.

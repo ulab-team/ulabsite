@@ -10,6 +10,9 @@ authors:
 # Place an image named `featured.jpg/png` in this page's folder and customize its options here.
 image:
   caption: 'Image credit: [**me**]'
+
+show_date: false
+share: false
 ---
 
 

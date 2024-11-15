@@ -10,6 +10,8 @@ authors:
 image:
   caption: 'Image credit: [**me**]'
 
+show_date: false
+share: false
 ---
 
 ## Housing, social, and health effects
