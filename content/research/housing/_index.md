@@ -22,8 +22,6 @@ sections:
     design:
       view: compact 
 
-# Listing view
-view: card
 ---
 
 ## Housing, social, and health effects
