@@ -14,7 +14,7 @@ authors:
 superuser: false
 
 # Role/position
-role: Postdoc Fellow
+role: Postdoc Fellow in Ubran Plannin and Design
 
 # Organizations/Affiliations
 organizations:

@@ -14,7 +14,7 @@ authors:
 superuser: false
 
 # Role/position
-role: PI, Assistant Professor
+role: PI, Assistant Professor in Urban Planning
 
 # Organizations/Affiliations
 organizations:

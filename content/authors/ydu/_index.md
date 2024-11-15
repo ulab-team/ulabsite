@@ -14,7 +14,7 @@ authors:
 superuser: false
 
 # Role/position
-role: Postdoc Fellow at the Department of Social Work and Social Administration, HKU
+role: Postdoc Fellow in Social Work and Social Administration
 
 # Organizations/Affiliations
 organizations:
