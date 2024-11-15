@@ -21,16 +21,19 @@ sections:
 
     design:
       view: compact 
+
+# Listing view
+view: card
 ---
 
-### Housing, social, and health effects
+## Housing, social, and health effects
 
 We are particularly interested in urban redevelopment in high-density cities and use the changes in housing and neighbourhoods as complex interventions to investigate the longitudinal effects on the mental health and wellbeing of the residents.
 
 {{< toc mobile_only=true is_open=true >}}
 
 
-## Research Objectives
+### Research Objectives
 
 - Understand the urban renewal process 
 - Discover experiments to infer longitudinal effects on health and social outcomes
@@ -40,11 +43,11 @@ We are particularly interested in urban redevelopment in high-density cities and
 
 [//]: # ([![The template is mobile first with a responsive design to ensure that your site looks stunning on every device.]&#40;https://raw.githubusercontent.com/wowchemy/wowchemy-hugo-modules/main/starters/academic/preview.png&#41;]&#40;https://hugoblox.com&#41;)
 
-## Ongoing Research
+### Ongoing Research
 
 - Healthy urban rehabilitation through social innovation
 
-## Completed Work
+### Completed Work
 - Central role of the qualitative method
 - Mental health and wellbeing of relocated elderly farmers
 - Ungating the city for a sustainable future
