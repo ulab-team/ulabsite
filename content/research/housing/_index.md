@@ -10,18 +10,6 @@ authors:
 image:
   caption: 'Image credit: [**me**]'
 
-sections:
-  - block: collection
-    content:
-      title: Ongoing Research
-      count: ''
-      filters:
-        folders:
-          - project
-
-    design:
-      view: compact 
-
 ---
 
 ## Housing, social, and health effects
