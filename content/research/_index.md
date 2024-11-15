@@ -2,7 +2,7 @@
 title: Research areas
 
 # Listing view
-view: card
+view: Masonry
 columns: 3
 
 # Optional banner image (relative to `assets/media/` folder).
