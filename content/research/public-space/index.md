@@ -13,6 +13,7 @@ image:
 
 show_date: false
 share: false
+profile: true
 ---
 
 

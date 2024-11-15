@@ -12,6 +12,7 @@ image:
 
 show_date: false
 share: false
+profile: true
 ---
 
 ## Housing, social, and health effects

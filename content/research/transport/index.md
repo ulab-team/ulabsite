@@ -11,6 +11,7 @@ authors:
 image:
   caption: 'Image credit: [**me**]'
 share: false
+profile: true
 ---
 [//]: # ({{< toc mobile_only=true is_open=true >}})
 
