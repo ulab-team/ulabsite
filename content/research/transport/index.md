@@ -10,13 +10,13 @@ authors:
 image:
   caption: 'Image credit: [**me**]'
 ---
-
-### New transport, urban design, and health
+{{< toc mobile_only=true is_open=true >}}
+## New transport, urban design, and health
 We take new metros as the interventions, using natural experiment studies to infer causal effects on active travel, wider health behaviours, and economic outcomes.
 
-{{< toc mobile_only=true is_open=true >}}
 
-## Research Objectives
+
+### Research Objectives
 
 - Define new metro as a complex intervention 
 - Discover natural experiments to infer causal effects on health and social outcomes
@@ -24,14 +24,14 @@ We take new metros as the interventions, using natural experiment studies to inf
 - Investigate China's metro development model from home to abroad
 - Modelling of volumetric development in high-density citie
 
-## Ongoing Research
+### Ongoing Research
 - Land policy, housing, and transport infrastructure provision
 - Methodologies for assessing volumetric urban designs of metro infrastructure projects in the Greater Bay Area
 - Pricing urban design in metro station areas
 - Volumetric development, housing price, TOD
 - Public transport use, social inclusion and wellbeing of older people
 
-## Completed Work
+### Completed Work
 - Metro and elderly health
 - How do older people access public transport in high-density cities?
 - Shenzhen’s urban rail transit project in Addis Ababa

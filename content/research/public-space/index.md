@@ -11,14 +11,12 @@ authors:
 image:
   caption: 'Image credit: [**me**]'
 ---
-
-### Street, public space and their experiments
+{{< toc mobile_only=true is_open=true >}}
+## Street, public space and their experiments
 
 We are investigating the street experiments that bridge the mobility and public space functions, to look at how short-term actions lead to long-term changes. Our engagements include experiments and design studios in the communities. 
 
-{{< toc mobile_only=true is_open=true >}}
-
-## Research Objectives
+### Research Objectives
 
 - Randomised controlled experiments on greenery and health
 - Investigate the relationship between short-term actions and long-term changes on streets
@@ -28,12 +26,12 @@ We are investigating the street experiments that bridge the mobility and public 
 - Study methods to provide the blue and green infrastructure through social innovation
 
 
-## Ongoing Research
+### Ongoing Research
 
 - Global street experiments: Short-term actions to long-term changes
 - Privately owned public space, interior urbanism, Hong Kong
 - Tactical urbanism in Asian high-density cities
 
-## Completed Work
+### Completed Work
 - Walkability scoring in high-density cities
 - 3D pedestrian network of Hong Kong
