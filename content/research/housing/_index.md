@@ -18,7 +18,7 @@ sections:
       filters:
         folders:
           - project
-      text: uLab curates a vibrant research community through institutional connections.
+
     design:
       view: compact 
 ---
