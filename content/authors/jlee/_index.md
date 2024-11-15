@@ -1,6 +1,6 @@
 ---
 # Display name
-title: Jieun Lee
+title: Jieun Lee, PhD
 
 # Full name (for SEO)
 first_name: Jieun
@@ -14,7 +14,7 @@ authors:
 superuser: false
 
 # Role/position
-role: Postdoc Fellow
+role: Postdoc Fellow at the Department of Urban Planning and Design, HKU
 
 # Organizations/Affiliations
 organizations:

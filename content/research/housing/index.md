@@ -9,6 +9,18 @@ authors:
 # Place an image named `featured.jpg/png` in this page's folder and customize its options here.
 image:
   caption: 'Image credit: [**me**]'
+
+sections:
+  - block: collection
+    content:
+      title: Ongoing Research
+      count: ''
+      filters:
+        folders:
+          - project
+      text: uLab curates a vibrant research community through institutional connections.
+    design:
+      view: compact 
 ---
 
 ### Housing, social, and health effects
@@ -30,7 +42,6 @@ We are particularly interested in urban redevelopment in high-density cities and
 
 ## Ongoing Research
 
-- When later life faces urban redevelopment
 - Healthy urban rehabilitation through social innovation
 
 ## Completed Work

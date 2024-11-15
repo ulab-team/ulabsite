@@ -1,6 +1,6 @@
 ---
 # Display name
-title: Yao Du
+title: Yao Du, PhD
 
 # Full name (for SEO)
 first_name: Yao
@@ -14,7 +14,7 @@ authors:
 superuser: false
 
 # Role/position
-role: Postdoc Fellow
+role: Postdoc Fellow at the Department of Social Work and Social Administration, HKU
 
 # Organizations/Affiliations
 organizations:

@@ -1,6 +1,6 @@
 ---
 # Display name
-title: Kristen Zhao
+title: Kristen Zhao, PhD
 
 # Full name (for SEO)
 first_name: Kristen Jianting
@@ -14,7 +14,7 @@ authors:
 superuser: false
 
 # Role/position
-role: Postdoc Fellow
+role: Postdoc Fellow at the Department of Urban Planning and Design, HKU
 
 # Organizations/Affiliations
 organizations:

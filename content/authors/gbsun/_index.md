@@ -1,6 +1,6 @@
 ---
 # Display name
-title: Guibo Sun
+title: Guibo Sun, PhD
 
 # Full name (for SEO)
 first_name: Guibo

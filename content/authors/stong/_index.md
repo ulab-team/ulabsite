@@ -14,7 +14,7 @@ authors:
 superuser: false
 
 # Role/position
-role: PhD Candidate
+role: PhD Candidate at the Department of Urban Planning and Design, HKU
 
 # Organizations/Affiliations
 organizations:
