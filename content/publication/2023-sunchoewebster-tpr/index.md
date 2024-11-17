@@ -3,7 +3,7 @@ title: "Natural experiments in healthy cities research: how can urban planning a
 authors:
 - gbsun
 - Eun Yeong Choe
-- Chris Webster
+- cwebster
 author_notes:
 - "Corresponding Author"
 - ""

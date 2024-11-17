@@ -3,7 +3,7 @@ title: "Unravelling the impact of street network structure and gated community l
 authors:
 - gbsun
 - Dugald Wallace
-- Chris Webster
+- cwebster
 
 author_notes:
 - "Corresponding Author"

@@ -3,7 +3,7 @@ title: "Does China-Pakistan Economic Corridor improve connectivity in Pakistan? 
 authors:
 - kjtzhao
 - gbsun
-- Chris Webster
+- cwebster
 author_notes:
 - ""
 - "Corresponding Author"

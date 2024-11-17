@@ -3,7 +3,7 @@ title: "Walkability scoring: Why and how does a three-dimensional pedestrian net
 authors:
 - kjtzhao
 - gbsun
-- Chris Webster
+- cwebster
 
 author_notes:
 - ""

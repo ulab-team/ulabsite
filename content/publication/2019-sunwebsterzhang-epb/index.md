@@ -2,7 +2,7 @@
 title: "Connecting the city: A three-dimensional pedestrian network of Hong Kong"
 authors:
 - gbsun
-- Chris Webster
+- cwebster
 - Xiaohu Zhang
 
 author_notes:

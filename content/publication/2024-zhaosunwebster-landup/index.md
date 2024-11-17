@@ -3,7 +3,7 @@ title: "Global Street Experiment: A Geospatial Database of Pandemic-induced Stre
 authors:
 - kjtzhao
 - gbsun
-- Chris Webster
+- cwebster
 author_notes:
 - ""
 - "Corresponding Author"
