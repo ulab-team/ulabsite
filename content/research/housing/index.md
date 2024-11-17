@@ -50,8 +50,8 @@ We are particularly interested in urban redevelopment in high-density cities and
 [//]: # ([![The template is mobile first with a responsive design to ensure that your site looks stunning on every device.]&#40;https://raw.githubusercontent.com/wowchemy/wowchemy-hugo-modules/main/starters/academic/preview.png&#41;]&#40;https://hugoblox.com&#41;)
 
 ### Ongoing Research
-- {{< ref "/content/project/when-later-life" >}}
-- {{< ref "/content/project/healthy-urban-rehab" >}}
+- {{< ref "/project/when-later-life/index" >}}
+- {{< ref "/project/healthy-urban-rehab/index" >}}
 
 ### Completed Work
 - Central role of the qualitative method
