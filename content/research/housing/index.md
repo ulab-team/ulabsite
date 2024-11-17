@@ -2,8 +2,8 @@
 # Documentation: https://sourcethemes.com/academic/docs/managing-content/
 
 title: Housing
-subtitle: this is a subtitle -- We are particularly interested in urban redevelopment in high-density cities and use the changes in housing and neighbourhoods as complex interventions to investigate the longitudinal effects on the mental health and wellbeing of the residents.
-summary: This is a Summary -- We are particularly interested in urban redevelopment in high-density cities and use the changes in housing and neighbourhoods as complex interventions to investigate the longitudinal effects on the mental health and wellbeing of the residents.
+subtitle: We are particularly interested in urban redevelopment in high-density cities and use the changes in housing and neighbourhoods as complex interventions to investigate the longitudinal effects on the mental health and wellbeing of the residents.
+summary: We are particularly interested in urban redevelopment in high-density cities and use the changes in housing and neighbourhoods as complex interventions to investigate the longitudinal effects on the mental health and wellbeing of the residents.
 authors: 
   - admin
 tags: []
@@ -13,7 +13,7 @@ lastmod: 2024-11-17
 featured: ''
 draft: false
 show_related: false
-pager: fasle
+pager: false
 show_date: false
 share: false
 profile: false
@@ -50,8 +50,8 @@ We are particularly interested in urban redevelopment in high-density cities and
 [//]: # ([![The template is mobile first with a responsive design to ensure that your site looks stunning on every device.]&#40;https://raw.githubusercontent.com/wowchemy/wowchemy-hugo-modules/main/starters/academic/preview.png&#41;]&#40;https://hugoblox.com&#41;)
 
 ### Ongoing Research
-- {{< ref "/project/when-later-life/index" >}}
-- {{< ref "/project/healthy-urban-rehab/index" >}}
+- [When later life faces urban redevelopment]({{< ref "/project/when-later-life/index" >}} "what is this for")
+- [Healthy urban rehabilitation through social innovation]({{< ref "/project/healthy-urban-rehab/index" >}} "placeholder")
 
 ### Completed Work
 - Central role of the qualitative method
