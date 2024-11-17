@@ -50,6 +50,6 @@ We are particularly interested in urban redevelopment in high-density cities and
 - [Healthy urban rehabilitation through social innovation]({{< ref "/project/healthy-urban-rehab/index" >}} "an ongoing housing research")
 
 ### Completed Work
-- [Central role of the qualitative method] ({{< ref "project/central-role/index" >}} "a recent housing research")
-- [Mental health and wellbeing of relocated elderly farmers] ({{< ref "project/mental-health-wellbeing/index" >}} "a recent housing research")
-- [Ungating the city for a sustainable future] ({{< ref "project/ungating-city/index" >}} "a recent housing research")
+- [Central role of the qualitative method]({{< ref "project/central-role/index" >}} "a recent housing research")
+- [Mental health and wellbeing of relocated elderly farmers]({{< ref "project/mental-health-wellbeing/index" >}} "a recent housing research")
+- [Ungating the city for a sustainable future]({{< ref "project/ungating-city/index" >}} "a recent housing research")
