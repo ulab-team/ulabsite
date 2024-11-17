@@ -13,28 +13,28 @@ sections:
     content:
       title: Urban Analytics and Interventions Research Lab
       text: | 
-      <br>
-      A research lab advancing urban intelligibility
-      <br />
-        <div>
-        <ul class="network-icon" aria-hidden="true">
-          <li>
-            <a itemprop="sameAs" href="mailto:text@example.com">
-              <i class="fas fa-envelope small-icon"></i>
-            </a>
-          </li>
-          <li>
-            <a itemprop="sameAs" href="http://twitter.com/ulab_hku" target="_blank" rel="noopener">
-              <i class="fab fa-x-twitter small-icon"></i>
-            </a>
-          </li>
-          <li>
-            <a itemprop="sameAs" href="https://www.linkedin.com/company/example/" target="_blank" rel="noopener">
-              <i class="fab fa-linkedin small-icon"></i>
-            </a>
-          </li>   
-        </ul>
-        </div>
+        <br>
+        A research lab advancing urban intelligibility
+        <br />
+          <div>
+          <ul class="network-icon" aria-hidden="true">
+            <li>
+              <a itemprop="sameAs" href="mailto:text@example.com">
+                <i class="fas fa-envelope small-icon"></i>
+              </a>
+            </li>
+            <li>
+              <a itemprop="sameAs" href="http://twitter.com/ulab_hku" target="_blank" rel="noopener">
+                <i class="fab fa-x-twitter small-icon"></i>
+              </a>
+            </li>
+            <li>
+              <a itemprop="sameAs" href="https://www.linkedin.com/company/example/" target="_blank" rel="noopener">
+                <i class="fab fa-linkedin small-icon"></i>
+              </a>
+            </li>   
+          </ul>
+          </div>
       
     design:
       spacing:
