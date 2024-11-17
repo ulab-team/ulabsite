@@ -9,10 +9,19 @@ design:
   spacing: "6rem"
 
 sections:
+  - block: markdown
+    content:
+      title: Research Areas
+      subtitle: ''
+      text: |
+      **The uLab** establishes research in essential urban data, new methodologies and causal evidence to extend scientific understandings of social, economic and health outcomes of large-scale interventions in cities. Our work aims to turn the heads of planners and policy-makers to focus on the health and wellbeing impacts of new transport infrastructures and neighbourhood and street changes, contributing to healthy, equitable and adaptive cities and communities in Asia.
+    design:
+      columns: '1'
+
   - block: collection
     id: res
     content:
-      title: Research Areas
+      title: ''
       subtitle: ''
       # text: We are interdisciplinary. uLab's research employs urban analytics, empirical social science, human geography, architecture, and urban studies and planning.
       # Choose how many pages you would like to display (0 = all pages)

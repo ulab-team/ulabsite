@@ -1,6 +1,6 @@
 ---
 # Display name
-title: Kristen Zhao, PhD
+title: Kristen Zhao
 
 # Full name (for SEO)
 first_name: Kristen Jianting
