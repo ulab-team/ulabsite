@@ -8,23 +8,9 @@ sections:
   - block: contact
     content:
       title: Contact Us
-      text: |-
+      text: |
         We welcome intellectual exchange with scholars, collaboration with practitioners, industry leaders, and training for students and early career researchers (predocs and PhD students)
       email: test@example.org
-      WhatsApp: +852 1234 5678
-      address:
-        street: New World Tower 1, 18 Queen's Road Central
-        city: Central
-        region: Hong Kong
-        postcode: ''
-        country: China
-        country_code: HK
-      coordinates:
-        latitude: '22.280853'
-        longitude: '114.157123'
-      directions: 
-      office_hours:
-        - 'Monday-Friday 10:00 to 13:00 HKT'
 
       #contact_links:
       #  - icon: comments
@@ -38,24 +24,4 @@ sections:
 
     design:
       columns: '1'
-
-  - block: markdown
-    content:
-      title:
-      subtitle: ''
-      text:
-    design:
-      columns: '1'
-      background:
-        image: 
-          filename: uLab_logo2.png
-          filters:
-            brightness: 1
-          parallax: false
-          position: center
-          size: cover
-          text_color_light: true
-      spacing:
-        padding: ['0', '0', '0', '0']
-      css_class: ''
 ---

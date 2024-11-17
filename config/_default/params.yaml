@@ -45,7 +45,7 @@ header:
 
 footer:
   copyright:
-    notice: '© {year} Urban Analytics and Interventions Research Lab.'
+    notice: '© {year} Urban Analytics and Interventions Research Lab'
     license:
       enable: false
       allow_derivatives: false
