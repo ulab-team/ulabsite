@@ -1,6 +1,6 @@
 ---
 # Display name
-title: Jinshuo Wang, PhD
+title: Jinshuo Wang
 
 # Full name (for SEO)
 first_name: Jinshuo
@@ -61,6 +61,6 @@ user_groups:
   - Researchers
 ---
 
-Jinshuo is investigating institutional frameworks structuring urban rail investments in China's Greater Bay Area. She examines how governance and financing influence transit-oriented development implementation through comparative policy analysis.
+Dr Jinshuo Wang is investigating institutional frameworks structuring urban rail investments in China's Greater Bay Area. She examines how governance and financing influence transit-oriented development implementation through comparative policy analysis.
 
 A core focus is empirically assessing the region's social and health impacts of TOD. By quantitatively evaluating lived experience indicators, Dr. Jinshuo seeks to elucidate the differential influences of integrated transport-urban planning on well-being and livability. She aims to discern effective infrastructure-urbanization coordination models to generate policy insights for sustainable urbanization.
