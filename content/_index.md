@@ -12,7 +12,7 @@ sections:
   - block: hero
     content:
       title: Urban Analytics and Interventions Research Lab
-      text:  | 
+      text: | 
       <br>
       A research lab advancing urban intelligibility
       <br />
