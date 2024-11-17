@@ -1,10 +1,17 @@
 ---
 title: Healthy urban rehabilitation through social innovation
+subtitle: ''
+text: ''
+
 authors: 
 - llin
 - gbsun
 - Chris Webster
 
+tags: 
+- housing
+
+share: false
 category: housing
 
 # Listing view
