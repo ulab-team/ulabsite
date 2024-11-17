@@ -47,4 +47,5 @@ Our project aims to improve the livings of the relocated residents by looking at
 ![](NSFC-04.jpg "New livings in the suburbs after relocation")
 
 
-_This project is funded by the National Natural Science Foundation of China (NSFC), **Elderly-friendly environment making during rapid urbanisation: A longitudinal study of the impact of the built environment on health** (2018.09-2021.12)._ {style="color: grey"}
+_This project is funded by the National Natural Science Foundation of China (NSFC), **Elderly-friendly environment making during rapid urbanisation: A longitudinal study of the impact of the built environment on health** (2018.09-2021.12)._ 
+{style="color: grey"}

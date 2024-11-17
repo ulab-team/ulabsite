@@ -1,5 +1,5 @@
 ---
-title: Ungating the city for a sustainable future
+title: Land policy, housing, and transport infrastructure provision
 summary: What if gated communities around metro stations became permeable?
 authors: 
 - gbsun

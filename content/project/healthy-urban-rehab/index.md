@@ -47,4 +47,5 @@ We are developing a new "healthy urban rehabilitation through social innovation"
 
 Through this project, we develop an evidence-based framework for healthy urban rehabilitation, identify the contexts and institutional barriers, to create a co-production policy-making process for urban rehabilitation practice to maximise the benefits of residents' health and wellbeing in Hong Kong.
 
-_This project is supported by the 44th round of the URC Postdoc Fellow/RAP Scheme (2020.07-2023.07), **Natural Experiments in Built Environment and Elderly Health in High-Density Cities**._ {style="color: grey"}
+_This project is supported by the 44th round of the URC Postdoc Fellow/RAP Scheme (2020.07-2023.07), **Natural Experiments in Built Environment and Elderly Health in High-Density Cities**._ 
+{style="color: grey"}

@@ -47,4 +47,5 @@ We aim to collect practice-based evidence to enable future evidence-based practi
 
 ![](figure2_20200930_1.jpg)
 
-_This project is supported by HKUrbanlabs (2021.07-2024.07)_ {style="color: grey"}
+_This project is supported by HKUrbanlabs (2021.07-2024.07)_ 
+{style="color: grey"}
