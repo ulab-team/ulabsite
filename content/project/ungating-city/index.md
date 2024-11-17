@@ -41,7 +41,7 @@ Chinese cities are the leader in building gated communities. After three-decade 
 In terms of practical implementation, however, opening up all of a city’s gated communities would involve high political costs and potential compensation payments so it seems prudent to prioritise the ungating interventions which might yield the greatest benefits. The current study suggests that careful targeting of a sub-set of gated communities in station catchment areas for opening up and re-zoning with smaller blocks, or with pedestrian permeable larger blocks, will help maximise the benefits of metro station development (that has been extensively built), by deduction, such as promoting public transport use and increasing population health - more walking and cycling, more economically viable cities - greater pedestrian footfall concentrations, and a sustainable future.
 
 
-![](Figure-1-gated-communities-types.png "Types of Gated Communities")
+![](Figure-1-gated-communities-types.jpg "Types of Gated Communities")
 ![](matrix_track_density.jpg "Path Densities")
 
 ### Project Outputs
@@ -49,4 +49,4 @@ In terms of practical implementation, however, opening up all of a city’s gate
 - [Un-gating the cities: A permeability perspective]({{< ref "/publication/2018-sunwebsterchiaradia-us/index" >}} "academic publication")
 - [Unravelling the impact of street network structure and gated community layout in development-oriented transit design]({{< ref "/publication/2020-sunwallacewebster-lup/index" >}} "academic publication")
 
-> This project is funded by the National Natural Science Foundation of China (NSFC), _Natural experimental study of impacts of urban rail transit on sustainable travel in a medium-sized Chinese city_ (2016.01-2020.04).
+_This project is funded by the National Natural Science Foundation of China (NSFC), **Natural experimental study of impacts of urban rail transit on sustainable travel in a medium-sized Chinese city** (2016.01-2020.04)._ {style="color: grey"}
