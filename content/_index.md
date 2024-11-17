@@ -124,7 +124,6 @@ sections:
       title:
       subtitle:
       text: |
-        
         {{% cta cta_link="./people/" cta_text="Meet the team →" %}}
     design:
       columns: '1'
@@ -134,13 +133,13 @@ sections:
     content:
       title: Contact Us
       text: |
-        We welcome intellectual exchange with scholars, collaboration with practitioners, industry leaders, and training for students and early career researchers (predocs and PhD students)
+        We welcome intellectual exchange with scholars, collaboration with practitioners, industry leaders, and training for students and early career researchers (predocs and PhD students).
       email: test@example.org
       address: 
         street: ''
         city: ''
-        country: ''
-        country_code: ''
+        country: United Kingdom
+        country_code: UK
 
       #contact_links:
       #  - icon: comments
