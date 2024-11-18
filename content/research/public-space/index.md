@@ -33,10 +33,10 @@ We are investigating the street experiments that bridge the mobility and public 
 
 ### Ongoing Research
 
-- [Global street experiments: Short-term actions to long-term changes] ({{< ref "/project/global-street-experiment/index" >}} "an ongoing public space project")
-- [Privately owned public space, interior urbanism, Hong Kong] ({{< ref "/project/privately-owned-public/index" >}} "an ongoing public space project")
-- [Tactical urbanism in Asian high-density cities] ({{< ref "/project/tactical-urbanism-asia" >}} "an ongoing public space project")
+- [Global street experiments: Short-term actions to long-term changes]({{< ref "/project/global-street-experiment/index" >}} "an ongoing public space project")
+- [Privately owned public space, interior urbanism, Hong Kong]({{< ref "/project/privately-owned-public/index" >}} "an ongoing public space project")
+- [Tactical urbanism in Asian high-density cities]({{< ref "/project/tactical-urbanism-asia" >}} "an ongoing public space project")
 
 ### Completed Work
-- [Walkability scoring in high-density cities] ({{< ref "/project/walkability-scoring/index" >}} "a completed public space project")
-- [3D pedestrian network of Hong Kong] ({{< ref "/project/3d-ped-network/index" >}} "a completed public space project")
+- [Walkability scoring in high-density cities]({{< ref "/project/walkability-scoring/index" >}} "a completed public space project")
+- [3D pedestrian network of Hong Kong]({{< ref "/project/3d-ped-network/index" >}} "a completed public space project")

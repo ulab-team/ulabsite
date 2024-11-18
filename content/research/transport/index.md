@@ -28,15 +28,15 @@ profile: false
 - Modelling of volumetric development in high-density citie
 
 ### Ongoing Research
-- [Land policy, housing, and transport infrastructure provision] ({{< ref "/project/land-policy/index" >}} "an ongoing transport research")
-- [Methodologies for assessing volumetric urban designs of metro infrastructure projects in the Greater Bay Area methodologies-assessing] ({{< ref "/project/methodologies-assessing/index" >}} "an ongoing transport research")
-- [Pricing urban design in metro station areas] ({{< ref "/project/pricing-urban-design/index" >}} "an ongoing transport research")
-- [Volumetric development, housing price, TOD] ({{< ref "/project/volumetric-development/index" >}} "an ongoing transport research")
-- [Public transport use, social inclusion and wellbeing of older people] ({{< ref "/project/public-transport/index" >}} "an ongoing transport research")
+- [Land policy, housing, and transport infrastructure provision]({{< ref "/project/land-policy/index" >}} "an ongoing transport research")
+- [Methodologies for assessing volumetric urban designs of metro infrastructure projects in the Greater Bay Area methodologies-assessing]({{< ref "/project/methodologies-assessing/index" >}} "an ongoing transport research")
+- [Pricing urban design in metro station areas]({{< ref "/project/pricing-urban-design/index" >}} "an ongoing transport research")
+- [Volumetric development, housing price, TOD]({{< ref "/project/volumetric-development/index" >}} "an ongoing transport research")
+- [Public transport use, social inclusion and wellbeing of older people]({{< ref "/project/public-transport/index" >}} "an ongoing transport research")
 
 ### Completed Work
-- [Metro and elderly health] ({{< ref "/project/metro-elderly-health/index" >}} "a completed transport research")
-- [How do older people access public transport in high-density cities?] ({{< ref "/project/older-people-access/index" >}} "a completed transport research")
-- [Shenzhen’s urban rail transit project in Addis Ababa] ({{< ref "/project/shenzhen-urban-rail/index" >}} "a completed transport research")
-- [Walking environment around metro stations] ({{< ref "/project/walking-environment/index" >}} "a completed transport research")
-- [Assessing planned transport infrastructure in Pakistan] ({{< ref "project/assessing-infra-pakistan/index" >}} "a completed transport research")
+- [Metro and elderly health]({{< ref "/project/metro-elderly-health/index" >}} "a completed transport research")
+- [How do older people access public transport in high-density cities?]({{< ref "/project/older-people-access/index" >}} "a completed transport research")
+- [Shenzhen’s urban rail transit project in Addis Ababa]({{< ref "/project/shenzhen-urban-rail/index" >}} "a completed transport research")
+- [Walking environment around metro stations]({{< ref "/project/walking-environment/index" >}} "a completed transport research")
+- [Assessing planned transport infrastructure in Pakistan]({{< ref "project/assessing-infra-pakistan/index" >}} "a completed transport research")
