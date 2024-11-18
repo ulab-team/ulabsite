@@ -28,11 +28,11 @@ profile: false
 - Modelling of volumetric development in high-density citie
 
 ### Ongoing Research
-- Land policy, housing, and transport infrastructure provision
-- Methodologies for assessing volumetric urban designs of metro infrastructure projects in the Greater Bay Area
-- Pricing urban design in metro station areas
-- Volumetric development, housing price, TOD
-- Public transport use, social inclusion and wellbeing of older people
+- [Land policy, housing, and transport infrastructure provision] ({{< ref "/project/land-policy/index" >}} "an ongoing transport research")
+- [Methodologies for assessing volumetric urban designs of metro infrastructure projects in the Greater Bay Area methodologies-assessing] ({{< ref "/project/methodologies-assessing/index" >}} "an ongoing transport research")
+- [Pricing urban design in metro station areas] ({{< ref "/project/pricing-urban-design/index" >}} "an ongoing transport research")
+- [Volumetric development, housing price, TOD] ({{< ref "/project/volumetric-development/index" >}} "an ongoing transport research")
+- [Public transport use, social inclusion and wellbeing of older people] ({{< ref "/project/public-transport/index" >}} "an ongoing transport research")
 
 ### Completed Work
 - Metro and elderly health

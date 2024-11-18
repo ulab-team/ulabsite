@@ -1,17 +1,18 @@
 ---
-title: Ungating the city for a sustainable future
-summary: What if gated communities around metro stations became permeable?
+title: Urban design, housing price, and new metro in China
+subtitle: Transit accessibility and design-related attributes in station areas would affect the housing price at various stages
 authors: 
-- gbsun
-- cwebster
+- dshe
 
 author_notes:
 - ''
-- ''
+
 
 tags: 
-- permeability
-- street network
+- volumetric development
+- housing price
+- TOD
+- complex intervention
 
 # Listing view
 # view: compact
@@ -36,18 +37,17 @@ image:
 
 ---
 
-Chinese cities are the leader in building gated communities. After three-decade expansions, a recent policy is seeking to open them. We use permeability analysis to explore the ‘what if?’ question posed by the policy: what if gated communities became permeable? We asked the question in respect of non-motorised access, not for cars as the ungating policy implied. Nanchang, a medium-sized Chinese city with over 600 large gated communities, was the study area. We constructed a bespoke complete pedestrian network, for the permeability modelling. The ungated pedestrian network is 18 times longer than the gated road network. We offer the analysis to urban scholars, planners and governments by way of a quantified simulation. 
+A new metro is a complex intervention to the city. It involves multiple sub-projects and various stages, including announcement, construction, and operation periods. The housing price premium could be summed into the speculation effect, anticipated effect, and actual benefits of transit service and environment improvement. Therefore, unravelling these interweaved effects could provide robust evidence of metro capitalisation effects.
 
-In terms of practical implementation, however, opening up all of a city’s gated communities would involve high political costs and potential compensation payments so it seems prudent to prioritise the ungating interventions which might yield the greatest benefits. The current study suggests that careful targeting of a sub-set of gated communities in station catchment areas for opening up and re-zoning with smaller blocks, or with pedestrian permeable larger blocks, will help maximise the benefits of metro station development (that has been extensively built), by deduction, such as promoting public transport use and increasing population health - more walking and cycling, more economically viable cities - greater pedestrian footfall concentrations, and a sustainable future.
+The transit accessibility and design-related attributes in station areas could increase the housing price. The new metro provides alternative travel options for residents and reduces travel time to different destinations. Station area development calls for mixed land use and high-density development. In addition, pedestrian facilities, integration of public transit hubs, and commercial facilities are indispensable. Also, environmental changes such as noise and crowdedness may influence the valuation and appraisal of users. Finally, the impact pathways would evolve in different stages. All these factors related to metro intervention affect housing prices.
 
+![](intervention-of-metro.png "Metro intervention on housing price")
 
-![](Figure-1-gated-communities-types.jpg "Types of Gated Communities")
-![](matrix_track_density.jpg "Path Densities")
+In this project, we aim to unravel the capitalisation effects of accessibility and urban design in station area development by considering the various stage of the complex intervention of the metro.
 
 ### Project Outputs
 
-- [Un-gating the cities: A permeability perspective]({{< ref "/publication/2018-sunwebsterchiaradia-us/index" >}} "academic publication")
-- [Unravelling the impact of street network structure and gated community layout in development-oriented transit design]({{< ref "/publication/2020-sunwallacewebster-lup/index" >}} "academic publication")
+- [New metro and housing price and rent premiums: A natural experiment study in China]({{< ref "/publication/2024-hesun-us/index" >}} "academic publication")
 
-_This project is funded by the National Natural Science Foundation of China (NSFC), **Natural experimental study of impacts of urban rail transit on sustainable travel in a medium-sized Chinese city** (2016.01-2020.04)._ 
+_This project is funded by the HKU Presidential PhD Scholar Programme (2021.09-2024.09)._ 
 {style="color: grey"}

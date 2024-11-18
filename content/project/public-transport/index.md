@@ -1,17 +1,19 @@
 ---
-title: Ungating the city for a sustainable future
-summary: What if gated communities around metro stations became permeable?
+title: Public transport use, social inclusion and wellbeing of older people
+subtitle: To what extent can social isolation explain the association between public transport use and wellbeing?
 authors: 
+- ydu
+- Eun Yeong Choe
 - gbsun
-- cwebster
 
 author_notes:
 - ''
+- Research Assistant Professor, The Hong Kong Polytechnic University
 - ''
 
 tags: 
-- permeability
-- street network
+- social isolation
+- urban rail
 
 # Listing view
 # view: compact
@@ -36,18 +38,18 @@ image:
 
 ---
 
-Chinese cities are the leader in building gated communities. After three-decade expansions, a recent policy is seeking to open them. We use permeability analysis to explore the ‘what if?’ question posed by the policy: what if gated communities became permeable? We asked the question in respect of non-motorised access, not for cars as the ungating policy implied. Nanchang, a medium-sized Chinese city with over 600 large gated communities, was the study area. We constructed a bespoke complete pedestrian network, for the permeability modelling. The ungated pedestrian network is 18 times longer than the gated road network. We offer the analysis to urban scholars, planners and governments by way of a quantified simulation. 
+Being socially connected is critical for later life. As travel is essential for most social interactions, older adults can better engage in social activities and maintain supportive social relationships by increasing public transport use. In transit-oriented cities such as Hong Kong, older people benefit from the well-developed transport system – they can still maintain high mobility rates in their later lives. However, there is a mismatch between metro development and the travel needs of older people. Their favourite travel, the public bus, has been continuedly reduced or adjusted with the expansion of the metro system. This may discourage them from staying active, connected and healthy.
 
-In terms of practical implementation, however, opening up all of a city’s gated communities would involve high political costs and potential compensation payments so it seems prudent to prioritise the ungating interventions which might yield the greatest benefits. The current study suggests that careful targeting of a sub-set of gated communities in station catchment areas for opening up and re-zoning with smaller blocks, or with pedestrian permeable larger blocks, will help maximise the benefits of metro station development (that has been extensively built), by deduction, such as promoting public transport use and increasing population health - more walking and cycling, more economically viable cities - greater pedestrian footfall concentrations, and a sustainable future.
+Social isolation is about older people's social network and their subjective feelings of loneliness. An increase in social networks and a reduction in perceived loneliness might benefit from supportive public transport options (e.g., more buses around), impacting wellbeing. However, we know little about the effect of social isolation on the relationship between the available public transport mode choice and the wellbeing of older people in Hong Kong.
+
+Using the metro and elderly health baseline data, we provide empirical evidence on the mediating effects of social network and loneliness of older people on the relationship between their public transport options and wellbeing.
 
 
-![](Figure-1-gated-communities-types.jpg "Types of Gated Communities")
-![](matrix_track_density.jpg "Path Densities")
+![](1-s2.0-S2214140522000500-gr1_lrg.jpg "The mediating effects of social network and loneliness of older people")
 
 ### Project Outputs
 
-- [Un-gating the cities: A permeability perspective]({{< ref "/publication/2018-sunwebsterchiaradia-us/index" >}} "academic publication")
-- [Unravelling the impact of street network structure and gated community layout in development-oriented transit design]({{< ref "/publication/2020-sunwallacewebster-lup/index" >}} "academic publication")
+- [placeholder]({{< ref "/publication/2018-sunwebsterchiaradia-us/index" >}} "academic publication")
 
-_This project is funded by the National Natural Science Foundation of China (NSFC), **Natural experimental study of impacts of urban rail transit on sustainable travel in a medium-sized Chinese city** (2016.01-2020.04)._ 
+_This project is funded by the HKU Seed Fund for Basic Research, **Reshaping Ties to Urban Environment in Later Life: A Qualitative Study Exploring the Social Wellbeing Impacts of a New Metro Line** (2022.07-2025.07, 102,500HKD)._ 
 {style="color: grey"}

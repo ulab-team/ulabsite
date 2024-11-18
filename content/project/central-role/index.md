@@ -1,6 +1,6 @@
 ---
 title: The central role of the qualitative method
-summary: What are we still missing in the causal inference of the built environment’s health effects?
+subtitle: What are we still missing in the causal inference of the built environment’s health effects?
 authors: 
 - gbsun
 

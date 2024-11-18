@@ -1,6 +1,6 @@
 ---
 title: Ungating the city for a sustainable future
-summary: What if gated communities around metro stations became permeable?
+subtitle: What if gated communities around metro stations became permeable?
 authors: 
 - gbsun
 - cwebster

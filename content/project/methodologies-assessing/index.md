@@ -1,17 +1,19 @@
 ---
-title: Ungating the city for a sustainable future
-summary: What if gated communities around metro stations became permeable?
+title: Assessing the impacts of volumetric urban designs of metro infrastructure projects in Greater Bay Area
+subtitle: New questions and methodologies in mega-infrastructure provision
 authors: 
+- jswang
 - gbsun
-- cwebster
+- Kelvin Wong
 
 author_notes:
 - ''
 - ''
+- Professor of Real Estate, The University of Hong Kong
 
 tags: 
-- permeability
-- street network
+- methodology
+- transportation
 
 # Listing view
 # view: compact
@@ -36,18 +38,11 @@ image:
 
 ---
 
-Chinese cities are the leader in building gated communities. After three-decade expansions, a recent policy is seeking to open them. We use permeability analysis to explore the ‘what if?’ question posed by the policy: what if gated communities became permeable? We asked the question in respect of non-motorised access, not for cars as the ungating policy implied. Nanchang, a medium-sized Chinese city with over 600 large gated communities, was the study area. We constructed a bespoke complete pedestrian network, for the permeability modelling. The ungated pedestrian network is 18 times longer than the gated road network. We offer the analysis to urban scholars, planners and governments by way of a quantified simulation. 
+This project will support pilot studies to refine research questions, and methodologies, and confirm the feasibilities of biding an external research impact fund on interdisciplinary assessments of how volumetric developments in metro infrastructure projects generate social, economic, health and wellbeing impacts for society in Greater Bay Area, within the institution, urban design, land finance and political contexts in China. This study extends the works and findings of several nationally competitive research grants, and practice funds from industries Dr Guibo Sun, Prof. Chris Webster, and Prof. Kelvin Wong have accomplished (see the list in the proposal). A sheer number of metro projects have been planned and constructed in Greater Bay Area. The findings can help transform the cities in this region because cities in Greater Bay Area rely on metro development to sustain their high-density built environment. Moreover, the investigation allows us to provide an in-depth understanding of the mechanism in the numerous new metro lines built in China and offer remediation guidelines to improve them further. Noted it is a metro-city-building era for Chinese cities. Over 50 metro lines could be planned or constructed in China in one year. In addition, China is actively extending the metro-city building model to Belt and Road countries, such as Ethiopia, Vietnam and Israel. Hence, the impact pathways expand from China to abroad. 
 
-In terms of practical implementation, however, opening up all of a city’s gated communities would involve high political costs and potential compensation payments so it seems prudent to prioritise the ungating interventions which might yield the greatest benefits. The current study suggests that careful targeting of a sub-set of gated communities in station catchment areas for opening up and re-zoning with smaller blocks, or with pedestrian permeable larger blocks, will help maximise the benefits of metro station development (that has been extensively built), by deduction, such as promoting public transport use and increasing population health - more walking and cycling, more economically viable cities - greater pedestrian footfall concentrations, and a sustainable future.
+> We aim to understand the complex interactions of metro infrastructure building, urban development, land financialisation, and design and development issues in volumetric development around the stations, and their social and health impacts in the Greater Bay Area. Our research can inform new questions and methodologies in mega-infrastructure planning and design, contemporary urban development, and societal impacts in China. 
 
+![](figure.png "Volumetric development in Shenzhen, China")
 
-![](Figure-1-gated-communities-types.jpg "Types of Gated Communities")
-![](matrix_track_density.jpg "Path Densities")
-
-### Project Outputs
-
-- [Un-gating the cities: A permeability perspective]({{< ref "/publication/2018-sunwebsterchiaradia-us/index" >}} "academic publication")
-- [Unravelling the impact of street network structure and gated community layout in development-oriented transit design]({{< ref "/publication/2020-sunwallacewebster-lup/index" >}} "academic publication")
-
-_This project is funded by the National Natural Science Foundation of China (NSFC), **Natural experimental study of impacts of urban rail transit on sustainable travel in a medium-sized Chinese city** (2016.01-2020.04)._ 
+_This project is funded by HKU Seed Funding for Strategic Interdisciplinary Research Scheme, **Methodologies for assessing specific social, economic, health and wellbeing impacts of volumetric urban designs of metro infrastructure projects in Greater Bay Area** (2022.06-2025.06, 1,000,000HKD)._ 
 {style="color: grey"}

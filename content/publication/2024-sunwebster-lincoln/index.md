@@ -33,9 +33,9 @@ tags:
 
 featured: true
 
-# links:
-# - name: ""
-#   url: ""
+links:
+- name: source
+  url: https://www.lincolninst.edu/publications/working-papers/are-gated-communities-capturing-lions-share-metro-accessibility/
 url_project: ''
 
 

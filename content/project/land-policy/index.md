@@ -19,7 +19,7 @@ tags:
 
 date: 2024-11-18
 lastmod: 2024-11-18
-featured: false
+featured: true
 draft: false
 show_related: true
 pager: false
@@ -48,5 +48,5 @@ This project investigates the mechanisms by which gated communities are in dange
 
 - [Are Gated Communities Capturing the Lion’s Share of Metro Accessibility?]({{< ref "/publication/2024-sunwebster-lincoln/index" >}} "working paper")
 
-_This project is funded by Lincoln Institute of Land Policy, **Are gated communities capturing the lion's share of metro-created accessibility in Chinese cities?** (2023.03-2024.05)._ 
+_This project is funded by the Lincoln Institute of Land Policy, **Are gated communities capturing the lion's share of metro-created accessibility in Chinese cities?** (2023.03-2024.05)._ 
 {style="color: grey"}

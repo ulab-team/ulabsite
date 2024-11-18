@@ -1,6 +1,6 @@
 ---
 title: Healthy urban rehabilitation through social innovatio
-summary: How to co-produce urban rehabilitation improving local residents' health
+subtitle: How to co-produce urban rehabilitation improving local residents' health
 authors: 
 - gbsun
 - Eun Yeong Choe

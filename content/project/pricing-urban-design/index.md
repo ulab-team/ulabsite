@@ -1,17 +1,19 @@
 ---
-title: Ungating the city for a sustainable future
-summary: What if gated communities around metro stations became permeable?
+title: Pricing urban design in metro station areas
+subtitle: The way to increase the supply of more high-quality urban spaces
 authors: 
 - gbsun
+- dshe
 - cwebster
 
 author_notes:
 - ''
 - ''
+- ''
 
 tags: 
-- permeability
-- street network
+- urban rail
+- urban design
 
 # Listing view
 # view: compact
@@ -36,18 +38,17 @@ image:
 
 ---
 
-Chinese cities are the leader in building gated communities. After three-decade expansions, a recent policy is seeking to open them. We use permeability analysis to explore the ‘what if?’ question posed by the policy: what if gated communities became permeable? We asked the question in respect of non-motorised access, not for cars as the ungating policy implied. Nanchang, a medium-sized Chinese city with over 600 large gated communities, was the study area. We constructed a bespoke complete pedestrian network, for the permeability modelling. The ungated pedestrian network is 18 times longer than the gated road network. We offer the analysis to urban scholars, planners and governments by way of a quantified simulation. 
+Well-designed urban space is what economists call a ‘public good’. One way of achieving more supplies of high-quality urban spaces would be to attach a price to urban design benefits. In this project. we explore the possibilities of ‘pricing’ urban design in metro station areas to increase the supply of more high-quality urban spaces in high-density cities. By ‘pricing’, we mean charging beneficiaries, directly or indirectly, via transactions that capture the value of urban design. Many stakeholders, such as local government, transit agencies, real estate developers, and residents, create and benefit from high-quality station areas. However, the metro station area is consumed by many people and therefore is difficult to price. But if the urban design in the station areas could be priced, it could be provided and allocated more efficiently. Thus, pricing could recover the costs of design-enhancing investment and lead to the supply of more high-quality urban spaces around metro stations. It could, in this way, induce a more efficient allocation of resources, as money-capital owned by an individual or a group of individuals, is turned into high-quality urban spaces that benefit the many.
 
-In terms of practical implementation, however, opening up all of a city’s gated communities would involve high political costs and potential compensation payments so it seems prudent to prioritise the ungating interventions which might yield the greatest benefits. The current study suggests that careful targeting of a sub-set of gated communities in station catchment areas for opening up and re-zoning with smaller blocks, or with pedestrian permeable larger blocks, will help maximise the benefits of metro station development (that has been extensively built), by deduction, such as promoting public transport use and increasing population health - more walking and cycling, more economically viable cities - greater pedestrian footfall concentrations, and a sustainable future.
+> We like the analogy of Starbucks and similar innovators, who discovered how to price ‘comfort’ into a cup of coffee and thereby deliver a major innovation that helped draw pedestrians back to the city centres: private leather-arm chair filled lounges, with rental for seating priced into the coffee. How might we similarly create a revolution in how high-quality urban space is supplied in our cities in a manner that spreads and captures the economic and other value created by metro investment?
 
+![](price.jpg "An analogy to Starbuck's pricing strategy")
 
-![](Figure-1-gated-communities-types.jpg "Types of Gated Communities")
-![](matrix_track_density.jpg "Path Densities")
 
 ### Project Outputs
 
-- [Un-gating the cities: A permeability perspective]({{< ref "/publication/2018-sunwebsterchiaradia-us/index" >}} "academic publication")
-- [Unravelling the impact of street network structure and gated community layout in development-oriented transit design]({{< ref "/publication/2020-sunwallacewebster-lup/index" >}} "academic publication")
+- [this is a placeholder]({{< ref "/publication/2018-sunwebsterchiaradia-us/index" >}} "academic publication")
+- [placeholder]({{< ref "/publication/2020-sunwallacewebster-lup/index" >}} "academic publication")
 
-_This project is funded by the National Natural Science Foundation of China (NSFC), **Natural experimental study of impacts of urban rail transit on sustainable travel in a medium-sized Chinese city** (2016.01-2020.04)._ 
+_This project is funded by the National Natural Science Foundation of China (NSFC), **Pricing urban design in the walking catchment of metro stations** (2021.01-2025.01, 580,000RMB)._ 
 {style="color: grey"}

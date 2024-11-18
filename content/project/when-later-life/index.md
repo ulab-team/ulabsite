@@ -1,6 +1,6 @@
 ---
 title: When later life faces urban redevelopment
-summary: Causal effect of older people's health in urban renewal in Hong Kong
+subtitle: Causal effect of older people's health in urban renewal in Hong Kong
 authors: 
 - llin
 - gbsun
