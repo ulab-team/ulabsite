@@ -23,10 +23,13 @@ publication: "_Lincoln Institute of Land Policy_"
 publication_short: ""
 
 # Summary. An optional shortened abstract.
-summary: This study adds geospatial information to pandemic-induced street experiments.
+summary: This paper provides empirical evidence on the co-evolution of metro and gated communities by examining China’s recent approaches to planning and funding metro extensions. 
 
 tags:
-- street experiment
+- infrastructure
+- local government
+- housing
+- transportation
 
 featured: true
 
@@ -48,10 +51,11 @@ image:
 #   Simply enter your project's folder or file name without extension.
 #   E.g. `internal-project` references `content/project/internal-project/index.md`.
 #   Otherwise, set `projects: []`.
-projects: []
+projects: 
+- land-policy
 
 ---
 
 ## Abstract
 
-Street experiment is a tactical urbanism practice that involves implementing temporary changes in street use through regulatory or physical interventions, aimed at people-centric street transition. During the Covid-19 pandemic, cities worldwide implemented street experiments to accommodate the need for socially-distanced physical and commercial activities. However, we know little about the locations and urban environments of these pandemic-induced street experiments on a global scale. This knowledge gap hinders us from understanding where these experiments took place, the conditions of the neighbourhoods involved, and the factors contributing to their longevity beyond the pandemic. We thus developed a geospatial database to document the pandemic-induced street experiments (PISE Database), enabling quantitative analysis of these interventions. We mapped the locations and calculated the neighbourhood environment attributes of 539 street experiments in 333 cities. Our contributions are twofold. Firstly, we enhanced the comparability of built environment indicators between cities, thereby advancing the construction of global geospatial datasets. Specifically, we established a standardised template encompassing unified neighbourhood-level built environment indicators and methodologies, for which we devised relative values to facilitate comparisons between different cities and defined study areas using the 15-minute walking city and Urban Centre concepts. Secondly, we conducted primary analyses based on spatial and temporal visualisations of the street experiment locations and durations, shedding light on locational patterns and development trajectories during times of crisis. This global, quantitative approach complements the growing body of local and often qualitative studies. Our work improves existing global quantitative databases and provides a robust foundation for future research on tactical urbanism.
+The metro system is an expensive transport infrastructure but has been massively built in Chinese cities. The coexistence of large-block gated communities and new metro lines has led to land use inefficiencies, low transit usage, and social inequality. This paper provides empirical evidence on the co-evolution of metro and gated communities by examining China’s recent approaches to planning and funding metro extensions. Using Guangzhou and Nanchang as cases and a mixed-methods approach, we contribute this study to the global debates on land and infrastructure governance. Our analysis reveals that gated communities and land development have mutually reinforced each other and that metro infrastructure functions are the nexus of this process. We started with empirical questions of why accessibility often takes a backseat to other priorities in the costly investments made in metro infrastructure across China. Throughout the study, we addressed crucial issues such as land value capture, land ownership, localized bargaining dynamics, and complex tensions among districts, metro companies (a municipal-level state-owned enterprise), and municipal governments. Our nuanced discussions shed light on the evolving struggles in infrastructure financing within local governments, offering a unique perspective that adds to the existing literature, which primarily focuses on national-local relations. Our findings on China’s metro infrastructure, land, and housing policies offer valuable insights into the complexities of urban development and potential avenues for policy improvements, contributing to global intellectual and policy debates.

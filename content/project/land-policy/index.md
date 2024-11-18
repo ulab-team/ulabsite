@@ -46,7 +46,7 @@ This project investigates the mechanisms by which gated communities are in dange
 
 ### Project Outputs
 
-- [Are Gated Communities Capturing the Lion’s Share of Metro Accessibility?]({{< ref "/publication/2018-sunwebsterchiaradia-us/index" >}} "working paper")
+- [Are Gated Communities Capturing the Lion’s Share of Metro Accessibility?]({{< ref "/publication/2024-sunwebster-lincoln/index" >}} "working paper")
 
 _This project is funded by Lincoln Institute of Land Policy, **Are gated communities capturing the lion's share of metro-created accessibility in Chinese cities?** (2023.03-2024.05)._ 
 {style="color: grey"}
