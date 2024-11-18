@@ -35,8 +35,8 @@ profile: false
 - [Public transport use, social inclusion and wellbeing of older people] ({{< ref "/project/public-transport/index" >}} "an ongoing transport research")
 
 ### Completed Work
-- Metro and elderly health
-- How do older people access public transport in high-density cities?
-- Shenzhen’s urban rail transit project in Addis Ababa
-- Walking environment around metro stations
-- Assessing planned transport infrastructure in Pakistan
+- [Metro and elderly health] ({{< ref "/project/metro-elderly-health/index" >}} "a completed transport research")
+- [How do older people access public transport in high-density cities?] ({{< ref "/project/older-people-access/index" >}} "a completed transport research")
+- [Shenzhen’s urban rail transit project in Addis Ababa] ({{< ref "/project/shenzhen-urban-rail/index" >}} "a completed transport research")
+- [Walking environment around metro stations] ({{< ref "/project/walking-environment/index" >}} "a completed transport research")
+- [Assessing planned transport infrastructure in Pakistan] ({{< ref "project/assessing-infra-pakistan/index" >}} "a completed transport research")

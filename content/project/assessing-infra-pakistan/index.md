@@ -1,17 +1,15 @@
 ---
-title: Ungating the city for a sustainable future
-subtitle: What if gated communities around metro stations became permeable?
+title: Development of a Protocol for Connectivity Impact Analysis
+subtitle: The transport infrastructures may improve connectivity for key cities, but also widen development inequality of Pakistan
+
 authors: 
 - gbsun
-- cwebster
 
 author_notes:
 - ''
-- ''
 
 tags: 
-- permeability
-- street network
+- infrastructure
 
 # Listing view
 # view: compact
@@ -36,18 +34,27 @@ image:
 
 ---
 
-Chinese cities are the leader in building gated communities. After three-decade expansions, a recent policy is seeking to open them. We use permeability analysis to explore the ‘what if?’ question posed by the policy: what if gated communities became permeable? We asked the question in respect of non-motorised access, not for cars as the ungating policy implied. Nanchang, a medium-sized Chinese city with over 600 large gated communities, was the study area. We constructed a bespoke complete pedestrian network, for the permeability modelling. The ungated pedestrian network is 18 times longer than the gated road network. We offer the analysis to urban scholars, planners and governments by way of a quantified simulation. 
+There is no clear protocol for quantitatively assessing connectivity impacts of mega transport infrastructure projects designed to reconfigure the transportation networks of entire regions and sub-continents. We developed a protocol that uses open-source data and tools to complete the analysis, starting from data acquisition, network preparation, to the analyses of centrality (accessibility) and percolation (agglomeration). We tested our protocol on the China-Pakistan Economic Corridor (CPEC), the flagship project of China’s Belt and Road Initiative. We found that the CPEC outcomes will be mixed, improving connectivity and economic growth for key cities but widening development inequality. The benefits of our protocol are threefold. First, it extends the existing literature by providing a quantitative method for estimating the importance of new transportation networks brought by BRI. Second, it can be replicated to different scales and locations with easy-access open data. Third, the processing platforms we use are all open source, making it accessible for local governments and analysts in resource scarcity typically found in BRI projects. The protocol can be adopted by the government, academic, funding, private, and community stakeholders to effectively assess BRI-related investments.  
 
-In terms of practical implementation, however, opening up all of a city’s gated communities would involve high political costs and potential compensation payments so it seems prudent to prioritise the ungating interventions which might yield the greatest benefits. The current study suggests that careful targeting of a sub-set of gated communities in station catchment areas for opening up and re-zoning with smaller blocks, or with pedestrian permeable larger blocks, will help maximise the benefits of metro station development (that has been extensively built), by deduction, such as promoting public transport use and increasing population health - more walking and cycling, more economically viable cities - greater pedestrian footfall concentrations, and a sustainable future.
+#### Assessing China-Pakistan Economic Corridors (CPEC)
+CPEC plans to upgrade and construct a series of road and rail linkages to better connect northern Pakistan and seaports in the south. These linkages enable faster transport of goods from Kashgar, Xinjiang, China to other continents via the Gwadar. 
 
+![](fig1.network2018_cpec_v202201s.jpg "Road and Rail Network Comparisons Before and After the CPEC")
 
-![](Figure-1-gated-communities-types.jpg "Types of Gated Communities")
-![](matrix_track_density.jpg "Path Densities")
+#### Network Analysis
+We conducted centrality and percolation analyses to quantitatively evaluate the changes of the post-CPEC network. Closeness centrality measures the average distance from one link to the rest of the network in a given range; betweenness centrality measures the weight of the shortest path that passes through a link. Percolation examines the network agglomeration with different thresholds.
+
+![](visual-abstract_custom.png "Overview of the Protocol Workflow")
+
+#### Results
+Results show that the eastern regions are predicted to benefit from CPEC projects, with shortened average distance and more shortest paths. Yet, the connectivity remains stagnant in western regions. Eastern Pakistan has already been more prosperous than the west, and thus the limited development in the west leads to concern of widened gap in development inequality. 
+
+![](fig2.rel_normclos_600dpi.jpeg '')
 
 ### Project Outputs
 
-- [Un-gating the cities: A permeability perspective]({{< ref "/publication/2018-sunwebsterchiaradia-us/index" >}} "academic publication")
-- [Unravelling the impact of street network structure and gated community layout in development-oriented transit design]({{< ref "/publication/2020-sunwallacewebster-lup/index" >}} "academic publication")
+- [Does China-Pakistan Economic Corridor improve connectivity in Pakistan ? A protocol assessing the planned transport network infrastructure]({{< ref "/publication/2022-zhaosunwebster-jtg/index" >}} "academic publication")
 
-_This project is funded by the National Natural Science Foundation of China (NSFC), **Natural experimental study of impacts of urban rail transit on sustainable travel in a medium-sized Chinese city** (2016.01-2020.04)._ 
+
+_This project is funded by the HKU Seed Fund for Basic Research, **Assessing Transport Infrastructure Development in Belt and Road Initiative: Development of a Protocol for Connectivity Impact Analysis** (2019.03-2021.03)._ 
 {style="color: grey"}

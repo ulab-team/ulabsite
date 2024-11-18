@@ -1,16 +1,14 @@
 ---
-title: Ungating the city for a sustainable future
-subtitle: What if gated communities around metro stations became permeable?
+title: Shenzhen’s urban rail transit project in Addis Ababa
+subtitle: Chinese metro companies go overseas; business not as usual
 authors: 
 - gbsun
-- cwebster
 
 author_notes:
 - ''
-- ''
 
 tags: 
-- permeability
+- urban rail
 - street network
 
 # Listing view
@@ -36,18 +34,22 @@ image:
 
 ---
 
-Chinese cities are the leader in building gated communities. After three-decade expansions, a recent policy is seeking to open them. We use permeability analysis to explore the ‘what if?’ question posed by the policy: what if gated communities became permeable? We asked the question in respect of non-motorised access, not for cars as the ungating policy implied. Nanchang, a medium-sized Chinese city with over 600 large gated communities, was the study area. We constructed a bespoke complete pedestrian network, for the permeability modelling. The ungated pedestrian network is 18 times longer than the gated road network. We offer the analysis to urban scholars, planners and governments by way of a quantified simulation. 
+Chinese metro companies actively look for overseas markets and opportunities under the Belt and Road Initiative. Several metro companies are conducting urban rail transit projects abroad. They won bids due to their rich experience at home. However, an urban rail transit project is a systematic work that consists of planning, design, construction, equipment, and operation. It involves human and non-human actors and their complex interactions. Each project must coordinate with the host country regarding the political system, planning and development control, and technological standards.
 
-In terms of practical implementation, however, opening up all of a city’s gated communities would involve high political costs and potential compensation payments so it seems prudent to prioritise the ungating interventions which might yield the greatest benefits. The current study suggests that careful targeting of a sub-set of gated communities in station catchment areas for opening up and re-zoning with smaller blocks, or with pedestrian permeable larger blocks, will help maximise the benefits of metro station development (that has been extensively built), by deduction, such as promoting public transport use and increasing population health - more walking and cycling, more economically viable cities - greater pedestrian footfall concentrations, and a sustainable future.
+This paper presented a concrete BRI case using the Addis Ababa Light Rail Transit project. It was the first light rail transit project with BRI label, the first overseas project managed by Shenzhen Metro Cooperation, and the first urban rail transit system in sub-Saharan Africa. We unravelled how this project worked on the ground through in-depth interviews of company staff from China and local staff and elites from Ethiopia, contract and document analysis of the light rail transit (formation, implementation, and operation).
 
+![](Road_and_Transport_System_SEALED_101_New_Final_jz2.jpg "The light rail system in Addis Ababa, Ethiopia")
 
-![](Figure-1-gated-communities-types.jpg "Types of Gated Communities")
-![](matrix_track_density.jpg "Path Densities")
+Specifically, first, we depicted the line alignment and station design problems within the political and financial context. We found the current lack of integration with the city cannot be understood from previous station design analysis. We need to examine the design choice under financial constraints using China loans and professed modernity needs of the Ethiopian developmental state. We also need to understand the metro development model in China, as the Chinese contractors could provide remediation if they had the know-how.  Second, we analysed Ethiopia’s actions and motivations in the management contract design and implementation, which took up by Shenzhen Metro Cooperation. It was an operation and maintenance service contract, emphasising staff training and knowledge transfer to Ethiopia. The recipient state has substantial control of the cooperation. However, the results might be not as what Ethiopia expected. Third, we reflected on interactions between China and Ethiopia project actors under BRI, which has become the fundamental concept of China’s foreign policy. Based on this, we discussed the long-term impact and sustainability of AALRT and China’s BRI infrastructure building in Africa.
+
+What happens next in Addis Ababa will greatly interest scholars and recipients of BRI projects and loans. We argue that BRI may bring infrastructure to developing countries. The multiple interests being served and resultant dynamics at each project stage should be factored in when understanding BRI and evaluating its success. 
+
+![](Rail-illustration.jpg "The road layout before and after the light rail system")
+![](mean-geodesic-length.jpg "The difference in mean geodesic length compared to mean crow flight at 1600m for pedestrian")
 
 ### Project Outputs
 
-- [Un-gating the cities: A permeability perspective]({{< ref "/publication/2018-sunwebsterchiaradia-us/index" >}} "academic publication")
-- [Unravelling the impact of street network structure and gated community layout in development-oriented transit design]({{< ref "/publication/2020-sunwallacewebster-lup/index" >}} "academic publication")
+- [placeholder]({{< ref "/publication/2018-sunwebsterchiaradia-us/index" >}} "academic publication")
 
-_This project is funded by the National Natural Science Foundation of China (NSFC), **Natural experimental study of impacts of urban rail transit on sustainable travel in a medium-sized Chinese city** (2016.01-2020.04)._ 
+_This project is funded by the HKU Seed Fund for Basic Research, **Assessing Transport Infrastructure Development in Belt and Road Initiative: Development of a Protocol for Connectivity Impact Analysis** (2019.03-2021.03)._ 
 {style="color: grey"}

@@ -1,17 +1,17 @@
 ---
-title: Ungating the city for a sustainable future
-subtitle: What if gated communities around metro stations became permeable?
+title: How do older people access public transport in high-density cities?
+subtitle: Understanding the concerns and walking barriers through their lens
 authors: 
 - gbsun
-- cwebster
+- Cheuk Yin Lau
 
 author_notes:
 - ''
-- ''
+- Graduate, The University of Hong Kong
 
 tags: 
-- permeability
-- street network
+- methodology
+- public transport
 
 # Listing view
 # view: compact
@@ -30,24 +30,25 @@ profile: true
 # To use, add an image named `featured.jpg/png` to your page's folder.
 # Focal points: Smart, Center, TopLeft, Top, TopRight, Left, Right, BottomLeft, Bottom, BottomRight.
 image:
-  caption: ''
+  caption: 'A Hong Kong street corner'
   focal_point: ""
   preview_only: false
 
 ---
 
-Chinese cities are the leader in building gated communities. After three-decade expansions, a recent policy is seeking to open them. We use permeability analysis to explore the ‘what if?’ question posed by the policy: what if gated communities became permeable? We asked the question in respect of non-motorised access, not for cars as the ungating policy implied. Nanchang, a medium-sized Chinese city with over 600 large gated communities, was the study area. We constructed a bespoke complete pedestrian network, for the permeability modelling. The ungated pedestrian network is 18 times longer than the gated road network. We offer the analysis to urban scholars, planners and governments by way of a quantified simulation. 
+> "I do not want to reach the destination so quickly when travelling by bus. So, I will get off the bus at places being a little far away from the destination and then walk to the destination. In this way, I can have a little more exercise. I have little other daily exercises, and I can have an amount of about one hour of exercise if I make my travel in this way. I believe this will make me live longer."
+> _A quote from a 72 years participant_
 
-In terms of practical implementation, however, opening up all of a city’s gated communities would involve high political costs and potential compensation payments so it seems prudent to prioritise the ungating interventions which might yield the greatest benefits. The current study suggests that careful targeting of a sub-set of gated communities in station catchment areas for opening up and re-zoning with smaller blocks, or with pedestrian permeable larger blocks, will help maximise the benefits of metro station development (that has been extensively built), by deduction, such as promoting public transport use and increasing population health - more walking and cycling, more economically viable cities - greater pedestrian footfall concentrations, and a sustainable future.
+In high-density cities, especially those in Asia, seek to provide better public transport to sustain their built environments. Many, such as Tokyo, Singapore and Hong Kong, turn to massive transit railway, the metro. However, concerns and walking barriers for older people when using public transport may determine how they choose between metro and public bus. Without such understanding, the cities might undermine their public transport provisions for the rapid increased ageing population.
 
+We use the go-along method to understand the concerns, walking barriers, and areas of improvement when older people use public transport in high-density cities. The go-along interview is a mobile method to understand interactions between individuals and the environment, enhancing the contextual basis of qualitative research. It allows us to explore relationships between older people and the walking environment approaching public transport in an interactive manner. For example, older people could explain and demonstrate why they struggled to negotiate particular environment details instead of describing stairs as generally problematic. Older people are exposed to the immediate environment, which can trigger a discussion about the influence on their walking experiences when accessing public transport. Participants could discuss issues or ideas for which they are immediately aware. They are likely to share experiences about a topic that mattered to them.
 
-![](Figure-1-gated-communities-types.jpg "Types of Gated Communities")
-![](matrix_track_density.jpg "Path Densities")
+Our innovative go-along interviews obtained detailed and context-specific information about walking in public transport use, which grounds our findings in place and from views of older people in high-density cities.
 
 ### Project Outputs
 
-- [Un-gating the cities: A permeability perspective]({{< ref "/publication/2018-sunwebsterchiaradia-us/index" >}} "academic publication")
-- [Unravelling the impact of street network structure and gated community layout in development-oriented transit design]({{< ref "/publication/2020-sunwallacewebster-lup/index" >}} "academic publication")
+- [Go-along with older people to public transport in high-density cities: Understanding the concerns and walking barriers through their lens]({{< ref "/publication/2021-sunlau-jth/index" >}} "academic publication")
+
 
 _This project is funded by the National Natural Science Foundation of China (NSFC), **Natural experimental study of impacts of urban rail transit on sustainable travel in a medium-sized Chinese city** (2016.01-2020.04)._ 
 {style="color: grey"}

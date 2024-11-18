@@ -1,6 +1,6 @@
 ---
-title: Ungating the city for a sustainable future
-subtitle: What if gated communities around metro stations became permeable?
+title: Walking environment around metro stations
+subtitle: What are on the streets in medium-sized Chinese cities?
 authors: 
 - gbsun
 - cwebster
@@ -10,7 +10,7 @@ author_notes:
 - ''
 
 tags: 
-- permeability
+- integration
 - street network
 
 # Listing view
@@ -36,18 +36,22 @@ image:
 
 ---
 
-Chinese cities are the leader in building gated communities. After three-decade expansions, a recent policy is seeking to open them. We use permeability analysis to explore the ‘what if?’ question posed by the policy: what if gated communities became permeable? We asked the question in respect of non-motorised access, not for cars as the ungating policy implied. Nanchang, a medium-sized Chinese city with over 600 large gated communities, was the study area. We constructed a bespoke complete pedestrian network, for the permeability modelling. The ungated pedestrian network is 18 times longer than the gated road network. We offer the analysis to urban scholars, planners and governments by way of a quantified simulation. 
+A walking-friendly environment can encourage pedestrian access and increase metro ridership; therefore, it should be carefully designed around the stations. Despite this, urban rail transit development is not always accompanied by walkable station surroundings. This issue deserves particular attention in developing countries such as China, which is experiencing rapid metro development and has abundant gated communities in building around stations, in both old neighbourhoods and newly sprawled areas. 
 
-In terms of practical implementation, however, opening up all of a city’s gated communities would involve high political costs and potential compensation payments so it seems prudent to prioritise the ungating interventions which might yield the greatest benefits. The current study suggests that careful targeting of a sub-set of gated communities in station catchment areas for opening up and re-zoning with smaller blocks, or with pedestrian permeable larger blocks, will help maximise the benefits of metro station development (that has been extensively built), by deduction, such as promoting public transport use and increasing population health - more walking and cycling, more economically viable cities - greater pedestrian footfall concentrations, and a sustainable future.
+Our study shows that the development-oriented approach that prioritises land value increase has paid little attention to providing walking-friendly designs in station surroundings. Together with gated community development, the development-oriented transit has moved away from established strategic thinking on urban rail transit planning and sustainable city building. 
 
+China’s metro systems will shape urban growth, development, economy and society for many decades to come. Re-engineering walking environments around stations will help increase transit ridership and transit-related property value in short-term and encourage healthier lifestyles and active travel in the long run. 
 
-![](Figure-1-gated-communities-types.jpg "Types of Gated Communities")
-![](matrix_track_density.jpg "Path Densities")
+#### Walking to the metro in old neighbourhoods
+![](Slide1.JPG "Walking environment in old neighbourhoods")
+
+#### Walking to the metro in newly designed areas
+![](Slide2.JPG "Walking environment in new towns")
 
 ### Project Outputs
 
-- [Un-gating the cities: A permeability perspective]({{< ref "/publication/2018-sunwebsterchiaradia-us/index" >}} "academic publication")
-- [Unravelling the impact of street network structure and gated community layout in development-oriented transit design]({{< ref "/publication/2020-sunwallacewebster-lup/index" >}} "academic publication")
+- [Objective assessment of station approach routes: development and reliability of an audit for walking environments around metro stations in China]({{< ref "/publication/2017-sunwebsterchiaradia-jth/index" >}} "academic publication")
+- [How do metro stations integrate with walking environments? Results from walking access within three types of built environment in Beijing]({{< ref "/publication/2016-sunzachariasmaoreskovic-cities/index" >}} "academic publication")
 
 _This project is funded by the National Natural Science Foundation of China (NSFC), **Natural experimental study of impacts of urban rail transit on sustainable travel in a medium-sized Chinese city** (2016.01-2020.04)._ 
 {style="color: grey"}

@@ -1,24 +1,26 @@
 ---
-title: Ungating the city for a sustainable future
-subtitle: What if gated communities around metro stations became permeable?
+title: Metro and elderly health
+subtitle: There is a mismatch between the supply of public transport and the demand of older people
 authors: 
 - gbsun
-- cwebster
+- Michael Ni
+- ydu
 
 author_notes:
 - ''
+- Clinical Associate Professor, Division of Community Medicine and Public Health Practice, School of Public Health, HKU
 - ''
 
 tags: 
-- permeability
-- street network
+- natural experiment
+- ageing
 
 # Listing view
 # view: compact
 
 date: 2024-11-17
 lastmod: 2024-11-17
-featured: false
+featured: true
 draft: false
 show_related: true
 pager: false
@@ -36,18 +38,23 @@ image:
 
 ---
 
-Chinese cities are the leader in building gated communities. After three-decade expansions, a recent policy is seeking to open them. We use permeability analysis to explore the ‘what if?’ question posed by the policy: what if gated communities became permeable? We asked the question in respect of non-motorised access, not for cars as the ungating policy implied. Nanchang, a medium-sized Chinese city with over 600 large gated communities, was the study area. We constructed a bespoke complete pedestrian network, for the permeability modelling. The ungated pedestrian network is 18 times longer than the gated road network. We offer the analysis to urban scholars, planners and governments by way of a quantified simulation. 
+Public transport use may influence the physical activity, social inclusion and wellbeing of the elderly. However, previous studies on public transport use and elderly health were mostly observational studies using cross-sectional data. Few studies have examined the before-and-after effects of a new metro, for example, to see if it leads to improved elderly health.
 
-In terms of practical implementation, however, opening up all of a city’s gated communities would involve high political costs and potential compensation payments so it seems prudent to prioritise the ungating interventions which might yield the greatest benefits. The current study suggests that careful targeting of a sub-set of gated communities in station catchment areas for opening up and re-zoning with smaller blocks, or with pedestrian permeable larger blocks, will help maximise the benefits of metro station development (that has been extensively built), by deduction, such as promoting public transport use and increasing population health - more walking and cycling, more economically viable cities - greater pedestrian footfall concentrations, and a sustainable future.
+We use a new metro line in Hong Kong as a natural experiment to examine the impact of the metro-led public transport intervention on elderly health. In Hong Kong, more than 90% of daily travel are made by public transport. The public transport modifications consist of the new metro line with eight stations and changes in the walking environment and bus services around the stations. We look at the before-and-after differences in public transport use and health outcomes between elderly participants living in treatment neighbourhoods (400m walking buffered areas of the new metro stations) and in control groups (living in comparable areas but unaffected by the new metro).
 
+We aim to investigate if the new metro and the associated changes in the built environment affect public transport use behaviours, physical activity and wider health outcomes among the elderly (e.g., social inclusion, quality of life, subjective wellbeing). Questionnaire-based baseline data were collected in 2019 before the COVID-19 pandemic, while some qualitative interviews are ongoing. Amid the pandemic, we conducted a quick telephone-based survey of COVID-19’s potential impact on public transport use behaviours of our elderly cohort in September 2020. Note there is no lockdown in Hong Kong. The new metro was opened in July 2021, and we are conducting a follow-up survey.
 
-![](Figure-1-gated-communities-types.jpg "Types of Gated Communities")
-![](matrix_track_density.jpg "Path Densities")
+![](SCL_ga_map.png "New metro line addition as an urban intervention: a natural experiment")
+
+> #### Strengths and limitations
+> - This study will investigate how the new metro and the associated changes in the built environments can be used as a source of public health interventions for older people.
+> - We explore a more specific set of research questions linking the new metro and the associated changes in built environment with public transport use, physical activity and wider health impact among the elderly cohort in a high-density city. 
+> - Our natural experiment research design with multiple treatment–control groups will provide robust estimates of the health impact of public transport.
+> - Although the natural experiment research design is insightful, this type of large-scale study may encounter financial and time constraints due to risk of postponement and other uncertainties (eg, COVID-19) during the infrastructure modifications; hence, research design needs to be adaptive.
 
 ### Project Outputs
 
-- [Un-gating the cities: A permeability perspective]({{< ref "/publication/2018-sunwebsterchiaradia-us/index" >}} "academic publication")
-- [Unravelling the impact of street network structure and gated community layout in development-oriented transit design]({{< ref "/publication/2020-sunwallacewebster-lup/index" >}} "academic publication")
+- [Metro and elderly health in Hong Kong: Protocol for a natural experiment study in a high-density city]({{< ref "/publication/2021-sundunizhaowebster-bmjopen/index" >}} "academic publication")
 
-_This project is funded by the National Natural Science Foundation of China (NSFC), **Natural experimental study of impacts of urban rail transit on sustainable travel in a medium-sized Chinese city** (2016.01-2020.04)._ 
+_This project is funded by the General Research Fund (GRF), **Public transport use and health impacts on the elderly: a natural experiment in the high density built environment of Hong Kong** (2018.08-2022.06)._ 
 {style="color: grey"}
