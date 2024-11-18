@@ -1,6 +1,7 @@
 ---
-title: Land policy, housing, and transport infrastructure provision
-summary: What if gated communities around metro stations became permeable?
+title: Are gated communities capturing the lion’s share of metro-created accessibility in Chinese cities?
+subtitle: Land policy, housing, and transport infrastructure provision
+summary: Land policy, housing development, and infrastructure provision are intertwined
 authors: 
 - gbsun
 - cwebster
@@ -10,14 +11,14 @@ author_notes:
 - ''
 
 tags: 
-- permeability
-- street network
+- urban governance
+- institution
 
 # Listing view
 # view: compact
 
-date: 2024-11-17
-lastmod: 2024-11-17
+date: 2024-11-18
+lastmod: 2024-11-18
 featured: false
 draft: false
 show_related: true
@@ -36,18 +37,16 @@ image:
 
 ---
 
-Chinese cities are the leader in building gated communities. After three-decade expansions, a recent policy is seeking to open them. We use permeability analysis to explore the ‘what if?’ question posed by the policy: what if gated communities became permeable? We asked the question in respect of non-motorised access, not for cars as the ungating policy implied. Nanchang, a medium-sized Chinese city with over 600 large gated communities, was the study area. We constructed a bespoke complete pedestrian network, for the permeability modelling. The ungated pedestrian network is 18 times longer than the gated road network. We offer the analysis to urban scholars, planners and governments by way of a quantified simulation. 
+New metro, suburbanization, and housing redevelopment have become dominant urban development in China in past decades. However, little research has been done to examine how the metro infrastructures are shaping Chinese cities. Most studies confine their analysis to transportation issues such as traffic congestion. These studies might overlook the financial conditions of metro infrastructure and the far-reaching consequences on the cities' spatial, economic, and social dimensions. Infrastructures should be critically examined as highly contested terrain rather than technological artefacts and systems. In North American cities, the impact of urban rail transit has been discussed with gentrification and displacement. In China, metro infrastructure combines suburbanisation and city centres' redevelopment. The numerous new towns aimed to use the new metro to facilitate a booming land and housing market. In old neighbourhoods in the city, the metro was expected to bring opportunities to modernise the built environment, open up a new space to expand capital accumulation and sustain investment. 
 
-In terms of practical implementation, however, opening up all of a city’s gated communities would involve high political costs and potential compensation payments so it seems prudent to prioritise the ungating interventions which might yield the greatest benefits. The current study suggests that careful targeting of a sub-set of gated communities in station catchment areas for opening up and re-zoning with smaller blocks, or with pedestrian permeable larger blocks, will help maximise the benefits of metro station development (that has been extensively built), by deduction, such as promoting public transport use and increasing population health - more walking and cycling, more economically viable cities - greater pedestrian footfall concentrations, and a sustainable future.
+This project investigates the mechanisms by which gated communities are in danger of capturing metro-created accessibility benefits better in Chinese cities. A city with large-block gated communities that co-evolved with metro lines may lead to land use inefficiency, low transit usage, and social inequality. Using Guangzhou and Nanchang as case cities, we will delineate the mechanisms in urban governance, examining how the gated community and land development might reinforce each other and if metro infrastructure functioned as the nexus. The findings will provide policy insights by tackling land, housing, and infrastructure provision issues concerning metro infrastructure and gated communities that will continue to shape Chinese cities in the coming decades.
 
 
-![](Figure-1-gated-communities-types.jpg "Types of Gated Communities")
-![](matrix_track_density.jpg "Path Densities")
+![](Figure1_edited.jpg "Gated Communities in Nanchang, a medium-sized Chinese city and the capital of Jiangxi Province")
 
 ### Project Outputs
 
-- [Un-gating the cities: A permeability perspective]({{< ref "/publication/2018-sunwebsterchiaradia-us/index" >}} "academic publication")
-- [Unravelling the impact of street network structure and gated community layout in development-oriented transit design]({{< ref "/publication/2020-sunwallacewebster-lup/index" >}} "academic publication")
+- [Are Gated Communities Capturing the Lion’s Share of Metro Accessibility?]({{< ref "/publication/2018-sunwebsterchiaradia-us/index" >}} "working paper")
 
-_This project is funded by the National Natural Science Foundation of China (NSFC), **Natural experimental study of impacts of urban rail transit on sustainable travel in a medium-sized Chinese city** (2016.01-2020.04)._ 
+_This project is funded by Lincoln Institute of Land Policy, **Are gated communities capturing the lion's share of metro-created accessibility in Chinese cities?** (2023.03-2024.05)._ 
 {style="color: grey"}
