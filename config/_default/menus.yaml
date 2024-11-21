@@ -10,12 +10,15 @@ main:
   - name: Research
     url: research
     weight: 20
-  - name: Publications
+  - name: Publication
     url: publication
     weight: 30
   - name: News
     url: news
     weight: 40
+  - name: Event
+    url: event
+    weight: 50
   - name: Contact
     url: '#contact'
-    weight: 50
+    weight: 60
