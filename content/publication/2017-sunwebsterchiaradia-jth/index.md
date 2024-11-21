@@ -2,7 +2,7 @@
 title: "Objective assessment of station approach routes: Development and reliability of an audit for walking environments around metro stations in China"
 authors:
 - gbsun
-- Chris Webster
+- cwebster
 - Alain Chiaradia
 
 author_notes:

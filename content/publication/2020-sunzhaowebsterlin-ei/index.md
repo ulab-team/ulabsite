@@ -3,7 +3,7 @@ title: "New metro system and active travel: A natural experiment"
 authors:
 - gbsun
 - kjtzhao
-- Chris Webster
+- cwebster
 - Hui Lin
 author_notes:
 - "Corresponding Author"
@@ -33,7 +33,7 @@ tags:
 - urban rails
 - China
 
-featured: false
+featured: true
 
 # links:
 # - name: ""

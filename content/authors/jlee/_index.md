@@ -14,7 +14,7 @@ authors:
 superuser: false
 
 # Role/position
-role: Postdoc Fellow
+role: Postdoc Fellow in Urban Planning and Design
 
 # Organizations/Affiliations
 organizations:
@@ -61,6 +61,6 @@ user_groups:
   - Researchers
 ---
 
-Jieun's research employs natural experiments, econometric models, and big-data analysis using both structured and unstructured data to uncover policy implications for creating more equitable and efficient urban spaces. Her work provides insights into future urban spatial structures, dynamic changes in the housing market as reflected in real estate advertisement platforms, and the effects of policy measures that impact spatial dimensions with the goal of improving public health and urban livability. The results of my research contribute to the creation of more sustainable cities from economic, environmental, and social perspectives.
+Dr Jieun Lee employs natural experiments, econometric models, and big-data analysis using both structured and unstructured data to uncover policy implications for creating more equitable and efficient urban spaces. Her work provides insights into future urban spatial structures, dynamic changes in the housing market as reflected in real estate advertisement platforms, and the effects of policy measures that impact spatial dimensions with the goal of improving public health and urban livability. The results of my research contribute to the creation of more sustainable cities from economic, environmental, and social perspectives.
 
 Her research has been recognized with several awards, including the Excellence Prize for the research project "How to Manage Semi-Residential Zone of Seoul – Evidence from the Geo-spatial Analysis," funded by the Korea Real Estate Analysts Association & Korea Developer Association. I also received the Top Prize for the research "Urban Planning and the Trend of High-rise Housing in Singapore," funded by the Seoul Housing & Communities Corporation Institute. I am a recipient of "The National Scholarship for Science and Engineering" from the Korea Student Aid Foundation.

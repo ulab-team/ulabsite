@@ -14,7 +14,7 @@ authors:
 superuser: false
 
 # Role/position
-role: Postdoc Fellow
+role: Postdoc Fellow in Urban Planning and Design
 
 # Organizations/Affiliations
 organizations:
@@ -61,4 +61,4 @@ user_groups:
   - Researchers
 ---
 
-Jianting's research combines advanced technologies and innovative methodologies to enhance liveability and foster smart and sustainable urban futures. Her PhD project on urban experimentation challenges traditional design paradigms through a global analysis of tactical urbanism (Awarded Outstanding Rating, Top 5%). Her expertise in programming (Python, R, JavaScript) and spatial analytics deepened during her master's training in Pennsylvania. It was further enhanced through research roles at top universities and a leading geospatial technology firm (Azavea Inc.). She established a strong Landscape Architecture foundation through the ASLA-accredited programme from the University of Wisconsin-Madison and professional practices at leading firms (e.g., EDSA Inc.). She has published 9 peer-reviewed articles in journals, including Environment and Planning B, Landscape and Urban Planning, and five more in the pipeline. Her research won awards, including the Royal Town Planning Institute Commendation in Research Excellence 2022, HKU Research Output Prize 2022, and IACP Best Student Paper 2021. She has co-investigated funding totalling HK$204,500 (£20,160).
+Dr Kristen Jianting Zhao uses advanced technologies and innovative methodologies to enhance liveability and foster smart and sustainable urban futures. Her PhD project on urban experimentation challenges traditional design paradigms through a global analysis of tactical urbanism (Awarded Outstanding Rating, Top 5%). Her expertise in programming (Python, R, JavaScript) and spatial analytics deepened during her master's training in Pennsylvania. It was further enhanced through research roles at top universities and a leading geospatial technology firm (Azavea Inc.). She established a strong Landscape Architecture foundation through the ASLA-accredited programme from the University of Wisconsin-Madison and professional practices at leading firms (e.g., EDSA Inc.). She has published 9 peer-reviewed articles in journals, including Environment and Planning B, Landscape and Urban Planning, and five more in the pipeline. Her research won awards, including the Royal Town Planning Institute Commendation in Research Excellence 2022, HKU Research Output Prize 2022, and IACP Best Student Paper 2021. She has co-investigated funding totalling HK$204,500 (£20,160).

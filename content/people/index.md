@@ -19,5 +19,6 @@ sections:
     design:
       show_interests: false
       show_role: true
+      show_organizations: true
       show_social: true
 ---

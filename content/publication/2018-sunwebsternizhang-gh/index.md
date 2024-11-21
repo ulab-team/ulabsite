@@ -3,7 +3,7 @@ title: "Measuring high-density built environment for public health research: Unc
 
 authors:
 - gbsun
-- Chris Webster
+- cwebster
 - Michael Y. Ni
 - Xiaohu Zhang
 

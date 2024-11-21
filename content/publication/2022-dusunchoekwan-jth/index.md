@@ -32,7 +32,7 @@ tags:
 - Wellbeing
 - Hong Kong
 
-featured: false
+featured: true
 
 # links:
 # - name: ""

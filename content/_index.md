@@ -12,7 +12,29 @@ sections:
   - block: hero
     content:
       title: Urban Analytics and Interventions Research Lab
-      text: A research lab advancing urban intelligibility
+      text: | 
+        <br>
+        A research lab advancing urban intelligibility
+        <br />
+          <div>
+          <ul class="network-icon" aria-hidden="true">
+            <li>
+              <a itemprop="sameAs" href="mailto:text@example.com">
+                <i class="fas fa-envelope small-icon"></i>
+              </a>
+            </li>
+            <li>
+              <a itemprop="sameAs" href="http://twitter.com/ulab_hku" target="_blank" rel="noopener">
+                <i class="fab fa-x-twitter small-icon"></i>
+              </a>
+            </li>
+            <li>
+              <a itemprop="sameAs" href="https://www.linkedin.com/company/example/" target="_blank" rel="noopener">
+                <i class="fab fa-linkedin small-icon"></i>
+              </a>
+            </li>   
+          </ul>
+          </div>
       
     design:
       spacing:
@@ -34,7 +56,6 @@ sections:
         <br>
       
         **Urban Analytics and Interventions Research Lab** aims to apply urban analytics to longitudinal data generated from built environment interventions (e.g., open space, new metro, urban renewal). Using rigorous research designs such as natural experiments, we are interested in collecting practice-based evidence of the social and health impacts imposed by urban planning and design. With the scientific evidence and situated knowledge in local contexts, we aim to facilitate evidence-based policies and practices in place-making.
-
 
   - block: collection
     id: res
@@ -81,11 +102,22 @@ sections:
         folders:
           - publication
         publication_type: 'article-journal'
+        featured_only: true
       text: |
         {{% cta cta_link="./publication/" cta_text="See full record →" %}}  
     design:
       view: citation
 
+  - block: collection
+    content:
+      title: Recent News
+      count: 3
+      filters:
+        folders:
+          - news
+      text: uLab curates a vibrant research community through institutional connections.
+    design:
+      view: compact
 
   - block: markdown
     content:
@@ -95,4 +127,29 @@ sections:
         {{% cta cta_link="./people/" cta_text="Meet the team →" %}}
     design:
       columns: '1'
+
+  - block: contact
+    id: contact
+    content:
+      title: Contact Us
+      text: |
+        We welcome intellectual exchange with scholars, collaboration with practitioners, industry leaders, and training for students and early career researchers (predocs and PhD students).
+      email: test@example.org
+      address: 
+        street: ''
+        city: ''
+        country: United Kingdom
+        country_code: UK
+
+      #contact_links:
+      #  - icon: comments
+      #    icon_pack: fas
+      #    name: Discuss on Forum
+      #    link: 'https://discourse.gohugo.io'
+    
+      # Automatically link email and phone or display as text?
+      autolink: false
+
+    design:
+      columns: '2'
 ---

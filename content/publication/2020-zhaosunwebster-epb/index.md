@@ -3,7 +3,7 @@ title: "Walkability scoring: Why and how does a three-dimensional pedestrian net
 authors:
 - kjtzhao
 - gbsun
-- Chris Webster
+- cwebster
 
 author_notes:
 - ""
@@ -32,7 +32,7 @@ tags:
 - walkability
 - Hong Kong
 
-featured: false
+featured: true
 
 # links:
 # - name: ""
@@ -52,7 +52,8 @@ image:
 #   Simply enter your project's folder or file name without extension.
 #   E.g. `internal-project` references `content/project/internal-project/index.md`.
 #   Otherwise, set `projects: []`.
-projects: []
+projects:
+- walkability-scoring
 
 ---
 

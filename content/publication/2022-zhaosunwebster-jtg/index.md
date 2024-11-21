@@ -3,7 +3,7 @@ title: "Does China-Pakistan Economic Corridor improve connectivity in Pakistan? 
 authors:
 - kjtzhao
 - gbsun
-- Chris Webster
+- cwebster
 author_notes:
 - ""
 - "Corresponding Author"
@@ -30,7 +30,7 @@ tags:
 - Belt and Road Initiative
 - Pakistan
 
-featured: false
+featured: true
 
 # links:
 # - name: ""
@@ -50,7 +50,8 @@ image:
 #   Simply enter your project's folder or file name without extension.
 #   E.g. `internal-project` references `content/project/internal-project/index.md`.
 #   Otherwise, set `projects: []`.
-projects: []
+projects: 
+- assessing-infra-pakistan
 
 ---
 

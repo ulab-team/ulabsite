@@ -2,7 +2,7 @@
 title: "Ungating the city: A permeability perspective"
 authors:
 - gbsun
-- Chris Webster
+- cwebster
 - Alain Chiaradia
 
 author_notes:
@@ -32,7 +32,7 @@ tags:
 - China
 - gated community
 
-featured: false
+featured: true
 
 # links:
 # - name: ""

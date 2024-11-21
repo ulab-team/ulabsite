@@ -2,7 +2,7 @@
 title: "Connecting the city: A three-dimensional pedestrian network of Hong Kong"
 authors:
 - gbsun
-- Chris Webster
+- cwebster
 - Xiaohu Zhang
 
 author_notes:
@@ -32,7 +32,7 @@ tags:
 - Hong Kong
 - street
 
-featured: false
+featured: true
 
 # links:
 # - name: ""
@@ -52,7 +52,8 @@ image:
 #   Simply enter your project's folder or file name without extension.
 #   E.g. `internal-project` references `content/project/internal-project/index.md`.
 #   Otherwise, set `projects: []`.
-projects: []
+projects: 
+- 3d-ped-network
 
 ---
 

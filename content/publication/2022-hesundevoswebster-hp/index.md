@@ -4,7 +4,7 @@ authors:
 - dshe
 - gbsun
 - Jobas De Vos
-- Chris Webster
+- cwebster
 author_notes:
 - ""
 - "Corresponding Author"
@@ -31,7 +31,7 @@ summary: This paper provides causal inference on how transport intervention affe
 tags:
 - natural experiment
 
-featured: false
+featured: true
 
 # links:
 # - name: ""

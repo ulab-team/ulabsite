@@ -14,7 +14,7 @@ authors:
 superuser: false
 
 # Role/position
-role: PhD Candidate
+role: PhD Candidate Urban Planning and Design
 
 # Organizations/Affiliations
 organizations:
@@ -61,6 +61,4 @@ user_groups:
   - Grad Students
 ---
 
-Yao's thesis investigates causal links between public transport changes and older adults' travel behavior, social engagement, and well-being. Older people face mobility challenges, so transport modifications can impact accessibility, social connections, and well-being. She explores how interventions shape travel adaptation and how psycho-social and environmental factors mediate behavior change impacting well-being.
-
-She applies mixed qualitative/quantitative methods using a natural experiment to compare pre/post-transport intervention differences in older adults' mobility and health. In-depth interviews aid in understanding the behavior adaptation process and pathways from changes to subjective well-being. Findings can help policy support age-friendly, healthy aging by supporting older adults' transport needs.
+Scarlet is working on developing a framework to study spatial cognition using traditional graphic means (mental maps) and linguistic methods.

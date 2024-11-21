@@ -5,7 +5,7 @@ authors:
 - ydu
 - Michael Y. Ni
 - kjtzhao
-- Chris Webster
+- cwebster
 author_notes:
 - "Corresponding Author"
 - ""
@@ -35,7 +35,7 @@ tags:
 - natural experiment
 - urban rails
 
-featured: false
+featured: true
 
 # links:
 # - name: ""
@@ -55,7 +55,8 @@ image:
 #   Simply enter your project's folder or file name without extension.
 #   E.g. `internal-project` references `content/project/internal-project/index.md`.
 #   Otherwise, set `projects: []`.
-projects: []
+projects: 
+- metro-elderly-health
 
 ---
 

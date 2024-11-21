@@ -10,15 +10,18 @@ authors:
 # Place an image named `featured.jpg/png` in this page's folder and customize its options here.
 image:
   caption: 'Image credit: [**me**]'
+
+show_date: false
+share: false
+profile: false
 ---
 
-### Street, public space and their experiments
+
+## Street, public space and their experiments
 
 We are investigating the street experiments that bridge the mobility and public space functions, to look at how short-term actions lead to long-term changes. Our engagements include experiments and design studios in the communities. 
 
-{{< toc mobile_only=true is_open=true >}}
-
-## Research Objectives
+### Research Objectives
 
 - Randomised controlled experiments on greenery and health
 - Investigate the relationship between short-term actions and long-term changes on streets
@@ -28,12 +31,12 @@ We are investigating the street experiments that bridge the mobility and public 
 - Study methods to provide the blue and green infrastructure through social innovation
 
 
-## Ongoing Research
+### Ongoing Research
 
-- Global street experiments: Short-term actions to long-term changes
-- Privately owned public space, interior urbanism, Hong Kong
-- Tactical urbanism in Asian high-density cities
+- [Global street experiments: Short-term actions to long-term changes]({{< ref "/project/global-street-experiment/index" >}} "an ongoing public space project")
+- [Privately owned public space, interior urbanism, Hong Kong]({{< ref "/project/privately-owned-public/index" >}} "an ongoing public space project")
+- [Tactical urbanism in Asian high-density cities]({{< ref "/project/tactical-urbanism-asia" >}} "an ongoing public space project")
 
-## Completed Work
-- Walkability scoring in high-density cities
-- 3D pedestrian network of Hong Kong
+### Completed Work
+- [Walkability scoring in high-density cities]({{< ref "/project/walkability-scoring/index" >}} "a completed public space project")
+- [3D pedestrian network of Hong Kong]({{< ref "/project/3d-ped-network/index" >}} "a completed public space project")

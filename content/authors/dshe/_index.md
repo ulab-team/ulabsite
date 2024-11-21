@@ -14,7 +14,7 @@ authors:
 superuser: false
 
 # Role/position
-role: PhD Candidate
+role: PhD Candidate in Urban Planning and Design
 
 # Organizations/Affiliations
 organizations:
