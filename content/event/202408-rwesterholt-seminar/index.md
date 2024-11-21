@@ -10,9 +10,9 @@ address:
   city: Hong Kong
   region: ''
   postcode: ''
-  country: China
+  country: United States
 
-summary: A NURSS invited seminar
+summary: A NURSS invited seminar.
 abstract: 'Geographic information science has traditionally privileged geometric operationalisations of geographic space. This is understandable given the conceptual straightforwardness of abstract geometry, which lends itself to formalisation. However, this privileging of geometry sometimes leads to epistemological conflicts when geometric operationalisations are not adequate representations of geographical features. One such area that is affected by the problem described above is the study of everyday geographies. These encompass mundane, taken-for-granted, and often habitual aspects of people's everyday lives. Geometry is probably not an ideal analytical domain for these kinds of geographies, as people do not structure their lives in geometric containers but in complex spaces that emerge while living lived realities. This discrepancy has led to a rejection of geometry and, more generally, quantitative spatial science by some human geographers and, since the 1960s, to a deep division within the discipline. In this talk, I will adopt a spatial-statistical perspective and discuss the challenges arising from the outlined discrepancy between abstract geometries used in analytical routines and the underlying conceptualisations of geographical space, which have a different character. I will also briefly present some possible workarounds that I have explored in recent years to continue working with the established spatial-statistical tools but yielding more appropriate results. Finally, I will offer some thoughts on how we could possibly change the nature of spatial statistics in a more fundamental way to eventually arrive at a different approach that better meets the needs of human-geographic investigations.'
 
 # Talk start and end times.
