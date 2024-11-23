@@ -11,7 +11,7 @@ design:
 sections:
   - block: hero
     content:
-      title: Urban Analytics and Interventions Research Lab
+      title: Urban Infrastructure Transition Lab
       text: | 
         <br>
         A research lab advancing urban intelligibility
@@ -55,9 +55,9 @@ sections:
       text: |
         <br>
       
-        **Urban Analytics and Interventions Research Lab** aims to apply urban analytics to longitudinal data generated from built environment interventions (e.g., open space, new metro, urban renewal). Using rigorous research designs such as natural experiments, we are interested in collecting practice-based evidence of the social and health impacts imposed by urban planning and design. With the scientific evidence and situated knowledge in local contexts, we aim to facilitate evidence-based policies and practices in place-making.
+        **Urban Infrastructure Transition Lab** aims to apply urban analytics to longitudinal data generated from built environment interventions (e.g., open space, new metro, urban renewal). Using rigorous research designs such as natural experiments, we are interested in collecting practice-based evidence of the social and health impacts imposed by urban planning and design. With the scientific evidence and situated knowledge in local contexts, we aim to facilitate evidence-based policies and practices in place-making.
 
-        We have been supported by UGC (Hong Kong), NSFC (China), HKIS, HKU, and Lincoln Institute of Land Policy (USA)
+        We have been supported by UGC (Hong Kong), NSFC (China), HKIS, HKU, and Lincoln Institute of Land Policy (USA).
 
         ![]('assets/media/HKIS.png')
         ![]('assets/media/nsfc.jpg')

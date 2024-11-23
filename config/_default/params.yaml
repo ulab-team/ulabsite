@@ -45,7 +45,7 @@ header:
 
 footer:
   copyright:
-    notice: '© {year} Urban Analytics and Interventions Research Lab'
+    notice: '© 2020-{year} Urban Infrastructure Transition Lab'
     license:
       enable: false
       allow_derivatives: false
