@@ -14,7 +14,7 @@ authors:
 superuser: false
 
 # Role/position
-role: Postdoc Fellow in Urban Planning and Design
+role: ''
 
 # Organizations/Affiliations
 organizations:

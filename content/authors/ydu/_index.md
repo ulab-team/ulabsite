@@ -14,7 +14,7 @@ authors:
 superuser: false
 
 # Role/position
-role: Postdoc Fellow in Social Work and Social Administration
+role: ''
 
 # Organizations/Affiliations
 organizations:
