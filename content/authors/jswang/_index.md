@@ -14,11 +14,11 @@ authors:
 superuser: false
 
 # Role/position
-role: Postdoc Fellow in Ubran Plannin and Design
+role: ''
 
 # Organizations/Affiliations
 organizations:
-  - name: The University of Hong Kong
+  - name: Peking University
     url: ''
 
 # Short bio (displayed in user profile at end of posts)

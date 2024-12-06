@@ -14,11 +14,11 @@ authors:
 superuser: false
 
 # Role/position
-role: PI, Assistant Professor in Urban Planning
+role: ''
 
 # Organizations/Affiliations
 organizations:
-  - name: The University of Hong Kong
+  - name: The University of Manchester
     url: ''
 
 # Short bio (displayed in user profile at end of posts)
@@ -61,7 +61,7 @@ email: ''
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-  - Principal Investigators
+  - Researchers
 ---
 
 Dr Guibo Sun is an Assistant Professor and the founding director of Urban Analytics and Interventions Research Lab at the University of Hong Kong. My research interests in urban development and sustainability lie at the interfaces of urban planning, land policy, transportation, and public health. The social, economic and health impacts of large-scale interventions, such as new metro infrastructure, urban renewal, large-block gated communities, and global street experiments, are profound. I specialise in using natural experiments to infer the causality of such impacts. I am also interested in the institution and governance of the infrastructure provisions, using experimental economics approaches to formulating the decision-making processes in local governments.
