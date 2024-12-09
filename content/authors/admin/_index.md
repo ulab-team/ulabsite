@@ -14,8 +14,8 @@ role: admin
 
 # Organizations/Affiliations
 organizations:
-  - name:  Urban Analytics and Interventions Research Lab
-    url: ''
+  - name:  Urban Infrastructure Transition Lab
+    url: https://www.uitlab.org
 
 # Short bio (displayed in user profile at end of posts)
 bio: Together we understand
@@ -27,7 +27,7 @@ bio: Together we understand
 social:
   - icon: twitter
     icon_pack: fab
-    link: https://x.com/uLab_HKU
+    link: https://x.com/uLab_UKHK
 
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
@@ -47,4 +47,4 @@ user_groups:
   - []
 ---
 
-We were founded in 2021 as an affiliated research lab under the HKUrbanLabs, a research branch within the Faculty of Architecture, the University of Hong Kong. In 2025, we are growing into an independent platform hosting researchers with diverse expertise. 
+We were founded in 2021 as an affiliated research lab under the HKUrbanLabs, a research branch within the Faculty of Architecture, the University of Hong Kong. In 2025, we are growing into an independent platform hosting researchers with various urban-related expertise. 

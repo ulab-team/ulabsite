@@ -11,6 +11,7 @@ address:
   region: ''
   postcode: ''
   country: Thailand
+  country_code: TH
 
 summary: A conference paper session focusing on the latest reserach in planning, transport, and healthy ageing in Asian countries. 
 abstract: "This session gathers authors of the latest publications in the Special Issue of Planning, Transport and Healthy Ageing in Asia for the Journal of Transport & Health."
@@ -57,36 +58,41 @@ slides: ''
 projects: []
 ---
 
-## Session details
+## **Session details**
 
 ### Paper Presentations
 
-- **Older adults’ staying at home in greater Tokyo: Association with population density and roles of carownership and public transport.**
-  - Presenter: **Takumi Abe**, Meiji University
-  - Discussant: **Guibo Sun**
+**Older adults’ staying at home in greater Tokyo: Association with population density and roles of carownership and public transport.**
+- Presenter: **Takumi Abe**, Meiji University
+- Discussant: **Guibo Sun**
 <br></br>
 
-- **Causal mediation analysis of social and environmental factors in pathways from a metro intervention to eudaimonic wellbeing among older people.**
-  - Presenter: **Yao Du**
-  - Discussant: **Takumi Abe**
+**Causal mediation analysis of social and environmental factors in pathways from a metro intervention to eudaimonic wellbeing among older people.**
+- Presenter: **Yao Du**
+- Discussant: **Takumi Abe**
+<br></br>
 
-- **Associations of Heat Exposure and Mobility-related Injuries among Older Motorcyclists in Taiwan.**
-  - Presenter: **Cheng-Kai Hsu**, University of California, Berkeley
-  - Discussant: **Yao Du**
+**Associations of Heat Exposure and Mobility-related Injuries among Older Motorcyclists in Taiwan.**
+- Presenter: **Cheng-Kai Hsu**, University of California, Berkeley
+- Discussant: **Yao Du**
+<br></br>
 
-- **A Questionnaire Study on Outings Among Older Adults Living in Tokyo: Transport and Healthy Aging in Japan.**
-  - Presenter: **Yukari Niwa**, Tokyo City University
-  - Discussant: **Cheng-Kai Hsu**
+**A Questionnaire Study on Outings Among Older Adults Living in Tokyo: Transport and Healthy Aging in Japan.**
+- Presenter: **Yukari Niwa**, Tokyo City University
+- Discussant: **Cheng-Kai Hsu**
+<br></br>
 
-- **What’s that there? A study of how accurately older adults perceive urban interventions in their neighborhoods.**
-  - Presenter: **Shin Bin Tan**, National University of Singapore
-  - Discussant: **Yukari Niwa**
+**What’s that there? A study of how accurately older adults perceive urban interventions in their neighborhoods.**
+- Presenter: **Shin Bin Tan**, National University of Singapore
+- Discussant: **Yukari Niwa**
+<br></br>
 
-- **Understanding residents’ walking patterns in Singapore neighbourhood. invited to join as a panellist on “Planning, Transport, and Healthy Ageing in Asia"**
-  - Presenter: **Belinda Yuen**, Singapore University of Technology and Design
-  - Discussant: **Shin Bin Tan**
+**Understanding residents’ walking patterns in Singapore neighbourhood. invited to join as a panellist on “Planning, Transport, and Healthy Ageing in Asia"**
+- Presenter: **Belinda Yuen**, Singapore University of Technology and Design
+- Discussant: **Shin Bin Tan**
+<br></br>
 
-- **Planning, Transport, and Healthy Ageing in Asian Cities**
-  - Presenter: **Guibo Sun**
-  - Discussant: **Belinda Yuen**
+**Planning, Transport, and Healthy Ageing in Asian Cities**
+- Presenter: **Guibo Sun**
+- Discussant: **Belinda Yuen**
 
