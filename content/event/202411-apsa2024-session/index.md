@@ -22,7 +22,9 @@ all_day: false
 # Schedule page publish date (NOT talk date).
 publishDate: '2024-12-09T00:00:00Z'
 
-authors: guibo, ydu, jlee
+authors: 
+- admin
+
 tags: []
 
 # Is this a featured talk? (true/false)
