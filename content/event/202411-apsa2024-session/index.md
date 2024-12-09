@@ -8,6 +8,8 @@ location: Chulalongkorn University
 address:
   street: 
   city: Bangkok
+  region: ''
+  postcode: ''
   country: Thailand
 
 summary: A conference paper session focusing on the latest reserach in planning, transport, and healthy ageing in Asian countries. 
@@ -62,6 +64,7 @@ projects: []
 - **Older adults’ staying at home in greater Tokyo: Association with population density and roles of carownership and public transport.**
   - Presenter: **Takumi Abe**, Meiji University
   - Discussant: **Guibo Sun**
+<br></br>
 
 - **Causal mediation analysis of social and environmental factors in pathways from a metro intervention to eudaimonic wellbeing among older people.**
   - Presenter: **Yao Du**
