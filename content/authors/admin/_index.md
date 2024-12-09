@@ -1,6 +1,6 @@
 ---
 # Display name
-title: uLab
+title: uitLab
 
 # Full Name (for SEO)
 #first_name: Nelson
@@ -15,7 +15,7 @@ role: admin
 # Organizations/Affiliations
 organizations:
   - name:  Urban Infrastructure Transition Lab
-    url: https://www.uitlab.org
+    url: www.uitlab.org
 
 # Short bio (displayed in user profile at end of posts)
 bio: Together we understand
