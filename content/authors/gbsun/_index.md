@@ -31,7 +31,6 @@ interests:
 
 education:
   courses:
-
     - course: PhD in Geoinformation Science
       institution: The Chinese University of Hong Kong
       year: 2014
@@ -61,8 +60,9 @@ email: ''
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-  - Principal Investigator
-  
+  - Researchers
+
+weight: 10  
 ---
 
 ## Overview

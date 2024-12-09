@@ -1,24 +1,24 @@
 ---
 title: People
-date: 2022-10-24
+date: 2024-10-24
 
 type: landing
 
 sections:
   - block: people
     content:
-      title: Meet the Team
+      title: Members
       # Choose which groups/teams of users to display.
       #   Edit `user_groups` in each user's profile to add them to one or more of these groups.
       user_groups:
-          - Principal Investigators
+          # - Principal Investigators
           - Researchers
           - Grad Students
-      sort_by: Params.last_name
+      sort_by: weight # Params.last_name
       sort_ascending: true
     design:
       show_interests: false
-      show_role: true
+      show_role: false
       show_organizations: true
-      show_social: true
+      show_social: false
 ---
