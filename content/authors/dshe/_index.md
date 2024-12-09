@@ -61,6 +61,8 @@ email: ''
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
   - Grad Students
+
+weight: 10
 ---
 
 Dongsheng's research promotes sustainable urbanization through transportation and land use planning. In particular, his work examines strategies to increase active travel and implement transit-oriented development (TOD).
