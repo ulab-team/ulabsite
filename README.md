@@ -1,2 +1,2 @@
-# Urban Analytics and Interventions Research Lab
+# Urban Infrastructure Transition Lab
 team website

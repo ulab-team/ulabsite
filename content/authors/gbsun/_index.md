@@ -19,7 +19,7 @@ role: ''
 # Organizations/Affiliations
 organizations:
   - name: The University of Manchester
-    url: ''
+    url: https://research.manchester.ac.uk/en/persons/guibo-sun
 
 # Short bio (displayed in user profile at end of posts)
 bio: My research establishes essential urban data, new methodologies, and causal evidence to extend the scientific understanding of the institutions and outcomes of large-scale interventions, contributing to healthy, equitable, and sustainable cities. 
@@ -42,7 +42,7 @@ education:
 social:
   - icon: envelope
     icon_pack: fas
-    link: 'mailto:test@example.org'
+    link: 'mailto: guibo.sun@manchester.ac.uk'
   - icon: google-scholar
     icon_pack: ai
     link: https://scholar.google.com/citations?hl=en&user=7b5H3oAAAAAJ
