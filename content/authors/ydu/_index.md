@@ -22,7 +22,7 @@ organizations:
     url: ''
 
 # Short bio (displayed in user profile at end of posts)
-bio: I am a postdoc fellow (incoming) at the Department of Social Work and Social Administration, HKU. My research interests focus on public transport and urban redevelopment and their health impact on older people in Hong Kong. I hold a PhD from HKU Urban Planning and Design, focusing on Transport and Healthy Ageing. Before my Doctoral study, I had three years of working experience as a research assistant in sociology and housing studies.
+bio: I am a postdoc fellow at the Department of Social Work and Social Administration, HKU. My research interests focus on public transport and urban redevelopment and their health impact on older people in Hong Kong. I hold a PhD from HKU Urban Planning and Design, focusing on Transport and Healthy Ageing. Before my Doctoral study, I had three years of working experience as a research assistant in sociology and housing studies.
 
 interests:
   - Natural Experiment

@@ -22,7 +22,7 @@ organizations:
     url: https://research.manchester.ac.uk/en/persons/guibo-sun
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research establishes essential urban data, new methodologies, and causal evidence to extend the scientific understanding of the institutions and outcomes of large-scale interventions, contributing to healthy, equitable, and sustainable cities. 
+bio: My research establishes essential urban data, new methodologies, and causal evidence to extend the scientific understanding of the institutions and outcomes of large-scale urban infrastructure, contributing to healthy, equitable, and sustainable cities. 
 
 interests:
   - Natural Experiment

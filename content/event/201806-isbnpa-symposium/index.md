@@ -1,25 +1,25 @@
 ---
-title: 'ISBNPA Symposium: Active transport and active sites for children in high-density cities'
+title: 'Localised bargaining in financing metro infrastructure at local government level in China'
 
-event: International Society of Behavioral Nutrition and Physical Activity (ISBNPA) 17th Meeting
+event: 
 event_url: ''
 
-location: Hong Kong
+location: United States
 address:
   street: 
-  city: Hong Kong
+  city: Boston
   region: ''
   postcode: ''
-  country: China
-  country_code: CN
+  country: United States
+  country_code: US
 
-summary: We hosted a session in the ISBNPA 17th Meeting focusing on Active transport and active sites for children in high-density cities.
+summary: 
 abstract: ''
 
 # Talk start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.
-date: '2018-06-06T00:00:00Z'
-date_end: '2018-06-06T17:00:00Z'
+date: '2024-06-26T00:00:00Z'
+date_end: '2024-06-26T17:00:00Z'
 all_day: true
 
 # Schedule page publish date (NOT talk date).
@@ -57,42 +57,4 @@ slides: ''
 #   Otherwise, set `projects = []`.
 projects: []
 ---
-
-## **Session details**
-
-### Paper Presentations
-
-**Older adults’ staying at home in greater Tokyo: Association with population density and roles of carownership and public transport.**
-- Presenter: **Takumi Abe**, Meiji University
-- Discussant: **Guibo Sun**
-<br></br>
-
-**Causal mediation analysis of social and environmental factors in pathways from a metro intervention to eudaimonic wellbeing among older people.**
-- Presenter: **Yao Du**
-- Discussant: **Takumi Abe**
-<br></br>
-
-**Associations of Heat Exposure and Mobility-related Injuries among Older Motorcyclists in Taiwan.**
-- Presenter: **Cheng-Kai Hsu**, University of California, Berkeley
-- Discussant: **Yao Du**
-<br></br>
-
-**A Questionnaire Study on Outings Among Older Adults Living in Tokyo: Transport and Healthy Aging in Japan.**
-- Presenter: **Yukari Niwa**, Tokyo City University
-- Discussant: **Cheng-Kai Hsu**
-<br></br>
-
-**What’s that there? A study of how accurately older adults perceive urban interventions in their neighborhoods.**
-- Presenter: **Shin Bin Tan**, National University of Singapore
-- Discussant: **Yukari Niwa**
-<br></br>
-
-**Understanding residents’ walking patterns in Singapore neighbourhood. invited to join as a panellist on “Planning, Transport, and Healthy Ageing in Asia"**
-- Presenter: **Belinda Yuen**, Singapore University of Technology and Design
-- Discussant: **Shin Bin Tan**
-<br></br>
-
-**Planning, Transport, and Healthy Ageing in Asian Cities**
-- Presenter: **Guibo Sun**
-- Discussant: **Belinda Yuen**
 
