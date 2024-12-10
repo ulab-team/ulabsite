@@ -58,6 +58,11 @@ sections:
 
     design:
       columns: '1'  
+      spacing:
+        padding: [15, 15, 15, 15]
+        margin: [10, 10, 10, 10]
+      font-size: small
+
 
   - block: collection
     id: res

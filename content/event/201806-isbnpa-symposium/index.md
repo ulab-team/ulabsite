@@ -1,25 +1,25 @@
 ---
-title: 'Localised bargaining in financing metro infrastructure at local government level in China'
+title: Active transport and active sites for children in high-density cities
 
 event: 
 event_url: ''
 
-location: United States
+location: Hong Kong
 address:
   street: 
-  city: Boston
+  city: Hong Kong
   region: ''
   postcode: ''
-  country: United States
-  country_code: US
+  country: China
+  country_code: CN
 
 summary: 
 abstract: ''
 
 # Talk start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.
-date: '2024-06-26T00:00:00Z'
-date_end: '2024-06-26T17:00:00Z'
+date: '2018-06-06T00:00:00Z'
+date_end: '2018-06-06T17:00:00Z'
 all_day: true
 
 # Schedule page publish date (NOT talk date).
