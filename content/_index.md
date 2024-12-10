@@ -141,10 +141,16 @@ sections:
       title: Contact Us
       text: |
         We welcome intellectual exchange with scholars, collaboration with practitioners, industry leaders, and training for students and early career researchers (predocs and PhD students).
-      email: test@example.org
+      email: guibo.sun@manchester.ac.uk
       address: 
-        street: ''
-        city: ''
+        street: Queen's Road Central
+        city: Hong Kong
+        country: China
+        country_code: CN
+
+      address: 
+        street: Oxford Road
+        city: Manchester
         country: United Kingdom
         country_code: UK
 
