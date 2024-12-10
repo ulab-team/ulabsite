@@ -1,6 +1,6 @@
 ---
 # Display name
-title: Jinshuo Wang
+title: Dr Jinshuo Wang
 
 # Full name (for SEO)
 first_name: Jinshuo
