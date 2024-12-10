@@ -14,7 +14,7 @@ sections:
       title: Urban Infrastructure Transition Lab
       text: | 
         <br>
-        A research lab advancing urban intelligibility
+        A research lab advancing urban infrastructure intelligibility
         <br />
           <div>
           <ul class="network-icon" aria-hidden="true">
@@ -51,7 +51,7 @@ sections:
       title: |
         About us
       image:
-        filename: street_collage.JPG
+        filename: addis_edited.png
       text: |
         <br>
       

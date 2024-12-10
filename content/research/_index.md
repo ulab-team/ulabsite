@@ -43,7 +43,7 @@ sections:
       # Useful if you wish to show the first item in the Featured widget
       offset: 0
       # Field to sort by, such as Date or Title
-      sort_by: 'Title'
+      sort_by: weight
       sort_ascending: True
     design:
       spacing:
