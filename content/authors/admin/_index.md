@@ -1,6 +1,6 @@
 ---
 # Display name
-title: uitLab
+title: uLab-Infrastructure
 
 # Full Name (for SEO)
 #first_name: Nelson
@@ -27,7 +27,7 @@ bio: Together we understand
 social:
   - icon: twitter
     icon_pack: fab
-    link: https://x.com/uLab_UKHK
+    link: https://x.com/uLab_Infra
 
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.

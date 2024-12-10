@@ -19,20 +19,15 @@ sections:
           <div>
           <ul class="network-icon" aria-hidden="true">
             <li>
-              <a itemprop="sameAs" href="mailto:text@example.com">
+              <a itemprop="sameAs" href="mailto:guibo.sun@manchester.ac.uk">
                 <i class="fas fa-envelope small-icon"></i>
               </a>
             </li>
             <li>
-              <a itemprop="sameAs" href="http://twitter.com/ulab_hku" target="_blank" rel="noopener">
+              <a itemprop="sameAs" href="http://twitter.com/uLab_Infra" target="_blank" rel="noopener">
                 <i class="fab fa-x-twitter small-icon"></i>
               </a>
-            </li>
-            <li>
-              <a itemprop="sameAs" href="https://www.linkedin.com/company/example/" target="_blank" rel="noopener">
-                <i class="fab fa-linkedin small-icon"></i>
-              </a>
-            </li>   
+            </li>  
           </ul>
           </div>
       
@@ -140,7 +135,7 @@ sections:
     content:
       title: Contact Us
       text: |
-        We welcome intellectual exchange with scholars, collaboration with practitioners, industry leaders, and training for students and early career researchers (predocs and PhD students).
+        We welcome consultancy work, intellectual exchange with scholars, and collaboration with practitioners.
       email: guibo.sun@manchester.ac.uk
       address: 
         street: Queen's Road Central
