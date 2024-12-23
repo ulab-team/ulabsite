@@ -59,6 +59,8 @@ email: ''
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
   - Grad Students
+
+weight: 30
 ---
 
 Scarlet is working on developing a framework to study spatial cognition using traditional graphic means (mental maps) and linguistic methods.

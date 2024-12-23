@@ -42,7 +42,7 @@ New metro, suburbanization, and housing redevelopment have become dominant urban
 This project investigates the mechanisms by which gated communities are in danger of capturing metro-created accessibility benefits better in Chinese cities. A city with large-block gated communities that co-evolved with metro lines may lead to land use inefficiency, low transit usage, and social inequality. Using Guangzhou and Nanchang as case cities, we will delineate the mechanisms in urban governance, examining how the gated community and land development might reinforce each other and if metro infrastructure functioned as the nexus. The findings will provide policy insights by tackling land, housing, and infrastructure provision issues concerning metro infrastructure and gated communities that will continue to shape Chinese cities in the coming decades.
 
 
-![](Figure1_edited.jpg "Gated Communities in Nanchang, a medium-sized Chinese city and the capital of Jiangxi Province")
+![](Slide2.JPG "The walking environment created by gated communities around metro stations in Nanchang")
 
 ### Project Outputs
 

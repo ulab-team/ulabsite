@@ -1,6 +1,6 @@
 ---
 # Display name
-title: Guibo Sun
+title: Dr Guibo Sun
 
 # Full name (for SEO)
 first_name: Guibo
@@ -19,10 +19,10 @@ role: ''
 # Organizations/Affiliations
 organizations:
   - name: The University of Manchester
-    url: ''
+    url: https://research.manchester.ac.uk/en/persons/guibo-sun
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research establishes essential urban data, new methodologies, and causal evidence to extend the scientific understanding of the institutions and outcomes of large-scale interventions, contributing to healthy, equitable, and sustainable cities. 
+bio: My research establishes essential urban data, new methodologies, and causal evidence to extend the scientific understanding of the institutions and outcomes of large-scale urban infrastructure, contributing to healthy, equitable, and sustainable cities. 
 
 interests:
   - Natural Experiment
@@ -31,7 +31,6 @@ interests:
 
 education:
   courses:
-
     - course: PhD in Geoinformation Science
       institution: The Chinese University of Hong Kong
       year: 2014
@@ -43,7 +42,7 @@ education:
 social:
   - icon: envelope
     icon_pack: fas
-    link: 'mailto:test@example.org'
+    link: 'mailto: guibo.sun@manchester.ac.uk'
   - icon: google-scholar
     icon_pack: ai
     link: https://scholar.google.com/citations?hl=en&user=7b5H3oAAAAAJ
@@ -61,8 +60,9 @@ email: ''
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-  - Principal Investigator
-  
+  - Researchers
+
+weight: 10  
 ---
 
 ## Overview

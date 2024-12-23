@@ -49,6 +49,8 @@ email: ''
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
   - Grad Students
+
+weight: 20
 ---
 
 Lirrey is interested in applying socio-political and planning theories to urban intervention practices. His current research involves building up an action-oriented theory of communicative arena, bridging social theories (communicative rationality) and theories of action (public participation in urban renewal).

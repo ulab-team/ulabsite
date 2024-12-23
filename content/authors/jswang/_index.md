@@ -1,6 +1,6 @@
 ---
 # Display name
-title: Jinshuo Wang
+title: Dr Jinshuo Wang
 
 # Full name (for SEO)
 first_name: Jinshuo
@@ -18,7 +18,7 @@ role: ''
 
 # Organizations/Affiliations
 organizations:
-  - name: Peking University
+  - name: The University of Hong Kong
     url: ''
 
 # Short bio (displayed in user profile at end of posts)
@@ -59,6 +59,8 @@ email: ''
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
   - Researchers
+
+weight: 50
 ---
 
 Dr Jinshuo Wang is investigating institutional frameworks structuring urban rail investments in China's Greater Bay Area. She examines how governance and financing influence transit-oriented development implementation through comparative policy analysis.

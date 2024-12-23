@@ -17,7 +17,7 @@ pager: false
 show_date: false
 share: false
 profile: false
-
+weight: 20
 # Projects (optional).
 #   Associate this post with one or more of your projects.
 #   Simply enter your project's folder or file name without extension.
