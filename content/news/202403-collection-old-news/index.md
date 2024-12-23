@@ -97,4 +97,44 @@ share: true
 
 - November 2022. Urban Analytics and Interventions Research Lab has jointly hosted two peer talk sessions, with NURSS (New Urban Researchers' Seminar Series) in October and November. The peer talk aims to strengthen the academic exchange among PhD students. <br></br> We featured Víctor Cobs-Muñoz on Environmental justice and place: Creating a framework proposal to approach social-ecological Sacrifice Zones and Liudmila Slivinskaya on Reading Urban Form of Housing Estate through Place, respectively. Both are PhD students from TU Dortmund University. With backgrounds in Chile and Belarus, the two speakers carried their cultural roots into their research interests, which made the talks unique for Hong Kong-based doctoral researchers.<br></br>The academic exchanges are funded by the DAAD/RGC Joint Research Scheme (G-HKU703/20).
 
-s
+- October 2022. We are hosting two visiting PhD students from TU Dortmund, Victor Cobs-Munoz and Liudmila Slivinskaya. They share PhD research projects as peer talks to exchange research ideas with PhD students in Department of Urban Planning and Design at HKU. Their academic visits are supported by RGC/DAAD Hong Kong Germany joint research funding.
+
+- September 2022. A paper published in the **_Town Planning Review_** on "Natural experiments in healthy cities research: How can urban planning and design knowledge reinforce the causal inference?" We aim to contribute to a highly intellectual debate about a very important topic in healthy cities research. https://doi.org/10.3828/tpr.2022.14
+
+- Guibo Sun will give a seminar at RAM, Department of Spatial Planning at TU Dortmund on 28 July 2022 on the topic of new metro and subjective wellbeing among older people, to share findings from his natural experiment study in Hong Kong. 
+
+- Guibo Sun received a 3-year funding award to explore "Methodologies for assessing specific social, economic, health and wellbeing impacts of volumetric urban designs of metro infrastructure projects in the Greater Bay Area" (Seed Funding for Strategic Interdisciplinary Research Scheme, 2022.06-2025.06, 1 million HKD)
+
+- July 2022. A paper is published in Journal of Public Health and Emergency. Using RCT, this study explored the potential for enhancing the effectiveness of an intervention by combining it with exposure to a natural environment on stress-related symptom. https://jphe.amegroups.com/article/view/8469/pdf.
+
+- June 2022. PhD student Dongsheng He published a paper in Landscape and Urban Planning. Based on natural experiment approach, he investigated whether and how greenway intervention affects body weight outcomes. https://doi.org/10.1016/j.landurbplan.2022.104502.
+
+- April 2022. We have a paper published in the Journal of Transport & Health to answer the  question of "To what extent can social isolation explain the association between public transport use and wellbeing?" https://doi.org/10.1016/j.jth.2022.101378.
+
+- PhD student Dongsheng He received 20,000 HKD additional funding from RGC for supporting his research needs (e.g., data, high-computing power) as an HKPF awardee.
+
+- A joint paper is published in Urban Design International with Dr Gianni Talamini and his team at CityU on "The controversial impact of pedestrian guardrails on road crossing behaviours. Evidence from Hong Kong". We conducted a before-and-after observational study of the temporary removal of guardrails in Hong Kong, to explore the controversial issue "Are pedestrian guardrails for pedestrian safety or speeding up cars?" https://doi.org/10.1057/s41289-022-00184-y.
+
+- On 20th March 2022, our paper "Does China-Pakistan Economic Corridor improve connectivity in Pakistan? A protocol assessing the planned transport network infrastructure" was published in the Journal of Transport Geography. https://doi.org/10.1016/j.jtrangeo.2022.103327.
+
+- On 8th March 2022, our lab and Centre of Urban Studies and Urban Planning (CUSUP) co-hosted a research seminar on transport and health. Details please see the poster.
+
+- Jan 2022. PhD student Dongsheng He published a paper in Cities, he investigated whether and how urban density influences the life satisfaction of older adults in Shanghai, China.
+
+- Dec 2021 - PhD student Dongsheng He published a paper “Examining non-linear associations between built environments around workplace and adults' walking behaviour in Shanghai, China” on Transportation Research Part A. https://doi.org/10.1016/j.tra.2021.11.017. <br></br>He also received the Hong Kong Presidential PhD Scholarship and attended the award ceremony.
+
+- Dr Eun Yeong Choe has recently published a paper “ Examining the effectiveness of mindfulness practice in simulated and actual natural environments: secondary data analysis” at **_Urban Forestry & Urban Greening_**. Please find the link to the article: https://authors.elsevier.com/a/1e7QG5m5d7s1k0.
+
+- PhD student Yao Du and Dr Eun Yeong Choe gave presentations at the **APRU Global Health Conference**. 
+  1. Yao Du - "The differences in the elderly’s travel behaviour during the COVID-19 pandemic: Metro and health cohort study in Hong Kong"
+  2. Dr Eun Yeong Choe – "The role of natural environments in the effectiveness of a mindfulness-based stress reduction (MBSR) programme: Psychological and physiological responses to stress".
+
+- PhD student Dongsheng He has published a paper “Large-scale greenway intervention promotes walking behaviors”. In this natural experimental study, he assessed the effects of new greenway on the residents’ walking behaviors in Wuhan, China.
+
+- PhD student Dongsheng He joined the lab in September 2021. Dongsheng is an awardee of **HKPF** and **HKU-PS**, a prestigious scholarship package for outstanding full-time PhD students studying in HKU.
+
+- On 3 August 2021, Jianting Zhao is shortlisted by **RTPI Early Career Researcher Award** for her entry: Zhao, J., Sun, G. Webster., C. Walkability scoring: Why and how does a three-dimensional pedestrian network matter? Urban Analytics and City Science (2020). 
+
+- On 30 June 2021, Dr Jiangping Zhou, Dr Zhan Zhao and Dr Guibo Sun co-organised **HKU-University of Glasgow Urban Analytics Symposium**. It was a faculty network building event, where active researchers in urban analytics at UoG and HKU discussed ongoing work and future plans to identify mutually interested areas to build up future research collaborations. 
+
+- On 20 May 2021, Dr Guibo Sun was invited by the Hong Kong Institute of Surveyors to give a talk on the topic of **"The Making of Hong Kong: 3D Pedestrian Network as the Critical Urban Infrastructure"**.
