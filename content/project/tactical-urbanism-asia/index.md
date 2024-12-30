@@ -56,7 +56,7 @@ The experiment was highly praised by the interviewed participants. Many expresse
 
 ### Project Outputs
 
-- [placeholder]({{< ref "/publication/2024-sunwebster-lincoln/index" >}} "working paper")
+- [Experiment Unlearned]({{< ref "/publication/2025-zhaochangsun-jum/index" >}} "journal article")
 
 _This project is funded by the RGC/DAAD Germany/Hong Kong Joint Research Scheme, **Intercultural Perspectives for Understanding How People Experience Everyday Space and Place** (2021.01-2023.01, 90,000HKD)._ 
 {style="color: grey"}
