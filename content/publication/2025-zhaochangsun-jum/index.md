@@ -10,7 +10,7 @@ author_notes:
 - ""
 - "Corresponding Author"
 
-date: "2024-12-30T00:00:00Z"
+date: "2025-01-01T00:00:00Z"
 doi: "10.1016/j.urbmob.2024.100091"
 
 # Schedule page publish date (NOT publication's date).
