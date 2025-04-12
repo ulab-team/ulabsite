@@ -33,6 +33,7 @@ featured: true
 # - name: ""
 #   url: ""
 url_project: ''
+url_pdf: ''
 
 
 # Featured image
