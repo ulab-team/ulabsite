@@ -33,13 +33,13 @@ featured: true
 # - name: ""
 #   url: ""
 url_project: ''
-url_pdf: ''
+url_pdf: hk_policybrief.pdf
 
 
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder. 
 image:
-  caption: 'Three-day Street Experiment vs. Long-term deliverables'
+  caption: 'Policy Brief Cover Page'
   focal_point: ""
   preview_only: false
 
