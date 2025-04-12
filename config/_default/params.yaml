@@ -9,7 +9,7 @@ appearance:
   theme_day: minimal
   theme_night: 
   font: classic
-  font_size: S
+  font_size: M
 
 # SEO
 
@@ -19,7 +19,7 @@ marketing:
     local_business_type: ''
     org_name: 'Urban Infrastructure Transition Lab'
     description: 'Together We Understand'
-    twitter: 'uLab_UKHK'
+    twitter: 'uLab_Infra'
   analytics:
     google_analytics: ''
     baidu_tongji: ''
