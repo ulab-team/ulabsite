@@ -45,8 +45,8 @@ sections:
     content:
       title: |
         About us
-      # image:
-        # filename: addis_edited.png
+      image:
+       filename: website-collage.png
       text: |
         <br>
      
