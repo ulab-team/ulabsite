@@ -9,7 +9,7 @@ appearance:
   theme_day: minimal
   theme_night: 
   font: classic
-  font_size: L
+  font_size: S
 
 # SEO
 
@@ -45,7 +45,7 @@ header:
 
 footer:
   copyright:
-    notice: '© 2020-{year} Urban Infrastructure Transition Lab'
+    notice: '© 2020-present Urban Infrastructure Transition Lab'
     license:
       enable: false
       allow_derivatives: false
