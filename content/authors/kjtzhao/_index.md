@@ -14,7 +14,7 @@ authors:
 superuser: false
 
 # Role/position
-role: Co-founder
+role: Deputy-director
 
 # Organizations/Affiliations
 organizations:

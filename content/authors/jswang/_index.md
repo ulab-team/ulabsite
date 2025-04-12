@@ -14,7 +14,7 @@ authors:
 superuser: false
 
 # Role/position
-role: Member
+role: ''
 
 # Organizations/Affiliations
 organizations:

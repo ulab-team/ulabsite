@@ -39,7 +39,7 @@ url_pdf: 'publication/2025-zhao-policybrief/hk_policybrief.pdf'
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder. 
 image:
-  caption: 'Policy Brief Cover Page'
+  caption: 'Policy Brief'
   focal_point: ""
   preview_only: false
 

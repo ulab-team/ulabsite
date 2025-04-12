@@ -47,7 +47,7 @@ url_project: ''
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder. 
 image:
-  caption: 'Publication Cover Page'
+  caption: 'Publication'
   focal_point: ""
   preview_only: false
 

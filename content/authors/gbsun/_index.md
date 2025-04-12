@@ -14,7 +14,7 @@ authors:
 superuser: false
 
 # Role/position
-role: Founder
+role: Director
 
 # Organizations/Affiliations
 organizations:
