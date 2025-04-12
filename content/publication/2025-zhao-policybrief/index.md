@@ -1,7 +1,7 @@
 ---
-title: "Policy Brief Improving Street Urban Design Through Co-creation"
+title: "Planning, transport, and healthy ageing in Asia"
 authors:
-- kjtzhao
+- gbsun
 
 author_notes:
 - ""
@@ -33,7 +33,7 @@ featured: true
 # - name: ""
 #   url: ""
 url_project: ''
-url_pdf: hk_policybrief.pdf
+url_pdf: 'publication/2025-zhao-policybrief/hk_policybrief.pdf'
 
 
 # Featured image
