@@ -61,7 +61,7 @@ sections:
       spacing:
         padding: [15, 15, 15, 15]
         margin: [10, 10, 10, 10]
-      font-size: XS
+      font-size: S
   
 
   # - block: slider
