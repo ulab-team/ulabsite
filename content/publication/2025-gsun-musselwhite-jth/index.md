@@ -8,8 +8,8 @@ author_notes:
 - "Corresponding Author"
 - ""
 
-date: "2025-04-12T00:00:00Z"
-doi: "10.1016/j.urbmob.2024.100091"
+date: "2025-04-01T00:00:00Z"
+doi: "10.1016/j.jth.2025.102007"
 
 # Schedule page publish date (NOT publication's date).
 publishDate: "2025-02-10T00:00:00Z"
@@ -27,8 +27,8 @@ publication_short: ""
 summary: Rapid urban development has led to substantial changes in transport systems, often making travel behaviour complex and, at times, overwhelming for older populations. The rapid growth of ageing populations in Asian cities presents major public health challenges that demand in-depth research and evidence-based solutions. This paper addresses the unique opportunities and challenges, including large-scale transport infrastructure interventions, health impact assessments, causal inference, and planning and policy recommendations, to support sustainable urban development and improve transport planning for the health and well-being of ageing populations in Asia and beyond.
 
 tags:
-- Causal Inference
-- Wellbeing
+- causal inference
+- wellbeing
 
 featured: true
 
@@ -41,7 +41,7 @@ url_project: ''
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder. 
 image:
-  caption: 'Publication page'
+  caption: 'Publication'
   focal_point: ""
   preview_only: false
 
