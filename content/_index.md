@@ -200,12 +200,6 @@ sections:
         We welcome consultancy work, intellectual exchange with scholars, and collaboration with practitioners.
       email: guibo.sun@manchester.ac.uk
       address: 
-        street: Queen's Road Central
-        city: Hong Kong
-        country: China
-        country_code: CN
-
-      address: 
         street: Oxford Road
         city: Manchester
         country: United Kingdom
@@ -219,7 +213,6 @@ sections:
     
       # Automatically link email and phone or display as text?
       autolink: false
-
     design:
       columns: '2'
 ---
