@@ -4,8 +4,6 @@ date: 2025-02-19
 image:
   focal_point: 'top'
 share: true
-projects: 
-- 'content/publication/2025-gsun-musselwhite-jth/index.md'
 ---
 
 Our special issue is now online! It’s been a true privilege collaborating with authors from 10+ cities to explore transport & healthy ageing in Asia. We hope these findings advance research & practice in this vital field. 

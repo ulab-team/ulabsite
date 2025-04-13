@@ -39,6 +39,8 @@ sections:
       css_class: "dark"
       background:
         color: "Grey"
+      font_size: L
+      align: center
 
   
   - block: hero
