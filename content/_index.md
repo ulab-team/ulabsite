@@ -63,7 +63,7 @@ sections:
       spacing:
         padding: [15, 15, 15, 15]
         margin: [10, 10, 10, 10]
-      font_size: smaller
+      css_class: my-custom-font-size
   
 
   # - block: slider
@@ -165,9 +165,8 @@ sections:
       filters:
         folders:
           - publication
-        publication_type: 
-          - article-journal
-          - report
+        # publication_type: 'article-journal'
+
         featured_only: true
       text: |
         {{% cta cta_link="./publication/" cta_text="See full record →" %}}  
@@ -201,9 +200,10 @@ sections:
       text: |
         We welcome consultancy work, intellectual exchange with scholars, and collaboration with practitioners.
       email: guibo.sun@manchester.ac.uk
-      address: Oxford Road, Manchester, UK | Queen's Road Central, HK
+      address: 
+        street: Oxford Road, Manchester, UK
         # country: United Kingdom
-        # country_code: UK
+        country_code: UK
 
       #contact_links:
       #  - icon: comments
