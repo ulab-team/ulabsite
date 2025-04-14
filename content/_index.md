@@ -48,7 +48,7 @@ sections:
       title: |
         About us
       image:
-       filename: website-collage.png
+       filename: website-collage.jpg
       text: |
         <br>
      
@@ -63,7 +63,7 @@ sections:
       spacing:
         padding: [15, 15, 15, 15]
         margin: [10, 10, 10, 10]
-      font_size: S
+      font_size: smaller
   
 
   # - block: slider
