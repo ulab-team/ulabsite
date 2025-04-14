@@ -201,9 +201,7 @@ sections:
       text: |
         We welcome consultancy work, intellectual exchange with scholars, and collaboration with practitioners.
       email: guibo.sun@manchester.ac.uk
-      address: 
-        street: Oxford Road
-        city: Manchester, UK
+      address: Oxford Road, Manchester, UK | Queen's Road Central, HK
         # country: United Kingdom
         # country_code: UK
 
