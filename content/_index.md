@@ -165,7 +165,9 @@ sections:
       filters:
         folders:
           - publication
-        publication_type: 'article-journal'
+        publication_type: 
+          - article-journal
+          - report
         featured_only: true
       text: |
         {{% cta cta_link="./publication/" cta_text="See full record →" %}}  
@@ -201,9 +203,9 @@ sections:
       email: guibo.sun@manchester.ac.uk
       address: 
         street: Oxford Road
-        city: Manchester
-        country: United Kingdom
-        country_code: UK
+        city: Manchester, UK
+        # country: United Kingdom
+        # country_code: UK
 
       #contact_links:
       #  - icon: comments
