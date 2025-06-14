@@ -1,6 +1,6 @@
 ---
 title: New publication on experiential learning in street experiments
-date: 2025-04-12
+date: 2025-06-14
 image:
   focal_point: 'top'
 share: true
