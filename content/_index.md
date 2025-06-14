@@ -180,7 +180,7 @@ sections:
       filters:
         folders:
           - news
-      text: uLab curates a vibrant research community through institutional connections.
+      text: ''
     design:
       view: compact
 
