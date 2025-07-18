@@ -14,15 +14,15 @@ authors:
 superuser: false
 
 # Role/position
-role: ''
+role: Deputy-director
 
 # Organizations/Affiliations
 organizations:
-  - name: The University of Hong Kong
+  - name: Manchester School of Architecture
     url: ''
 
 # Short bio (displayed in user profile at end of posts)
-bio: I am a postdoc fellow (incoming) in uLab and the Department of Urban Planning and Design, HKU. I have an interdisciplinary background, combining a PhD in Tactical Urbanism from The University of Hong Kong (HKU), a Master of Urban Spatial Analytics from the University of Pennsylvania, and a Bachelor of Science in Landscape Architecture from the University of Wisconsin-Madison.
+bio: I am a lecturer at Manchester School of Architecture, Manchester Metropolitan University. I have an interdisciplinary background, combining a PhD in Tactical Urbanism from the University of Hong Kong (HKU), a Master of Urban Spatial Analytics from the University of Pennsylvania, and a Bachelor of Science in Landscape Architecture from the University of Wisconsin-Madison.
 
 interests:
   - Street Experiment

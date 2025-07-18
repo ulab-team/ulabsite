@@ -45,4 +45,3 @@ bio: ''
 user_groups: []
 
 ---
-Professor Chris Webster is a Chair Professor at the ...

@@ -18,7 +18,7 @@ role: ''
 
 # Organizations/Affiliations
 organizations:
-  - name: The University of Hong Kong
+  - name: Technion - Israel Institute of Technology
     url: ''
 
 # Short bio (displayed in user profile at end of posts)

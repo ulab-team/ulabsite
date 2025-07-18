@@ -39,17 +39,19 @@ sections:
       css_class: "dark"
       background:
         color: "Grey"
+      font_size: L
+      align: center
 
-
+  
   - block: hero
     content:
       title: |
         About us
       image:
-        filename: addis_edited.png
+       filename: website-collage.jpg
       text: |
         <br>
-      
+     
         **Urban Infrastructure Transition Lab (uLab-Infrastructure)** focuses on understanding infrastructure financing and assessing its impact. The social, economic and health impacts of large-scale infrastructure interventions, such as new metro, urban renewal, large-block gated communities, and global street experiments, are profound. We specialise in using natural experiments to infer the causality of such impacts. We are interested in the institution and governance of the infrastructure financing, using experimental economics approaches to formulate the decision-making processes in local governments.
 
         Our won several prestigious awards, including those from the Royal Town Planning Institute (UK), Lincoln Institute of Land Policy (USA), Hong Kong Institute of Surveyors, and International Association for China Planning. We have published articles in highly reputable journals and public policy reports. Our research and practice are funded by national and international competitive research grants and industry funds (over 1 million GBP).
@@ -61,7 +63,62 @@ sections:
       spacing:
         padding: [15, 15, 15, 15]
         margin: [10, 10, 10, 10]
-      font-size: small
+      css_class: my-custom-font-size
+  
+
+  # - block: slider
+  #   content:
+  #     slides:
+  #       - title: Welcome to the group
+  #         content: Take a look at what we're working on...
+  #         align: center
+  #         background:
+  #           image:
+  #             # Specify an image from `assets/media/`
+  #             # or delete the image section to remove it
+  #             filename: addis_edited.png
+  #             filters:
+  #               brightness: 0.7
+  #           position: right
+  #           color: '#666'
+  #       - title: Lunch & Learn
+  #         content: 'Share your knowledge with the group and explore exciting new topics together!'
+  #         align: left
+  #         background:
+  #           image:
+  #             # Specify an image from `assets/media/`
+  #             # or delete the image section to remove it
+  #             filename: icon.png
+  #             filters:
+  #               brightness: 0.7
+  #           position: center
+  #           color: '#555'
+  #       - title: World-Class Semiconductor Lab
+  #         content: 'Just opened last month!'
+  #         align: right
+  #         background:
+  #           image:
+  #             # Specify an image from `assets/media/`
+  #             # or delete the image section to remove it
+  #             filename: HKIS.png
+  #             filters:
+  #               brightness: 0.5
+  #           position: center
+  #           color: '#333'
+  #         link:
+  #           icon: graduation-cap
+  #           icon_pack: fas
+  #           text: Join Us
+  #           url: ../contact/
+  #   design:
+  #     # Slide height is automatic unless you force a specific height (e.g. '400px')
+  #     slide_height: ''
+  #     # Make the slides full screen within the browser window?
+  #     is_fullscreen: true
+  #     # Automatically transition through slides?
+  #     loop: false
+  #     # Duration of transition between slides (in ms)
+  #     interval: 2000
 
 
   - block: collection
@@ -108,7 +165,8 @@ sections:
       filters:
         folders:
           - publication
-        publication_type: 'article-journal'
+        # publication_type: 'article-journal'
+
         featured_only: true
       text: |
         {{% cta cta_link="./publication/" cta_text="See full record →" %}}  
@@ -122,7 +180,7 @@ sections:
       filters:
         folders:
           - news
-      text: uLab curates a vibrant research community through institutional connections.
+      text: ''
     design:
       view: compact
 
@@ -143,15 +201,8 @@ sections:
         We welcome consultancy work, intellectual exchange with scholars, and collaboration with practitioners.
       email: guibo.sun@manchester.ac.uk
       address: 
-        street: Queen's Road Central
-        city: Hong Kong
-        country: China
-        country_code: CN
-
-      address: 
-        street: Oxford Road
-        city: Manchester
-        country: United Kingdom
+        street: Oxford Road, Manchester, UK
+        # country: United Kingdom
         country_code: UK
 
       #contact_links:
@@ -162,7 +213,6 @@ sections:
     
       # Automatically link email and phone or display as text?
       autolink: false
-
     design:
       columns: '2'
 ---
