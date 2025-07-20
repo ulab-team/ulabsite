@@ -59,4 +59,4 @@ projects:
 
 ## Abstract
 
-{{% staticref "uploads/appendix-public-engage-tactics.pdf" "newtab" %}}This document{{% /staticref %}} presents four appendices associated with the article _From Push to Partnership: Evolving Public Engagement Strategies in Pandemic-Induced Street Experiments_, published on the Journal of Urban Design. 
+{{% staticref "publication/2025-zhao-sun-jud-appenx/appendix-public-engage-tactics.pdf" "newtab" %}}This document{{% /staticref %}} presents four appendices associated with the article _From Push to Partnership: Evolving Public Engagement Strategies in Pandemic-Induced Street Experiments_, published on the Journal of Urban Design. 
