@@ -1,5 +1,5 @@
 ---
-title: "Appendices for _From Push to Partnership: Evolving Public Engagement Strategies in Pandemic-Induced Street Experiments_"
+title: "Appendices for From Push to Partnership: Evolving Public Engagement Strategies in Pandemic-Induced Street Experiments"
 authors:
 - kjtzhao
 - gbsun
@@ -24,18 +24,19 @@ publication: "_Urban Infrastructure Transition Lab_"
 publication_short: "uLab"
 
 # Summary. An optional shortened abstract.
-summary: This document presents four appendices associated with the article 'From Push to Partnership:' ' Evolving Public Engagement Strategies in Pandemic-Induced Street Experiments', published on the Journal of Urban Design. 
+summary: 
+"This document presents four appendices associated with the article _From Push to Partnership: Evolving Public Engagement Strategies in Pandemic-Induced Street Experiments_, published on the Journal of Urban Design." 
 
 tags:
 - street experiment
 
-featured: true
+featured: false
 
 # links:
 # - name: ""
 #   url: ""
 url_project: ''
-url_pdf: 'publication/2025-zhao-policybrief/appendix-public-engage-tactics.pdf'
+url_pdf: 'publication/2025-zhao-sun-jud-appenx/appendix-public-engage-tactics.pdf'
 
 
 # Featured image
@@ -52,10 +53,10 @@ url_pdf: 'publication/2025-zhao-policybrief/appendix-public-engage-tactics.pdf'
 #   E.g. `internal-project` references `content/project/internal-project/index.md`.
 #   Otherwise, set `projects: []`.
 projects: 
-- tactical-urbanism-asia
+- global-street-experiment
 
 ---
 
 ## Abstract
 
-This document presents four appendices associated with the article 'From Push to Partnership:' ' Evolving Public Engagement Strategies in Pandemic-Induced Street Experiments', published on the Journal of Urban Design. 
+[This document] ({{< relref "/publication/2025-zhao-sun-jud-appenx/appendix-public-engage-tactics.pdf" >}}) presents four appendices associated with the article From Push to Partnership: Evolving Public Engagement Strategies in Pandemic-Induced Street Experiments, published on the Journal of Urban Design. 
