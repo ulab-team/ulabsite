@@ -9,7 +9,6 @@ author_notes:
 - ""
 - "Corresponding Author"
 - ""
-
 date: '2024-05-01'
 doi: "10.1016/j.landurbplan.2023.104931"
 

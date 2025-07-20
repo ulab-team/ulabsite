@@ -14,7 +14,7 @@ authors:
 superuser: false
 
 # Role/position
-role: Director
+role: ''
 
 # Organizations/Affiliations
 organizations:
