@@ -1,5 +1,6 @@
 ---
-title: "Appendices for From Push to Partnership: Evolving Public Engagement Strategies in Pandemic-Induced Street Experiments"
+title: "Appendices for 'From Push to Partnership: Evolving Public Engagement Strategies in Pandemic-Induced Street Experiments'"
+
 authors:
 - kjtzhao
 - gbsun
@@ -24,8 +25,7 @@ publication: "_Urban Infrastructure Transition Lab_"
 publication_short: "uLab"
 
 # Summary. An optional shortened abstract.
-summary: 
-"This document presents four appendices associated with the article _From Push to Partnership: Evolving Public Engagement Strategies in Pandemic-Induced Street Experiments_, published on the Journal of Urban Design." 
+summary: "This document presents four appendices associated with the article 'From Push to Partnership: Evolving Public Engagement Strategies in Pandemic-Induced Street Experiments', published on the Journal of Urban Design."
 
 tags:
 - street experiment
@@ -59,4 +59,4 @@ projects:
 
 ## Abstract
 
-[This document] ({{< relref "/publication/2025-zhao-sun-jud-appenx/appendix-public-engage-tactics.pdf" >}}) presents four appendices associated with the article From Push to Partnership: Evolving Public Engagement Strategies in Pandemic-Induced Street Experiments, published on the Journal of Urban Design. 
+[This document]({{< relref "/publication/2025-zhao-sun-jud-appenx/appendix-public-engage-tactics.pdf" >}}) presents four appendices associated with the article _From Push to Partnership: Evolving Public Engagement Strategies in Pandemic-Induced Street Experiments_, published on the Journal of Urban Design. 
