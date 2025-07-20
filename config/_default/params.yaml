@@ -9,7 +9,7 @@ appearance:
   theme_day: minimal
   theme_night: 
   font: classic
-  font_size: M
+  font_size: L
 
 # SEO
 
@@ -19,7 +19,7 @@ marketing:
     local_business_type: ''
     org_name: 'Urban Infrastructure Transition Lab'
     description: 'Together We Understand'
-    twitter: 'uLab_Infra'
+    twitter: 'uLab_UKHK'
   analytics:
     google_analytics: ''
     baidu_tongji: ''
@@ -45,7 +45,7 @@ header:
 
 footer:
   copyright:
-    notice: '© 2020-present Urban Infrastructure Transition Lab'
+    notice: '© 2020-{year} Urban Infrastructure Transition Lab'
     license:
       enable: false
       allow_derivatives: false
