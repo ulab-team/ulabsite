@@ -22,12 +22,13 @@ organizations:
     url: ''
 
 # Short bio (displayed in user profile at end of posts)
-bio: I am a lecturer at Manchester School of Architecture, Manchester Metropolitan University. I have an interdisciplinary background, combining a PhD in Tactical Urbanism from the University of Hong Kong (HKU), a Master of Urban Spatial Analytics from the University of Pennsylvania, and a Bachelor of Science in Landscape Architecture from the University of Wisconsin-Madison.
+bio: My research interest lies in the experimental urban practices that stimulates people-centric street creation. My ongoing research focuses on street experiments and their impact on Covid-19 pandemic-related urban life. As a lecturer at Manchester School of Architecture, I am developing research on urban mobility in northwestern UK cities. 
 
 interests:
   - Street Experiment
   - Urban Experimentation
-  - Urban Design
+  - People-centric streets
+  - Urban sustainable mobility
 
 education:
   courses:
@@ -63,4 +64,8 @@ user_groups:
 weight: 20
 ---
 
-Dr Kristen Jianting Zhao uses advanced technologies and innovative methodologies to enhance liveability and foster smart and sustainable urban futures. Her PhD project on urban experimentation challenges traditional design paradigms through a global analysis of tactical urbanism (Awarded Outstanding Rating, Top 5%). Her expertise in programming (Python, R, JavaScript) and spatial analytics deepened during her master's training in Pennsylvania. It was further enhanced through research roles at top universities and a leading geospatial technology firm (Azavea Inc.). She established a strong Landscape Architecture foundation through the ASLA-accredited programme from the University of Wisconsin-Madison and professional practices at leading firms (e.g., EDSA Inc.). She has published 9 peer-reviewed articles in journals, including Environment and Planning B, Landscape and Urban Planning, and five more in the pipeline. Her research won awards, including the Royal Town Planning Institute Commendation in Research Excellence 2022, HKU Research Output Prize 2022, and IACP Best Student Paper 2021. She has co-investigated funding totalling HK$204,500 (£20,160).
+**Dr Kristen Jianting Zhao** applies advanced technologies and innovative methodologies to advance liveability and shape smart, sustainable urban futures. Her PhD research on urban experimentation, which received an *Outstanding Rating* (Top 5%), critically redefined design paradigms through a global analysis of tactical urbanism.
+
+She brings strong technical expertise in programming (Python, R, JavaScript) and spatial analytics, initially developed during her master’s training in Pennsylvania and further strengthened through research positions at leading universities and a geospatial technology firm, Azavea Inc. Her academic foundation in Landscape Architecture, established through the ASLA-accredited program at the University of Wisconsin–Madison, is complemented by professional experience at internationally renowned firms such as EDSA Inc.
+
+Dr Zhao has published ten peer-reviewed articles in *Environment and Planning B*, *Landscape and Urban Planning*, and other high-impact journals in urban planning and design. Her research excellence has been recognised with multiple awards, including the Royal Town Planning Institute Commendation in Research Excellence (2022), the HKU Research Output Prize (2022), and the IACP Best Student Paper Award (2021).

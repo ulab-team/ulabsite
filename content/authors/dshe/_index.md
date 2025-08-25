@@ -1,6 +1,6 @@
 ---
 # Display name
-title: Dongsheng He
+title: Dr Dongsheng He
 
 # Full name (for SEO)
 first_name: Dongsheng
@@ -22,7 +22,7 @@ organizations:
     url: ''
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interest lies in sustainable development of urban rail transit in high-density cities, covering aspects of land economy, social well-being, and urban design and morphology. My master thesis was about urban greenery and housing price, using a big data approach.
+bio: I am a postdoc fellow at the Department of Urban Planning and Design, HKU. My research interest lies in sustainable development of urban rail transit in high-density cities, covering aspects of land economy, social well-being, and urban design and morphology. My master thesis was about urban greenery and housing price, using a big data approach.
 
 interests:
   - Natural Experiment
@@ -31,6 +31,9 @@ interests:
 
 education:
   courses:
+    - course: PhD in Urban Planning and Design
+      institution: The University of Hong Kong
+      year: 2025
 
     - course: M.Phil in Architecture
       institution: University of Cambridge
@@ -60,11 +63,11 @@ email: ''
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-  - Grad Students
+  - Researchers
 
-weight: 10
+weight: 35
 ---
 
-Dongsheng's research promotes sustainable urbanization through transportation and land use planning. In particular, his work examines strategies to increase active travel and implement transit-oriented development (TOD).
+**Dr Dongsheng He** advances sustainable urbanisation through integrated transportation and land use planning. His research explores strategies to promote active travel and implement transit-oriented development (TOD) as pathways to creating more liveable, low-carbon cities.
 
-He is investigating the mechanisms of land value capture associated with TOD to reveal how municipalities can leverage such urban planning approaches to both fund expanded transit infrastructure and drive broader sustainable development objectives.
+His work has examined the mechanisms of land value capture in relation to TOD, identifying how municipalities can leverage this approach to finance expanded transit infrastructure while supporting broader sustainable development goals.
