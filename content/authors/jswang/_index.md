@@ -60,7 +60,7 @@ email: ''
 user_groups:
   - Researchers
 
-weight: 30
+weight: 40
 ---
 
 Dr Jinshuo Wang is investigating institutional frameworks structuring urban rail investments in China's Greater Bay Area. She examines how governance and financing influence transit-oriented development implementation through comparative policy analysis.

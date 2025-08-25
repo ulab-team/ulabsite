@@ -60,7 +60,7 @@ email: ''
 user_groups:
   - Researchers
 
-weight: 40
+weight: 30
 ---
 
 Dr Jieun Lee employs natural experiments, econometric models, and big-data analysis using both structured and unstructured data to uncover policy implications for creating more equitable and efficient urban spaces. Her work provides insights into future urban spatial structures, dynamic changes in the housing market as reflected in real estate advertisement platforms, and the effects of policy measures that impact spatial dimensions with the goal of improving public health and urban livability. The results of my research contribute to the creation of more sustainable cities from economic, environmental, and social perspectives.
