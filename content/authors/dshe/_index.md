@@ -22,7 +22,10 @@ organizations:
     url: ''
 
 # Short bio (displayed in user profile at end of posts)
-bio: I am a Research Fellow at School of Geography, University of Leeds (link), and at Healthy and Sustainable Places Data Service (HASP), Leeds, UK. Prior to this, I got my PhD degree in Urban Planning and Design from The University of Hong Kong (HKU) in 2025. I also obtained my MPhil degree in Architecture and Urban Studies at the University of Cambridge in 2021,  and bachelor's degree in Urban Planning from Sun Yat-sen University (SYSU),  China in 2020.
+bio: | 
+    **Dr Dongsheng He** advances sustainable urbanisation through integrated transportation and land use planning. His research explores strategies to promote active travel and implement transit-oriented development (TOD) as pathways to creating more liveable, low-carbon cities.
+
+His work has examined the mechanisms of land value capture in relation to TOD, identifying how municipalities can leverage this approach to finance expanded transit infrastructure while supporting broader sustainable development goals.
 
 interests:
   - Natural Experiment
@@ -67,7 +70,6 @@ user_groups:
 
 weight: 35
 ---
+I am a Research Fellow at School of Geography, University of Leeds (link), and at Healthy and Sustainable Places Data Service (HASP), Leeds, UK. Prior to this, I got my PhD degree in Urban Planning and Design from The University of Hong Kong (HKU) in 2025. I also obtained my MPhil degree in Architecture and Urban Studies at the University of Cambridge in 2021,  and bachelor's degree in Urban Planning from Sun Yat-sen University (SYSU),  China in 2020.
 
-**Dr Dongsheng He** advances sustainable urbanisation through integrated transportation and land use planning. His research explores strategies to promote active travel and implement transit-oriented development (TOD) as pathways to creating more liveable, low-carbon cities.
 
-His work has examined the mechanisms of land value capture in relation to TOD, identifying how municipalities can leverage this approach to finance expanded transit infrastructure while supporting broader sustainable development goals.

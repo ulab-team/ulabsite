@@ -22,7 +22,8 @@ organizations:
     url: ''
 
 # Short bio (displayed in user profile at end of posts)
-bio: I am a postdoc fellow at the Department of Social Work and Social Administration, HKU. My research interests focus on public transport and urban redevelopment and their health impact on older people in Hong Kong. I hold a PhD from HKU Urban Planning and Design, focusing on Transport and Healthy Ageing. Before my Doctoral study, I had three years of working experience as a research assistant in sociology and housing studies.
+bio: |
+    **Dr Yao Du** investigates causal links between public transport changes and older adults' travel behavior, social engagement, and well-being. Older people face mobility challenges, so transport modifications can impact accessibility, social connections, and well-being. She explores how interventions shape travel adaptation and how psycho-social and environmental factors mediate behavior change impacting well-being.
 
 interests:
   - Natural Experiment
@@ -63,6 +64,6 @@ user_groups:
 weight: 50
 ---
 
-Dr Yao Du investigates causal links between public transport changes and older adults' travel behavior, social engagement, and well-being. Older people face mobility challenges, so transport modifications can impact accessibility, social connections, and well-being. She explores how interventions shape travel adaptation and how psycho-social and environmental factors mediate behavior change impacting well-being.
+Dr Du is a Postdoctoral Fellow at the Department of Social Work and Social Administration, HKU. Her research focuses on public transport, urban redevelopment, and their health impacts on older people in Hong Kong. She holds a PhD in Urban Planning and Design from The University of Hong Kong, where her work centred on transport and healthy ageing. Prior to her doctoral studies, she gained three years of experience as a research assistant in sociology and housing studies.
 
-She applies mixed qualitative/quantitative methods using a natural experiment to compare pre/post-transport intervention differences in older adults' mobility and health. In-depth interviews aid in understanding the behavior adaptation process and pathways from changes to subjective well-being. Findings can help policy support age-friendly, healthy aging by supporting older adults' transport needs.
+She applies mixed qualitative and quantitative methods, including natural experiments, to compare pre- and post-transport intervention changes in older adults’ mobility and health. In-depth interviews are used to understand behavioural adaptation processes and the pathways linking these changes to subjective well-being. Her research provides insights to inform policies that support age-friendly environments and healthy ageing by addressing older adults’ transport needs.

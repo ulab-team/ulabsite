@@ -22,7 +22,7 @@ organizations:
     url: ''
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interest lies in the experimental urban practices that stimulates people-centric street creation. My ongoing research focuses on street experiments and their impact on Covid-19 pandemic-related urban life. As a lecturer at Manchester School of Architecture, I am developing research on urban mobility in northwestern UK cities. 
+bio: Dr Zhao is a is an urban researcher and Lecturer in Architecture whose work integrates architectural education, urban research, and spatial analytics. Her research employs mixed-method approaches to examine urban mobility transitions, urban analytics, and design-led experimentation in cities. 
 
 interests:
   - Street Experiment
@@ -64,8 +64,6 @@ user_groups:
 weight: 20
 ---
 
-**Dr Kristen Jianting Zhao** applies advanced technologies and innovative methodologies to advance liveability and shape smart, sustainable urban futures. Her PhD research on urban experimentation, which received an *Outstanding Rating* (Top 5%), critically redefined design paradigms through a global analysis of tactical urbanism.
+**Dr Kristen Zhao* is a Lecturer in Architecture at the Manchester School of Architecture, where her work focuses on experimental urban practices that support people-centred street design. Her research explores street experiments and their impact on urban life during and after the COVID-19 pandemic, alongside broader investigations into urban mobility in cities across northwestern UK. She employs mixed-method approaches to examine mobility transitions, urban analytics, and design-led experimentation.
 
-She brings strong technical expertise in programming (Python, R, JavaScript) and spatial analytics, initially developed during her master’s training in Pennsylvania and further strengthened through research positions at leading universities and a geospatial technology firm, Azavea Inc. Her academic foundation in Landscape Architecture, established through the ASLA-accredited program at the University of Wisconsin–Madison, is complemented by professional experience at internationally renowned firms such as EDSA Inc.
-
-Dr Zhao has published ten peer-reviewed articles in *Environment and Planning B*, *Landscape and Urban Planning*, and other high-impact journals in urban planning and design. Her research excellence has been recognised with multiple awards, including the Royal Town Planning Institute Commendation in Research Excellence (2022), the HKU Research Output Prize (2022), and the IACP Best Student Paper Award (2021).
+Dr Zhao has published ten peer-reviewed articles in leading journals including _Environment and Planning B_ and _Landscape and Urban Planning_. Her research excellence has been recognised with multiple awards, including the Royal Town Planning Institute Commendation in Research Excellence (2022), the HKU Research Output Prize (2022), and the IACP Best Student Paper Award (2021).

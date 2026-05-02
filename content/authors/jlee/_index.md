@@ -22,7 +22,7 @@ organizations:
     url: ''
 
 # Short bio (displayed in user profile at end of posts)
-bio: I am deeply committed to enhancing the efficiency and equality of urban land-use, with the goal of creating better spaces for living, working, and playing. My primary research focus is on identifying more effective urban planning strategies and values that should be considered in the process of creating sustainable urban spaces for our future. My ongoing research primarily revolves around urban land-use planning, the dynamics of the housing market, and the impact of public interventions on people's health and satisfaction.
+bio: Dr Jieun Lee employs natural experiments, econometric models, and big-data analysis using both structured and unstructured data to uncover policy implications for creating more equitable and efficient urban spaces. Her work provides insights into future urban spatial structures, dynamic changes in the housing market as reflected in real estate advertisement platforms, and the effects of policy measures that impact spatial dimensions with the goal of improving public health and urban livability. 
 
 interests:
   - Urban Econometrics
@@ -62,7 +62,8 @@ user_groups:
 
 weight: 30
 ---
+## Overview
 
-Dr Jieun Lee employs natural experiments, econometric models, and big-data analysis using both structured and unstructured data to uncover policy implications for creating more equitable and efficient urban spaces. Her work provides insights into future urban spatial structures, dynamic changes in the housing market as reflected in real estate advertisement platforms, and the effects of policy measures that impact spatial dimensions with the goal of improving public health and urban livability. The results of my research contribute to the creation of more sustainable cities from economic, environmental, and social perspectives.
+Dr Jieun Lee a Postdoctral Fellow focusing on urban policy evaluation. She is committed to enhancing the efficiency and equity of urban land use, with the goal of creating better spaces for living, working, and recreation. Their research focuses on identifying effective urban planning strategies and the key values that should guide the development of sustainable urban environments. Their ongoing work explores urban land-use planning, housing market dynamics, and the impact of public interventions on people’s health and well-being. Through this research, Dr Lee contributes to advancing more sustainable cities across economic, environmental, and social dimensions.
 
 Her research has been recognized with several awards, including the Excellence Prize for the research project "How to Manage Semi-Residential Zone of Seoul – Evidence from the Geo-spatial Analysis," funded by the Korea Real Estate Analysts Association & Korea Developer Association. I also received the Top Prize for the research "Urban Planning and the Trend of High-rise Housing in Singapore," funded by the Seoul Housing & Communities Corporation Institute. I am a recipient of "The National Scholarship for Science and Engineering" from the Korea Student Aid Foundation.

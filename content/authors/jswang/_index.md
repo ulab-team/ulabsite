@@ -22,7 +22,7 @@ organizations:
     url: ''
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests focus on exploring the relationships among transport infrastructure provision, land value capture, and urban development from the perspectives of urban governance and institutionalism. I received research training in urban planning, human geography, and public administration.
+bio: Dr Jinshuo Wang is investigating institutional frameworks structuring urban rail investments in China's Greater Bay Area. She examines how governance and financing influence transit-oriented development implementation through comparative policy analysis.
 
 interests:
   - infrastructure
@@ -63,6 +63,9 @@ user_groups:
 weight: 40
 ---
 
-Dr Jinshuo Wang is investigating institutional frameworks structuring urban rail investments in China's Greater Bay Area. She examines how governance and financing influence transit-oriented development implementation through comparative policy analysis.
+## Overview 
+Dr Jinahsuo Wang is a Postdoctoral Fellow researching institutional frameworks in urban investment in China. Her research interests focus on exploring the relationships among transport infrastructure provision, land value capture, and urban development from the perspectives of urban governance and institutionalism. She has received research training in urban planning, human geography, and public administration.
 
-A core focus is empirically assessing the region's social and health impacts of TOD. By quantitatively evaluating lived experience indicators, Dr. Jinshuo seeks to elucidate the differential influences of integrated transport-urban planning on well-being and livability. She aims to discern effective infrastructure-urbanization coordination models to generate policy insights for sustainable urbanization.
+Through research in the Greater Bay Area in China, Dr Wang examines how governance and financing influence transit-oriented development (TOD) implementation through comparative policy analysis.
+
+A core focus of her work is empirically assessing the social and health impacts of TOD in the region. By quantitatively evaluating lived experience indicators, she seeks to clarify how integrated transport and urban planning affect well-being and livability. She aims to identify effective models of infrastructure–urbanization coordination and generate policy insights for sustainable urbanization.

@@ -47,4 +47,4 @@ user_groups:
   - []
 ---
 
-We were founded in 2021 as an affiliated research lab under the HKUrbanLabs, a research branch within the Faculty of Architecture, the University of Hong Kong. In 2025, we are growing into an independent platform hosting researchers with various urban-related expertise. 
+We were founded in 2021 as an affiliated research lab under the HKUrbanLabs, a research branch within the Faculty of Architecture, the University of Hong Kong. Since 2025, we are growing into an independent platform hosting researchers with various urban-related expertise. 
