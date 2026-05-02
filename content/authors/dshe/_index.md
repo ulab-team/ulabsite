@@ -18,11 +18,11 @@ role: ''
 
 # Organizations/Affiliations
 organizations:
-  - name: The University of Hong Kong
+  - name: University of Leeds
     url: ''
 
 # Short bio (displayed in user profile at end of posts)
-bio: I am a postdoc fellow at the Department of Urban Planning and Design, HKU. My research interest lies in sustainable development of urban rail transit in high-density cities, covering aspects of land economy, social well-being, and urban design and morphology. My master thesis was about urban greenery and housing price, using a big data approach.
+bio: I am a Research Fellow at School of Geography, University of Leeds (link), and at Healthy and Sustainable Places Data Service (HASP), Leeds, UK. Prior to this, I got my PhD degree in Urban Planning and Design from The University of Hong Kong (HKU) in 2025. I also obtained my MPhil degree in Architecture and Urban Studies at the University of Cambridge in 2021,  and bachelor's degree in Urban Planning from Sun Yat-sen University (SYSU),  China in 2020.
 
 interests:
   - Natural Experiment
