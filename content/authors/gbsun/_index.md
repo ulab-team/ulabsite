@@ -67,8 +67,6 @@ user_groups:
 weight: 10  
 ---
 
-## Overview
-
 Dr Guibo Sun is a Lecturer in Urban Planning at the University of Manchester. He is an urban studies and planning researcher. His research interests in large-scale infrastructure lie at the interfaces of urban planning, land policy, transportation, urban design, and public health. Through leading research and practice projects, he has also developed expertise in international planning systems (e.g., Hong Kong, China, Vietnam, Malaysia, Thailand, Pakistan, Ethiopia). He was an Assistant Professor at The University of Hong Kong before he joined Manchester.
 
 His research won several prestigious awards, including the RTPI Early Career Academic Award for Research Excellence (Winner) in 2019, the RTPI Commendation Awards in 2019 and 2021; and Finalist (2023); the US Lincoln Institute International Fellowship in 2023, and the HKU Research Output Prize in 2021. He published articles in highly reputable journals, including Urban Studies, Landscape and Urban Planning, Transportation Research Part A, Health & Place, Environment and Planning B, and Town Planning Review. He also published two policy reports. His research was funded by national and international competitive research grants and industry funds (over 1 million GBP as PI and Co-Is).

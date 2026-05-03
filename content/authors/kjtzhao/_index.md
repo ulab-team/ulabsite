@@ -64,6 +64,6 @@ user_groups:
 weight: 20
 ---
 
-**Dr Kristen Zhao* is a Lecturer in Architecture at the Manchester School of Architecture, where her work focuses on experimental urban practices that support people-centred street design. Her research explores street experiments and their impact on urban life during and after the COVID-19 pandemic, alongside broader investigations into urban mobility in cities across northwestern UK. She employs mixed-method approaches to examine mobility transitions, urban analytics, and design-led experimentation.
+Dr Kristen Zhao is a Lecturer in Architecture at the Manchester School of Architecture, where her work focuses on experimental urban practices that support people-centred street design. Her research explores street experiments and their impact on urban life during and after the COVID-19 pandemic, alongside broader investigations into urban mobility in cities across northwestern UK. She employs mixed-method approaches to examine mobility transitions, urban analytics, and design-led experimentation.
 
-Dr Zhao has published ten peer-reviewed articles in leading journals including _Environment and Planning B_ and _Landscape and Urban Planning_. Her research excellence has been recognised with multiple awards, including the Royal Town Planning Institute Commendation in Research Excellence (2022), the HKU Research Output Prize (2022), and the IACP Best Student Paper Award (2021).
+She has published leading journals including _Environment and Planning B_ and _Landscape and Urban Planning_. Her research excellence has been recognised with multiple awards, including the Royal Town Planning Institute Commendation in Research Excellence (2022), the HKU Research Output Prize (2022), and the IACP Best Student Paper Award (2021).

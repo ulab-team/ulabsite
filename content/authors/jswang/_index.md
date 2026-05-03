@@ -63,7 +63,6 @@ user_groups:
 weight: 40
 ---
 
-## Overview 
 Dr Jinahsuo Wang is a Postdoctoral Fellow researching institutional frameworks in urban investment in China. Her research interests focus on exploring the relationships among transport infrastructure provision, land value capture, and urban development from the perspectives of urban governance and institutionalism. She has received research training in urban planning, human geography, and public administration.
 
 Through research in the Greater Bay Area in China, Dr Wang examines how governance and financing influence transit-oriented development (TOD) implementation through comparative policy analysis.

@@ -67,6 +67,8 @@ user_groups:
 
 weight: 35
 ---
-I am a Research Fellow at School of Geography, University of Leeds (link), and at Healthy and Sustainable Places Data Service (HASP), Leeds, UK. Prior to this, I got my PhD degree in Urban Planning and Design from The University of Hong Kong (HKU) in 2025. I also obtained my MPhil degree in Architecture and Urban Studies at the University of Cambridge in 2021,  and bachelor's degree in Urban Planning from Sun Yat-sen University (SYSU),  China in 2020.
+Dr He is a Research Fellow at the School of Geography, University of Leeds and the Healthy and Sustainable Places Data Service. He is also a member of the Urban Mobility Science Lab and the Institute of Spatial Data Science at the University of Leeds. He received his PhD in Urban Planning and Design from the The University of Hong Kong.
+
+His research focuses on the provision of urban infrastructure—such as metro systems and greenways—and their impacts on cities. Using rigorous research designs, including quasi-experimental approaches, he generates evidence to inform transport planning and policymaking. His current work examines the effects of transport interventions, including transit-oriented development and bike lane improvements, as well as policies such as working from home.
 
 

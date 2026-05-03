@@ -62,7 +62,6 @@ user_groups:
 
 weight: 30
 ---
-## Overview
 
 Dr Jieun Lee a Postdoctral Fellow focusing on urban policy evaluation. She is committed to enhancing the efficiency and equity of urban land use, with the goal of creating better spaces for living, working, and recreation. Their research focuses on identifying effective urban planning strategies and the key values that should guide the development of sustainable urban environments. Their ongoing work explores urban land-use planning, housing market dynamics, and the impact of public interventions on people’s health and well-being. Through this research, Dr Lee contributes to advancing more sustainable cities across economic, environmental, and social dimensions.
 
