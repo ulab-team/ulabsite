@@ -1,15 +1,17 @@
 ---
-title: "Measuring volumetric urban design: Compression, multi-level connectedness, and functional mix in transit-oriented developments in Hong Kong"
+title: "Gendered impacts of public transport on social isolation and loneliness among older adults: Evidence from a natural experiment in Hong Kong"
 authors:
-- dshe
 - gbsun
+- ydu
+- Tim Schwanen
 
 author_notes:
-- ""
 - "Corresponding Author"
+- ""
+- ""
 
-date: "2026-02-26T00:00:00Z"
-doi: "10.1177/23998083261425731"
+date: "2025-12-18T00:00:00Z"
+doi: "10.1016/j.healthplace.2025.103593"
 
 # Schedule page publish date (NOT publication's date).
 publishDate: "2026-05-02T00:00:00Z"
