@@ -14,7 +14,7 @@ authors:
 superuser: false
 
 # Role/position
-role: ''
+role: 'Research Fellow'
 
 # Organizations/Affiliations
 organizations:
@@ -22,10 +22,7 @@ organizations:
     url: ''
 
 # Short bio (displayed in user profile at end of posts)
-bio: | 
-    **Dr Dongsheng He** advances sustainable urbanisation through integrated transportation and land use planning. His research explores strategies to promote active travel and implement transit-oriented development (TOD) as pathways to creating more liveable, low-carbon cities.
-
-    His work has examined the mechanisms of land value capture in relation to TOD, identifying how municipalities can leverage this approach to finance expanded transit infrastructure while supporting broader sustainable development goals.
+bio: Dr Dongsheng He advances sustainable urbanisation through integrated transportation and land use planning. His research explores strategies to promote active travel and implement transit-oriented development (TOD) as pathways to creating more liveable, low-carbon cities. His work has examined the mechanisms of land value capture in relation to TOD, identifying how municipalities can leverage this approach to finance expanded transit infrastructure while supporting broader sustainable development goals.
 
 interests:
   - Natural Experiment

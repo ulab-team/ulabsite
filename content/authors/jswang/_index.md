@@ -14,7 +14,7 @@ authors:
 superuser: false
 
 # Role/position
-role: ''
+role: 'Postdoctoral Fellow'
 
 # Organizations/Affiliations
 organizations:

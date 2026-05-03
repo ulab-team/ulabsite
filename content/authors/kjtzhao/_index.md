@@ -14,7 +14,7 @@ authors:
 superuser: false
 
 # Role/position
-role: Deputy-director
+role: Deputy Director
 
 # Organizations/Affiliations
 organizations:

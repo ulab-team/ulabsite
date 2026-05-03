@@ -14,7 +14,7 @@ authors:
 superuser: false
 
 # Role/position
-role: ''
+role: 'Postdoctoral Fellow'
 
 # Organizations/Affiliations
 organizations:
@@ -23,7 +23,7 @@ organizations:
 
 # Short bio (displayed in user profile at end of posts)
 bio: |
-    **Dr Yao Du** investigates causal links between public transport changes and older adults' travel behavior, social engagement, and well-being. Older people face mobility challenges, so transport modifications can impact accessibility, social connections, and well-being. She explores how interventions shape travel adaptation and how psycho-social and environmental factors mediate behavior change impacting well-being.
+    Dr Yao Du investigates causal links between public transport changes and older adults' travel behavior, social engagement, and well-being. Older people face mobility challenges, so transport modifications can impact accessibility, social connections, and well-being. She explores how interventions shape travel adaptation and how psycho-social and environmental factors mediate behavior change impacting well-being.
 
 interests:
   - Natural Experiment
