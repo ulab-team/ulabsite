@@ -14,7 +14,7 @@ date: "2025-12-18T00:00:00Z"
 doi: "10.1016/j.healthplace.2025.103593"
 
 # Schedule page publish date (NOT publication's date).
-publishDate: "2026-05-03T00:00:00Z"
+publishDate: "2026-05-02T00:00:00Z"
 
 # Publication type.
 # Accepts a single type but formatted as a YAML list (for Hugo requirements).
